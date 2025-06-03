@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="WaterBody_class">
+	<gml:name>WaterBody_class</gml:name>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>70000</gml:description>
+			<gml:name>Vatten</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id2">
+			<gml:description>71000</gml:description>
+			<gml:name>Inlandsvatten</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
+			<gml:description>72000</gml:description>
+			<gml:name>Hav</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

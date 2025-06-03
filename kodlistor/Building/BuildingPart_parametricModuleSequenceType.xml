@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="BuildingPart_parametricModuleSequenceType">
+	<gml:name>BuildingPart_parametricModuleSequenceType</gml:name>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>10000</gml:description>
+			<gml:name>Lagerbyggnad</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id2">
+			<gml:description>10100</gml:description>
+			<gml:name>Skyskrapa</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
+			<gml:description>10200</gml:description>
+			<gml:name>Servicebyggnad</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id4">
+			<gml:description>10300</gml:description>
+			<gml:name>Bostadshus med butikslokal</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id5">
+			<gml:description>10400</gml:description>
+			<gml:name>Bostadshus utan butikslokal</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id6">
+			<gml:description>10500</gml:description>
+			<gml:name>Kontorsbyggnad med butikslokal</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id7">
+			<gml:description>10600</gml:description>
+			<gml:name>Kontorsbyggnad utan butikslokal</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>

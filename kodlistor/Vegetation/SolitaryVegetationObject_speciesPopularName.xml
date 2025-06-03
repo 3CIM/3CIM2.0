@@ -1,0 +1,5362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="SolitaryVegetationObject_speciesPopularName">
+	<gml:name>SolitaryVegetationObject_speciesPopularName</gml:name>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id1">
+			<gml:description>Adriafikon</gml:description>
+			<gml:name>10000</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id2">
+			<gml:description>Al</gml:description>
+			<gml:name>10001</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
+			<gml:description>Algergran</gml:description>
+			<gml:name>10002</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id4">
+			<gml:description>Alm</gml:description>
+			<gml:name>10003</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id5">
+			<gml:description>Alpgullregn</gml:description>
+			<gml:name>10004</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id6">
+			<gml:description>Alptry</gml:description>
+			<gml:name>10005</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id7">
+			<gml:description>Altaigran</gml:description>
+			<gml:name>10006</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id8">
+			<gml:description>Ambraträd</gml:description>
+			<gml:name>10007</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id9">
+			<gml:description>Amerikansk ask</gml:description>
+			<gml:name>10008</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id10">
+			<gml:description>Amerikansk asp</gml:description>
+			<gml:name>10009</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id11">
+			<gml:description>Amerikansk avenbok</gml:description>
+			<gml:name>10010</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id12">
+			<gml:description>Amerikansk bok</gml:description>
+			<gml:name>10011</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id13">
+			<gml:description>Amerikansk bäralm</gml:description>
+			<gml:name>10012</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id14">
+			<gml:description>Amerikansk hagtorn</gml:description>
+			<gml:name>10013</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id15">
+			<gml:description>Amerikansk humlebok</gml:description>
+			<gml:name>10014</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id16">
+			<gml:description>Amerikansk pelarek</gml:description>
+			<gml:name>10015</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id17">
+			<gml:description>Amerikansk persimon</gml:description>
+			<gml:name>10016</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id18">
+			<gml:description>Amerikansk perukbuske</gml:description>
+			<gml:name>10017</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id19">
+			<gml:description>Amerikansk platan</gml:description>
+			<gml:name>10018</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id20">
+			<gml:description>Amerikansk rönn</gml:description>
+			<gml:name>10019</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id21">
+			<gml:description>Amerikansk sekvoja</gml:description>
+			<gml:name>10020</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id22">
+			<gml:description>Amerikansk strimlönn</gml:description>
+			<gml:name>10021</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id23">
+			<gml:description>Amerikansk trollhassel</gml:description>
+			<gml:name>10022</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id24">
+			<gml:description>Amerikanskt judasträd</gml:description>
+			<gml:name>10023</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id25">
+			<gml:description>Apel</gml:description>
+			<gml:name>10024</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id26">
+			<gml:description>Aprikos</gml:description>
+			<gml:name>10025</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id27">
+			<gml:description>Arizonacypress</gml:description>
+			<gml:name>10026</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id28">
+			<gml:description>Asimina</gml:description>
+			<gml:name>10027</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id29">
+			<gml:description>Ask</gml:description>
+			<gml:name>10028</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id30">
+			<gml:description>Asklönn</gml:description>
+			<gml:name>10029</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id31">
+			<gml:description>Asp</gml:description>
+			<gml:name>10030</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id32">
+			<gml:description>Astridrönn</gml:description>
+			<gml:name>10031</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id33">
+			<gml:description>Atlasceder</gml:description>
+			<gml:name>10032</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id34">
+			<gml:description>Avarönn</gml:description>
+			<gml:name>10033</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id35">
+			<gml:description>Avenbok</gml:description>
+			<gml:name>10034</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id36">
+			<gml:description>Avenbokslönn</gml:description>
+			<gml:name>10035</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id37">
+			<gml:description>Balkanoxel</gml:description>
+			<gml:name>10036</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id38">
+			<gml:description>Balkansvarttall</gml:description>
+			<gml:name>10037</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id39">
+			<gml:description>Balsamgran</gml:description>
+			<gml:name>10038</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id40">
+			<gml:description>Balsampoppel</gml:description>
+			<gml:name>10039</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id41">
+			<gml:description>Banksianatall</gml:description>
+			<gml:name>10040</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id42">
+			<gml:description>Barnäpple</gml:description>
+			<gml:name>10041</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id43">
+			<gml:description>Bentry</gml:description>
+			<gml:name>10042</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id44">
+			<gml:description>Benved</gml:description>
+			<gml:name>10043</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id45">
+			<gml:description>Berberis</gml:description>
+			<gml:name>10044</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id46">
+			<gml:description>Bergalm</gml:description>
+			<gml:name>10045</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id47">
+			<gml:description>Bergek</gml:description>
+			<gml:name>10046</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id48">
+			<gml:description>Berggran</gml:description>
+			<gml:name>10047</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id49">
+			<gml:description>Berghemlock</gml:description>
+			<gml:name>10048</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id50">
+			<gml:description>Berghäggmispel</gml:description>
+			<gml:name>10049</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id51">
+			<gml:description>Bergkörsbär</gml:description>
+			<gml:name>10050</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id52">
+			<gml:description>Bergoxel</gml:description>
+			<gml:name>10051</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id53">
+			<gml:description>Bergtall</gml:description>
+			<gml:name>10052</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id54">
+			<gml:description>Berlineral</gml:description>
+			<gml:name>10053</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id55">
+			<gml:description>Berlinerpoppel</gml:description>
+			<gml:name>10054</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id56">
+			<gml:description>Besksöta</gml:description>
+			<gml:name>10055</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id57">
+			<gml:description>Bindvide</gml:description>
+			<gml:name>10056</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id58">
+			<gml:description>Birgittarönn</gml:description>
+			<gml:name>10057</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id59">
+			<gml:description>Bitternötshickory</gml:description>
+			<gml:name>10058</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id60">
+			<gml:description>Björk</gml:description>
+			<gml:name>10059</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id61">
+			<gml:description>Björkal</gml:description>
+			<gml:name>10060</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id62">
+			<gml:description>Black jack-ek</gml:description>
+			<gml:name>10061</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id63">
+			<gml:description>Blekgul tok</gml:description>
+			<gml:name>10062</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id64">
+			<gml:description>Blekspirea</gml:description>
+			<gml:name>10063</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id65">
+			<gml:description>Blekvide</gml:description>
+			<gml:name>10064</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id66">
+			<gml:description>Blodbok</gml:description>
+			<gml:name>10065</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id67">
+			<gml:description>Blodhassel</gml:description>
+			<gml:name>10066</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id68">
+			<gml:description>Blodhägg</gml:description>
+			<gml:name>10067</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id69">
+			<gml:description>Blodlönn</gml:description>
+			<gml:name>10068</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id70">
+			<gml:description>Blodplommon</gml:description>
+			<gml:name>10069</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id71">
+			<gml:description>Blomsterkornell</gml:description>
+			<gml:name>10070</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id72">
+			<gml:description>Blyerts-en</gml:description>
+			<gml:name>10071</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id73">
+			<gml:description>Blå atlasceder</gml:description>
+			<gml:name>10072</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id74">
+			<gml:description>Blå douglasgran</gml:description>
+			<gml:name>10073</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id75">
+			<gml:description>Blå järnek</gml:description>
+			<gml:name>10074</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id76">
+			<gml:description>Blå kaskadgran</gml:description>
+			<gml:name>10075</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id77">
+			<gml:description>Blå spanskgran</gml:description>
+			<gml:name>10076</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id78">
+			<gml:description>Blågran</gml:description>
+			<gml:name>10077</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id79">
+			<gml:description>Blåhallon</gml:description>
+			<gml:name>10078</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id80">
+			<gml:description>Blåhägg</gml:description>
+			<gml:name>10079</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id81">
+			<gml:description>Blåsärt</gml:description>
+			<gml:name>10080</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id82">
+			<gml:description>Blåtry</gml:description>
+			<gml:name>10081</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id83">
+			<gml:description>Bocktörne</gml:description>
+			<gml:name>10082</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id84">
+			<gml:description>Bohuslind</gml:description>
+			<gml:name>10083</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id85">
+			<gml:description>Bok</gml:description>
+			<gml:name>10084</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id86">
+			<gml:description>Brakved</gml:description>
+			<gml:name>10085</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id87">
+			<gml:description>Bredbladig buxbom</gml:description>
+			<gml:name>10086</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id88">
+			<gml:description>Bredbladig liguster</gml:description>
+			<gml:name>10087</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id89">
+			<gml:description>Bredbladig spirea</gml:description>
+			<gml:name>10088</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id90">
+			<gml:description>Bredbladigt bocktörne</gml:description>
+			<gml:name>10089</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id91">
+			<gml:description>Bredspirea</gml:description>
+			<gml:name>10090</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id92">
+			<gml:description>Brokbladig tysklönn</gml:description>
+			<gml:name>10091</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id93">
+			<gml:description>Brokig tysklönn</gml:description>
+			<gml:name>10092</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id94">
+			<gml:description>Brudspirea</gml:description>
+			<gml:name>10093</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id95">
+			<gml:description>Brödgran</gml:description>
+			<gml:name>10094</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id96">
+			<gml:description>Bukettapel</gml:description>
+			<gml:name>10095</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id97">
+			<gml:description>Bukettros</gml:description>
+			<gml:name>10096</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id98">
+			<gml:description>Bukettspirea</gml:description>
+			<gml:name>10097</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id99">
+			<gml:description>Bunge's bäralm</gml:description>
+			<gml:name>10098</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id100">
+			<gml:description>Bush's ek</gml:description>
+			<gml:name>10099</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id101">
+			<gml:description>Buskmagnolia</gml:description>
+			<gml:name>10100</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id102">
+			<gml:description>Busktörne</gml:description>
+			<gml:name>10101</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id103">
+			<gml:description>Buxbom</gml:description>
+			<gml:name>10102</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id104">
+			<gml:description>Bågidegran</gml:description>
+			<gml:name>10103</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id105">
+			<gml:description>Bäralm</gml:description>
+			<gml:name>10104</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id106">
+			<gml:description>Bärapel</gml:description>
+			<gml:name>10105</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id107">
+			<gml:description>Bärhäggmispel</gml:description>
+			<gml:name>10106</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id108">
+			<gml:description>Ceder</gml:description>
+			<gml:name>10107</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id109">
+			<gml:description>Cedertuja</gml:description>
+			<gml:name>10108</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id110">
+			<gml:description>Cembratall</gml:description>
+			<gml:name>10109</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id111">
+			<gml:description>Centifolieros</gml:description>
+			<gml:name>10110</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id112">
+			<gml:description>Chinkapin-ek</gml:description>
+			<gml:name>10111</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id113">
+			<gml:description>Chitalpa</gml:description>
+			<gml:name>10112</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id114">
+			<gml:description>Cinnoberapel</gml:description>
+			<gml:name>10113</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id115">
+			<gml:description>Citrusmullbär</gml:description>
+			<gml:name>10114</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id116">
+			<gml:description>Coloradogran</gml:description>
+			<gml:name>10115</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id117">
+			<gml:description>Commixta-rönn</gml:description>
+			<gml:name>10116</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id118">
+			<gml:description>Contortatall</gml:description>
+			<gml:name>10117</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id119">
+			<gml:description>Coultertall</gml:description>
+			<gml:name>10118</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id120">
+			<gml:description>Daggros</gml:description>
+			<gml:name>10119</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id121">
+			<gml:description>Daggvide</gml:description>
+			<gml:name>10120</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id122">
+			<gml:description>Damascenerros</gml:description>
+			<gml:name>10121</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id123">
+			<gml:description>Dansk lönn</gml:description>
+			<gml:name>10122</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id124">
+			<gml:description>Deutzia</gml:description>
+			<gml:name>10123</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id125">
+			<gml:description>Doftschersmin</gml:description>
+			<gml:name>10124</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id126">
+			<gml:description>Douglasgran</gml:description>
+			<gml:name>10125</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id127">
+			<gml:description>Douglasspirea</gml:description>
+			<gml:name>10126</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id128">
+			<gml:description>Druvfläder</gml:description>
+			<gml:name>10127</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id129">
+			<gml:description>Dubbelblommande fågelbär</gml:description>
+			<gml:name>10128</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id130">
+			<gml:description>Dubbelblommande hästkastanj</gml:description>
+			<gml:name>10129</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id131">
+			<gml:description>Dvärgbenved</gml:description>
+			<gml:name>10130</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id132">
+			<gml:description>Dvärgbjörk</gml:description>
+			<gml:name>10131</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id133">
+			<gml:description>Dvärglönn</gml:description>
+			<gml:name>10132</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id134">
+			<gml:description>Dvärgmandel</gml:description>
+			<gml:name>10133</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id135">
+			<gml:description>Dvärgvide</gml:description>
+			<gml:name>10134</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id136">
+			<gml:description>Ek</gml:description>
+			<gml:name>10135</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id137">
+			<gml:description>En</gml:description>
+			<gml:name>10136</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id138">
+			<gml:description>Engelmannsgran</gml:description>
+			<gml:name>10137</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id139">
+			<gml:description>Europeisk bäralm</gml:description>
+			<gml:name>10138</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id140">
+			<gml:description>Europeisk lärk</gml:description>
+			<gml:name>10139</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id141">
+			<gml:description>Everestbjörk</gml:description>
+			<gml:name>10140</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id142">
+			<gml:description>Fagerrönn</gml:description>
+			<gml:name>10141</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id143">
+			<gml:description>Falskt korkträd</gml:description>
+			<gml:name>10142</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id144">
+			<gml:description>Farges' kejsarträd</gml:description>
+			<gml:name>10143</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id145">
+			<gml:description>Feberbuske</gml:description>
+			<gml:name>10144</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id146">
+			<gml:description>Fikon</gml:description>
+			<gml:name>10145</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id147">
+			<gml:description>Filberthassel</gml:description>
+			<gml:name>10146</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id148">
+			<gml:description>Filtros</gml:description>
+			<gml:name>10147</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id149">
+			<gml:description>Fingrad jättearalia</gml:description>
+			<gml:name>10148</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id150">
+			<gml:description>Finnmyrten</gml:description>
+			<gml:name>10149</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id151">
+			<gml:description>Finnoxel</gml:description>
+			<gml:name>10150</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id152">
+			<gml:description>Finnros</gml:description>
+			<gml:name>10151</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id153">
+			<gml:description>Finnvide</gml:description>
+			<gml:name>10152</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id154">
+			<gml:description>Fjällbjörk</gml:description>
+			<gml:name>10153</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id155">
+			<gml:description>Fjällen</gml:description>
+			<gml:name>10154</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id156">
+			<gml:description>Fjällodon</gml:description>
+			<gml:name>10155</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id157">
+			<gml:description>Flikbladig avenbok</gml:description>
+			<gml:name>10156</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id158">
+			<gml:description>Flikbladig björk</gml:description>
+			<gml:name>10157</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id159">
+			<gml:description>Flikbladig ek</gml:description>
+			<gml:name>10158</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id160">
+			<gml:description>Flikbladig gråal</gml:description>
+			<gml:name>10159</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id161">
+			<gml:description>Flikbladig klibbal</gml:description>
+			<gml:name>10160</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id162">
+			<gml:description>Flikbladig silverlönn</gml:description>
+			<gml:name>10161</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id163">
+			<gml:description>Flikbok</gml:description>
+			<gml:name>10162</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id164">
+			<gml:description>Flikros</gml:description>
+			<gml:name>10163</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id165">
+			<gml:description>Fliksumak</gml:description>
+			<gml:name>10164</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id166">
+			<gml:description>Flockoxbär</gml:description>
+			<gml:name>10165</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id167">
+			<gml:description>Fläder</gml:description>
+			<gml:name>10166</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id168">
+			<gml:description>Fontenayspirea</gml:description>
+			<gml:name>10167</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id169">
+			<gml:description>Fontänpil</gml:description>
+			<gml:name>10168</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id170">
+			<gml:description>Forsythia</gml:description>
+			<gml:name>10169</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id171">
+			<gml:description>Franklinia</gml:description>
+			<gml:name>10170</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id172">
+			<gml:description>Fransbjörk</gml:description>
+			<gml:name>10171</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id173">
+			<gml:description>Fransk bergtall</gml:description>
+			<gml:name>10172</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id174">
+			<gml:description>Franslind</gml:description>
+			<gml:name>10173</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id175">
+			<gml:description>Fransspirea</gml:description>
+			<gml:name>10174</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id176">
+			<gml:description>Freemanlönn</gml:description>
+			<gml:name>10175</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id177">
+			<gml:description>Frilandshibiskus</gml:description>
+			<gml:name>10176</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id178">
+			<gml:description>Fujigran</gml:description>
+			<gml:name>10177</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id179">
+			<gml:description>Fur</gml:description>
+			<gml:name>10178</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id180">
+			<gml:description>Fylldblommig hästkastanj</gml:description>
+			<gml:name>10179</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id181">
+			<gml:description>Fylldblommigt fågelbär</gml:description>
+			<gml:name>10180</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id182">
+			<gml:description>Fågelbär</gml:description>
+			<gml:name>10181</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id183">
+			<gml:description>Färgek</gml:description>
+			<gml:name>10182</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id184">
+			<gml:description>Färgginst</gml:description>
+			<gml:name>10183</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id185">
+			<gml:description>Getapel</gml:description>
+			<gml:name>10184</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id186">
+			<gml:description>Getpors</gml:description>
+			<gml:name>10185</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id187">
+			<gml:description>Gingko</gml:description>
+			<gml:name>10186</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id188">
+			<gml:description>Ginnalalönn</gml:description>
+			<gml:name>10187</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id189">
+			<gml:description>Ginst</gml:description>
+			<gml:name>10188</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id190">
+			<gml:description>Girald's gudaträd</gml:description>
+			<gml:name>10189</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id191">
+			<gml:description>Glandelvide</gml:description>
+			<gml:name>10190</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id192">
+			<gml:description>Glanshagtorn</gml:description>
+			<gml:name>10191</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id193">
+			<gml:description>Glanshägg</gml:description>
+			<gml:name>10192</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id194">
+			<gml:description>Glanskörsbär</gml:description>
+			<gml:name>10193</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id195">
+			<gml:description>Glanslind</gml:description>
+			<gml:name>10194</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id196">
+			<gml:description>Glanspil</gml:description>
+			<gml:name>10195</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id197">
+			<gml:description>Glansros</gml:description>
+			<gml:name>10196</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id198">
+			<gml:description>Glansvide</gml:description>
+			<gml:name>10197</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id199">
+			<gml:description>Glasbjörk</gml:description>
+			<gml:name>10198</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id200">
+			<gml:description>Goliatpoppel</gml:description>
+			<gml:name>10199</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id201">
+			<gml:description>Goliattuja</gml:description>
+			<gml:name>10200</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id202">
+			<gml:description>Gran</gml:description>
+			<gml:name>10201</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id203">
+			<gml:description>Grovsågad häggmispel</gml:description>
+			<gml:name>10202</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id204">
+			<gml:description>Gruppinventering, blandade trädarter</gml:description>
+			<gml:name>10203</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id205">
+			<gml:description>Grå valnöt</gml:description>
+			<gml:name>10204</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id206">
+			<gml:description>Gråal</gml:description>
+			<gml:name>10205</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id207">
+			<gml:description>Gråpoppel</gml:description>
+			<gml:name>10206</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id208">
+			<gml:description>Gråsälg</gml:description>
+			<gml:name>10207</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id209">
+			<gml:description>Gråvide</gml:description>
+			<gml:name>10208</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id210">
+			<gml:description>Grönpil</gml:description>
+			<gml:name>10209</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id211">
+			<gml:description>Grönvide</gml:description>
+			<gml:name>10210</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id212">
+			<gml:description>Gudaträd</gml:description>
+			<gml:name>10211</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id213">
+			<gml:description>Gul robinia</gml:description>
+			<gml:name>10212</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id214">
+			<gml:description>Gulbarkig ask</gml:description>
+			<gml:name>10213</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id215">
+			<gml:description>Gulbjörk</gml:description>
+			<gml:name>10214</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id216">
+			<gml:description>Gulbladig engelsk alm</gml:description>
+			<gml:name>10215</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id217">
+			<gml:description>Gulbladig solfjäderslönn</gml:description>
+			<gml:name>10216</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id218">
+			<gml:description>Gulbladig sykomorlönn</gml:description>
+			<gml:name>10217</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id219">
+			<gml:description>Gulblommig hästkastanj</gml:description>
+			<gml:name>10218</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id220">
+			<gml:description>Guldal</gml:description>
+			<gml:name>10219</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id221">
+			<gml:description>Guldalm</gml:description>
+			<gml:name>10220</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id222">
+			<gml:description>Guldlärk</gml:description>
+			<gml:name>10221</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id223">
+			<gml:description>Gulkronill</gml:description>
+			<gml:name>10222</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id224">
+			<gml:description>Gullklematis</gml:description>
+			<gml:name>10223</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id225">
+			<gml:description>Gullregn</gml:description>
+			<gml:name>10224</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id226">
+			<gml:description>Gullregnsginst</gml:description>
+			<gml:name>10225</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id227">
+			<gml:description>Gullrips</gml:description>
+			<gml:name>10226</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id228">
+			<gml:description>Gulpil</gml:description>
+			<gml:name>10227</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id229">
+			<gml:description>Gultall</gml:description>
+			<gml:name>10228</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id230">
+			<gml:description>Gulved</gml:description>
+			<gml:name>10229</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id231">
+			<gml:description>Guttaperkaträd</gml:description>
+			<gml:name>10230</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id232">
+			<gml:description>Hagtorn</gml:description>
+			<gml:name>10231</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id233">
+			<gml:description>Hallon</gml:description>
+			<gml:name>10232</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id234">
+			<gml:description>Harris</gml:description>
+			<gml:name>10233</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id235">
+			<gml:description>Hartsros</gml:description>
+			<gml:name>10234</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id236">
+			<gml:description>Hassel</gml:description>
+			<gml:name>10235</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id237">
+			<gml:description>Hasselnöt</gml:description>
+			<gml:name>10236</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id238">
+			<gml:description>Havtorn</gml:description>
+			<gml:name>10237</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id239">
+			<gml:description>Helbladig ask</gml:description>
+			<gml:name>10238</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id240">
+			<gml:description>Helbladig robinia</gml:description>
+			<gml:name>10239</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id241">
+			<gml:description>Hemlock</gml:description>
+			<gml:name>10240</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id242">
+			<gml:description>Hiba</gml:description>
+			<gml:name>10241</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id243">
+			<gml:description>Himalayabjörk</gml:description>
+			<gml:name>10242</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id244">
+			<gml:description>Himalayaceder</gml:description>
+			<gml:name>10243</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id245">
+			<gml:description>Himalayahavtorn</gml:description>
+			<gml:name>10244</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id246">
+			<gml:description>Himalayatall</gml:description>
+			<gml:name>10245</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id247">
+			<gml:description>Himalayatall</gml:description>
+			<gml:name>10246</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id248">
+			<gml:description>Hjärtavenbok</gml:description>
+			<gml:name>10247</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id249">
+			<gml:description>Hjärtvalnöt</gml:description>
+			<gml:name>10248</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id250">
+			<gml:description>Hollandsvinbär</gml:description>
+			<gml:name>10249</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id251">
+			<gml:description>Holländsk alm</gml:description>
+			<gml:name>10250</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id252">
+			<gml:description>Honshubuskal</gml:description>
+			<gml:name>10251</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id253">
+			<gml:description>Humlebok</gml:description>
+			<gml:name>10252</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id254">
+			<gml:description>Huvudginst</gml:description>
+			<gml:name>10253</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id255">
+			<gml:description>Hybridalm</gml:description>
+			<gml:name>10254</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id256">
+			<gml:description>Hybridek</gml:description>
+			<gml:name>10255</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id257">
+			<gml:description>Hybridforsythia</gml:description>
+			<gml:name>10256</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id258">
+			<gml:description>Hybridgullregn</gml:description>
+			<gml:name>10257</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id259">
+			<gml:description>Hybridkejsarolvon</gml:description>
+			<gml:name>10258</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id260">
+			<gml:description>Hybridkörsbär</gml:description>
+			<gml:name>10259</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id261">
+			<gml:description>Hybridlärk</gml:description>
+			<gml:name>10260</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id262">
+			<gml:description>Hybridmagnolia</gml:description>
+			<gml:name>10261</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id263">
+			<gml:description>Hybridolvon</gml:description>
+			<gml:name>10262</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id264">
+			<gml:description>Hybridperukbuske</gml:description>
+			<gml:name>10263</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id265">
+			<gml:description>Hybridsnöbär</gml:description>
+			<gml:name>10264</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id266">
+			<gml:description>Hybridtall</gml:description>
+			<gml:name>10265</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id267">
+			<gml:description>Hybridtrollhassel</gml:description>
+			<gml:name>10266</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id268">
+			<gml:description>Hybridvingnöt</gml:description>
+			<gml:name>10267</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id269">
+			<gml:description>Hybrilblomsterkornell</gml:description>
+			<gml:name>10268</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id270">
+			<gml:description>Hylle</gml:description>
+			<gml:name>10269</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id271">
+			<gml:description>Hårginst</gml:description>
+			<gml:name>10270</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id272">
+			<gml:description>Häckberberis</gml:description>
+			<gml:name>10271</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id273">
+			<gml:description>Häckhagtorn</gml:description>
+			<gml:name>10272</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id274">
+			<gml:description>Häckkaragan</gml:description>
+			<gml:name>10273</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id275">
+			<gml:description>Häckoxbär</gml:description>
+			<gml:name>10274</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id276">
+			<gml:description>Häckoxel</gml:description>
+			<gml:name>10275</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id277">
+			<gml:description>Häckpoppel</gml:description>
+			<gml:name>10276</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id278">
+			<gml:description>Häckspirea</gml:description>
+			<gml:name>10277</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id279">
+			<gml:description>Häckvide</gml:description>
+			<gml:name>10278</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id280">
+			<gml:description>Hägg</gml:description>
+			<gml:name>10279</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id281">
+			<gml:description>Häggmispel</gml:description>
+			<gml:name>10280</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id282">
+			<gml:description>Hängalm</gml:description>
+			<gml:name>10281</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id283">
+			<gml:description>Hängask</gml:description>
+			<gml:name>10282</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id284">
+			<gml:description>Hängbjörk</gml:description>
+			<gml:name>10283</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id285">
+			<gml:description>Hängblodbok</gml:description>
+			<gml:name>10284</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id286">
+			<gml:description>Hängbok</gml:description>
+			<gml:name>10285</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id287">
+			<gml:description>Hängcypress</gml:description>
+			<gml:name>10286</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id288">
+			<gml:description>Hängek</gml:description>
+			<gml:name>10287</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id289">
+			<gml:description>Häng-gulpil</gml:description>
+			<gml:name>10288</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id290">
+			<gml:description>Hängkatsura</gml:description>
+			<gml:name>10289</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id291">
+			<gml:description>Hängrönn</gml:description>
+			<gml:name>10290</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id292">
+			<gml:description>Hängsilverlind</gml:description>
+			<gml:name>10291</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id293">
+			<gml:description>Hängsyren</gml:description>
+			<gml:name>10292</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id294">
+			<gml:description>Hästkastanj</gml:description>
+			<gml:name>10293</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id295">
+			<gml:description>Hörsholmsalm</gml:description>
+			<gml:name>10294</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id296">
+			<gml:description>Höstpoppel</gml:description>
+			<gml:name>10295</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id297">
+			<gml:description>Höstsilverbuske</gml:description>
+			<gml:name>10296</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id298">
+			<gml:description>Höst-tamarisk</gml:description>
+			<gml:name>10297</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id299">
+			<gml:description>Idegran</gml:description>
+			<gml:name>10298</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id300">
+			<gml:description>Idesia</gml:description>
+			<gml:name>10299</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id301">
+			<gml:description>Irländsk idegran</gml:description>
+			<gml:name>10300</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id302">
+			<gml:description>Italiensk al</gml:description>
+			<gml:name>10301</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id303">
+			<gml:description>Italiensk klematis</gml:description>
+			<gml:name>10302</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id304">
+			<gml:description>Italiensk pelarpoppel</gml:description>
+			<gml:name>10303</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id305">
+			<gml:description>Japansk avenbok</gml:description>
+			<gml:name>10304</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id306">
+			<gml:description>Japansk buskal</gml:description>
+			<gml:name>10305</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id307">
+			<gml:description>Japansk cypress</gml:description>
+			<gml:name>10306</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id308">
+			<gml:description>Japansk feberbuske</gml:description>
+			<gml:name>10307</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id309">
+			<gml:description>Japansk gyllenlönn</gml:description>
+			<gml:name>10308</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id310">
+			<gml:description>Japansk humlebok</gml:description>
+			<gml:name>10309</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id311">
+			<gml:description>Japansk hybridalm</gml:description>
+			<gml:name>10310</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id312">
+			<gml:description>Japansk hängkörsbär</gml:description>
+			<gml:name>10311</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id313">
+			<gml:description>Japansk idegran</gml:description>
+			<gml:name>10312</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id314">
+			<gml:description>Japansk klätterros</gml:description>
+			<gml:name>10313</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id315">
+			<gml:description>Japansk kryptomeria</gml:description>
+			<gml:name>10314</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id316">
+			<gml:description>Japansk körsbär</gml:description>
+			<gml:name>10315</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id317">
+			<gml:description>Japansk körsbärskornell</gml:description>
+			<gml:name>10316</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id318">
+			<gml:description>Japansk ligustersyrén</gml:description>
+			<gml:name>10317</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id319">
+			<gml:description>Japansk lärk</gml:description>
+			<gml:name>10318</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id320">
+			<gml:description>Japansk lönn</gml:description>
+			<gml:name>10319</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id321">
+			<gml:description>Japansk magnolia</gml:description>
+			<gml:name>10320</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id322">
+			<gml:description>Japansk poppel</gml:description>
+			<gml:name>10321</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id323">
+			<gml:description>Japansk prydnadskörsbär</gml:description>
+			<gml:name>10322</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id324">
+			<gml:description>Japansk rönn</gml:description>
+			<gml:name>10323</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id325">
+			<gml:description>Japansk silverbuske</gml:description>
+			<gml:name>10324</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id326">
+			<gml:description>Japansk skenkamelia</gml:description>
+			<gml:name>10325</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id327">
+			<gml:description>Japansk storax</gml:description>
+			<gml:name>10326</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id328">
+			<gml:description>Japansk svarttall</gml:description>
+			<gml:name>10327</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id329">
+			<gml:description>Japansk tall</gml:description>
+			<gml:name>10328</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id330">
+			<gml:description>Japansk torreya</gml:description>
+			<gml:name>10329</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id331">
+			<gml:description>Japansk tårkörsbär</gml:description>
+			<gml:name>10330</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id332">
+			<gml:description>Japansk valnöt</gml:description>
+			<gml:name>10331</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id333">
+			<gml:description>Japansk vingnöt</gml:description>
+			<gml:name>10332</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id334">
+			<gml:description>Japansk zelkova</gml:description>
+			<gml:name>10333</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id335">
+			<gml:description>Japansk ädelcypress</gml:description>
+			<gml:name>10334</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id336">
+			<gml:description>Jasmin</gml:description>
+			<gml:name>10335</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id337">
+			<gml:description>Jasmintry</gml:description>
+			<gml:name>10336</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id338">
+			<gml:description>Jeffreytall</gml:description>
+			<gml:name>10337</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id339">
+			<gml:description>Jerseyalm</gml:description>
+			<gml:name>10338</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id340">
+			<gml:description>Jolster</gml:description>
+			<gml:name>10339</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id341">
+			<gml:description>Judasträd</gml:description>
+			<gml:name>10340</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id342">
+			<gml:description>Jungfruros</gml:description>
+			<gml:name>10341</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id343">
+			<gml:description>Junimagnolia</gml:description>
+			<gml:name>10342</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id344">
+			<gml:description>Junitamarisk</gml:description>
+			<gml:name>10343</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id345">
+			<gml:description>Juvelhagtorn</gml:description>
+			<gml:name>10344</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id346">
+			<gml:description>Jämtlandspoppel</gml:description>
+			<gml:name>10345</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id347">
+			<gml:description>Järnek</gml:description>
+			<gml:name>10346</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id348">
+			<gml:description>Jättearalia</gml:description>
+			<gml:name>10347</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id349">
+			<gml:description>Jätteasp</gml:description>
+			<gml:name>10348</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id350">
+			<gml:description>Jättebjörk</gml:description>
+			<gml:name>10349</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id351">
+			<gml:description>Jättepoppel</gml:description>
+			<gml:name>10350</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id352">
+			<gml:description>Jättetuja</gml:description>
+			<gml:name>10351</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id353">
+			<gml:description>Jättevitoxel</gml:description>
+			<gml:name>10352</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id354">
+			<gml:description>Kaki</gml:description>
+			<gml:name>10353</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id355">
+			<gml:description>Kal häggmispel</gml:description>
+			<gml:name>10354</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id356">
+			<gml:description>Kalifornisk asklönn</gml:description>
+			<gml:name>10355</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id357">
+			<gml:description>Kalifornisk svartek</gml:description>
+			<gml:name>10356</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id358">
+			<gml:description>Kamtjatkabjörk</gml:description>
+			<gml:name>10357</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id359">
+			<gml:description>Kamtjatkaros</gml:description>
+			<gml:name>10358</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id360">
+			<gml:description>Kanadahagtorn</gml:description>
+			<gml:name>10359</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id361">
+			<gml:description>Kanadapoppel</gml:description>
+			<gml:name>10360</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id362">
+			<gml:description>Kanadensisk hagtorn</gml:description>
+			<gml:name>10361</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id363">
+			<gml:description>Kanadensisk häggmispel</gml:description>
+			<gml:name>10362</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id364">
+			<gml:description>Kanelros</gml:description>
+			<gml:name>10363</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id365">
+			<gml:description>Kaprifol</gml:description>
+			<gml:name>10364</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id366">
+			<gml:description>Karelsk gråal</gml:description>
+			<gml:name>10365</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id367">
+			<gml:description>Kaskadgran</gml:description>
+			<gml:name>10366</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id368">
+			<gml:description>Kaskadpil</gml:description>
+			<gml:name>10367</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id369">
+			<gml:description>Kaspiskt korstörne</gml:description>
+			<gml:name>10368</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id370">
+			<gml:description>Kastanj</gml:description>
+			<gml:name>10369</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id371">
+			<gml:description>Kastanjebladig ek</gml:description>
+			<gml:name>10370</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id372">
+			<gml:description>Kastanjek</gml:description>
+			<gml:name>10371</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id373">
+			<gml:description>Katalpa</gml:description>
+			<gml:name>10372</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id374">
+			<gml:description>Katsura</gml:description>
+			<gml:name>10373</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id375">
+			<gml:description>Kaukasisk pimpernöt</gml:description>
+			<gml:name>10374</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id376">
+			<gml:description>Kaukasisk vingnöt</gml:description>
+			<gml:name>10375</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id377">
+			<gml:description>Kaukasisk zelkova</gml:description>
+			<gml:name>10376</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id378">
+			<gml:description>Kaukasiskt päron</gml:description>
+			<gml:name>10377</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id379">
+			<gml:description>Kejsarlind</gml:description>
+			<gml:name>10378</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id380">
+			<gml:description>Kejsarolvon</gml:description>
+			<gml:name>10379</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id381">
+			<gml:description>Kejsarträd</gml:description>
+			<gml:name>10380</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id382">
+			<gml:description>Kentuckykaffeträd</gml:description>
+			<gml:name>10381</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id383">
+			<gml:description>Kinesisk blomsterkornell</gml:description>
+			<gml:name>10382</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id384">
+			<gml:description>Kinesisk bok</gml:description>
+			<gml:name>10383</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id385">
+			<gml:description>Kinesisk en</gml:description>
+			<gml:name>10384</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id386">
+			<gml:description>Kinesisk järnek</gml:description>
+			<gml:name>10385</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id387">
+			<gml:description>Kinesisk katalpa</gml:description>
+			<gml:name>10386</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id388">
+			<gml:description>Kinesisk platantall</gml:description>
+			<gml:name>10387</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id389">
+			<gml:description>Kinesisk poppel</gml:description>
+			<gml:name>10388</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id390">
+			<gml:description>Kinesisk sekvoja</gml:description>
+			<gml:name>10389</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id391">
+			<gml:description>Kinesisk tall</gml:description>
+			<gml:name>10390</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id392">
+			<gml:description>Kinesisk toon</gml:description>
+			<gml:name>10391</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id393">
+			<gml:description>Kinesisk vildpersika</gml:description>
+			<gml:name>10392</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id394">
+			<gml:description>Kinesisk vingnöt</gml:description>
+			<gml:name>10393</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id395">
+			<gml:description>Kinesisk vårmagnolia</gml:description>
+			<gml:name>10394</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id396">
+			<gml:description>Kinesisk zelkova</gml:description>
+			<gml:name>10395</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id397">
+			<gml:description>Kinesiskt flamträd</gml:description>
+			<gml:name>10396</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id398">
+			<gml:description>Kinesiskt gummiträd</gml:description>
+			<gml:name>10397</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id399">
+			<gml:description>Kinesiskt päron</gml:description>
+			<gml:name>10398</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id400">
+			<gml:description>Kinesträd</gml:description>
+			<gml:name>10399</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id401">
+			<gml:description>Klarbär</gml:description>
+			<gml:name>10400</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id402">
+			<gml:description>Klasespirea</gml:description>
+			<gml:name>10401</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id403">
+			<gml:description>Klematis</gml:description>
+			<gml:name>10402</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id404">
+			<gml:description>Klibbal</gml:description>
+			<gml:name>10403</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id405">
+			<gml:description>Klibbrobinia</gml:description>
+			<gml:name>10404</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id406">
+			<gml:description>Klippoxel</gml:description>
+			<gml:name>10405</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id407">
+			<gml:description>Klotkörsbär</gml:description>
+			<gml:name>10406</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id408">
+			<gml:description>Klotlönn</gml:description>
+			<gml:name>10407</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id409">
+			<gml:description>Klotpil</gml:description>
+			<gml:name>10408</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id410">
+			<gml:description>Klotrobinia</gml:description>
+			<gml:name>10409</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id411">
+			<gml:description>Klådris</gml:description>
+			<gml:name>10410</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id412">
+			<gml:description>Klätterhortensia</gml:description>
+			<gml:name>10411</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id413">
+			<gml:description>Klättervildvin</gml:description>
+			<gml:name>10412</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id414">
+			<gml:description>Klöveralm</gml:description>
+			<gml:name>10413</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id415">
+			<gml:description>Knap hill körsbär</gml:description>
+			<gml:name>10414</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id416">
+			<gml:description>Knäckepil</gml:description>
+			<gml:name>10415</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id417">
+			<gml:description>Koloradogran</gml:description>
+			<gml:name>10416</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id418">
+			<gml:description>Kopparbjörk</gml:description>
+			<gml:name>10417</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id419">
+			<gml:description>Kopparhäggmispel</gml:description>
+			<gml:name>10418</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id420">
+			<gml:description>Kopparlönn</gml:description>
+			<gml:name>10419</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id421">
+			<gml:description>Kopparröd häggmispel</gml:description>
+			<gml:name>10420</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id422">
+			<gml:description>Korallapel</gml:description>
+			<gml:name>10421</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id423">
+			<gml:description>Korallhagtorn</gml:description>
+			<gml:name>10422</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id424">
+			<gml:description>Korallkornell</gml:description>
+			<gml:name>10423</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id425">
+			<gml:description>Korallpil</gml:description>
+			<gml:name>10424</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id426">
+			<gml:description>Korallsumak</gml:description>
+			<gml:name>10425</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id427">
+			<gml:description>Koreagran</gml:description>
+			<gml:name>10426</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id428">
+			<gml:description>Koreansk blomsterkornell</gml:description>
+			<gml:name>10427</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id429">
+			<gml:description>Koreansk silverbuske</gml:description>
+			<gml:name>10428</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id430">
+			<gml:description>Koreansk tuja</gml:description>
+			<gml:name>10429</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id431">
+			<gml:description>Koreatall</gml:description>
+			<gml:name>10430</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id432">
+			<gml:description>Koreatry</gml:description>
+			<gml:name>10431</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id433">
+			<gml:description>Korgvide</gml:description>
+			<gml:name>10432</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id434">
+			<gml:description>Korkalm</gml:description>
+			<gml:name>10433</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id435">
+			<gml:description>Korkträd</gml:description>
+			<gml:name>10434</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id436">
+			<gml:description>Kornell</gml:description>
+			<gml:name>10435</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id437">
+			<gml:description>Korsikansk svarttall</gml:description>
+			<gml:name>10436</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id438">
+			<gml:description>Korsikansk tall</gml:description>
+			<gml:name>10437</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id439">
+			<gml:description>Korstörne</gml:description>
+			<gml:name>10438</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id440">
+			<gml:description>Kranskornell</gml:description>
+			<gml:name>10439</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id441">
+			<gml:description>Krikon</gml:description>
+			<gml:name>10440</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id442">
+			<gml:description>Kristtorn</gml:description>
+			<gml:name>10441</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id443">
+			<gml:description>Krusbär</gml:description>
+			<gml:name>10442</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id444">
+			<gml:description>Krypginst</gml:description>
+			<gml:name>10443</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id445">
+			<gml:description>Kryptomeria</gml:description>
+			<gml:name>10444</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id446">
+			<gml:description>Krypvide</gml:description>
+			<gml:name>10445</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id447">
+			<gml:description>Kungslind</gml:description>
+			<gml:name>10446</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id448">
+			<gml:description>Kustgran</gml:description>
+			<gml:name>10447</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id449">
+			<gml:description>Kvastspirea</gml:description>
+			<gml:name>10448</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id450">
+			<gml:description>Kvitten</gml:description>
+			<gml:name>10449</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id451">
+			<gml:description>Kärrek</gml:description>
+			<gml:name>10450</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id452">
+			<gml:description>Körsbär</gml:description>
+			<gml:name>10451</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id453">
+			<gml:description>Körsbärsbenved</gml:description>
+			<gml:name>10452</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id454">
+			<gml:description>Körsbärsbjörk</gml:description>
+			<gml:name>10453</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id455">
+			<gml:description>Körsbärskornell</gml:description>
+			<gml:name>10454</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id456">
+			<gml:description>Körsbärsoxel</gml:description>
+			<gml:name>10455</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id457">
+			<gml:description>Körsbärsplommon</gml:description>
+			<gml:name>10456</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id458">
+			<gml:description>Körtelvide</gml:description>
+			<gml:name>10457</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id459">
+			<gml:description>Lagerhägg</gml:description>
+			<gml:name>10458</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id460">
+			<gml:description>Lagerpoppel</gml:description>
+			<gml:name>10459</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id461">
+			<gml:description>Lappvide</gml:description>
+			<gml:name>10460</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id462">
+			<gml:description>Lappvinbär</gml:description>
+			<gml:name>10461</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id463">
+			<gml:description>Lavendelvide</gml:description>
+			<gml:name>10462</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id464">
+			<gml:description>Leylandcypress</gml:description>
+			<gml:name>10463</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id465">
+			<gml:description>Libanonceder</gml:description>
+			<gml:name>10464</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id466">
+			<gml:description>Libanonek</gml:description>
+			<gml:name>10465</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id467">
+			<gml:description>Liguster</gml:description>
+			<gml:name>10466</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id468">
+			<gml:description>Ligustersyren</gml:description>
+			<gml:name>10467</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id469">
+			<gml:description>Liljemagnolia</gml:description>
+			<gml:name>10468</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id470">
+			<gml:description>Lind</gml:description>
+			<gml:name>10469</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id471">
+			<gml:description>Lingonoxbär</gml:description>
+			<gml:name>10470</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id472">
+			<gml:description>Liten rosenkvitten</gml:description>
+			<gml:name>10471</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id473">
+			<gml:description>Liten serbgran</gml:description>
+			<gml:name>10472</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id474">
+			<gml:description>Litet kinapäron</gml:description>
+			<gml:name>10473</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id475">
+			<gml:description>Luddginst</gml:description>
+			<gml:name>10474</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id476">
+			<gml:description>Luddhagtorn</gml:description>
+			<gml:name>10475</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id477">
+			<gml:description>Luddros</gml:description>
+			<gml:name>10476</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id478">
+			<gml:description>Luddspirea</gml:description>
+			<gml:name>10477</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id479">
+			<gml:description>Luktschersmin</gml:description>
+			<gml:name>10478</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id480">
+			<gml:description>Lundalm</gml:description>
+			<gml:name>10479</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id481">
+			<gml:description>Lyckobladsbuske</gml:description>
+			<gml:name>10480</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id482">
+			<gml:description>Lärk</gml:description>
+			<gml:name>10481</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id483">
+			<gml:description>Lönn</gml:description>
+			<gml:name>10482</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id484">
+			<gml:description>Maackia</gml:description>
+			<gml:name>10483</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id485">
+			<gml:description>Magnolia</gml:description>
+			<gml:name>10484</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id486">
+			<gml:description>Mahognykörsbär</gml:description>
+			<gml:name>10485</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id487">
+			<gml:description>Mahonia</gml:description>
+			<gml:name>10486</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id488">
+			<gml:description>Makedonisk tall</gml:description>
+			<gml:name>10487</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id489">
+			<gml:description>Mammutträd</gml:description>
+			<gml:name>10488</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id490">
+			<gml:description>Manchurisk strimlönn</gml:description>
+			<gml:name>10489</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id491">
+			<gml:description>Manchurisk valnöt</gml:description>
+			<gml:name>10490</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id492">
+			<gml:description>Manchuriskt päron</gml:description>
+			<gml:name>10491</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id493">
+			<gml:description>Mandel</gml:description>
+			<gml:name>10492</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id494">
+			<gml:description>Mandelpil</gml:description>
+			<gml:name>10493</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id495">
+			<gml:description>Mannaask</gml:description>
+			<gml:name>10494</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id496">
+			<gml:description>Margarettarobinia</gml:description>
+			<gml:name>10495</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id497">
+			<gml:description>Marylandspoppel</gml:description>
+			<gml:name>10496</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id498">
+			<gml:description>Masurbjörk</gml:description>
+			<gml:name>10497</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id499">
+			<gml:description>Mexikansk hagtorn</gml:description>
+			<gml:name>10498</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id500">
+			<gml:description>Mispel</gml:description>
+			<gml:name>10499</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id501">
+			<gml:description>Mistel</gml:description>
+			<gml:name>10500</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id502">
+			<gml:description>Mongollind</gml:description>
+			<gml:name>10501</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id503">
+			<gml:description>Montereytall</gml:description>
+			<gml:name>10502</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id504">
+			<gml:description>Mullbär</gml:description>
+			<gml:name>10503</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id505">
+			<gml:description>Murgröna</gml:description>
+			<gml:name>10504</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id506">
+			<gml:description>Måbär</gml:description>
+			<gml:name>10505</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id507">
+			<gml:description>Narrbuske</gml:description>
+			<gml:name>10506</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id508">
+			<gml:description>Naverlönn</gml:description>
+			<gml:name>10507</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id509">
+			<gml:description>Nikkogran</gml:description>
+			<gml:name>10508</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id510">
+			<gml:description>Nordhägg</gml:description>
+			<gml:name>10509</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id511">
+			<gml:description>Nordisk ros</gml:description>
+			<gml:name>10510</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id512">
+			<gml:description>Nordmannsgran</gml:description>
+			<gml:name>10511</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id513">
+			<gml:description>Nordrönn</gml:description>
+			<gml:name>10512</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id514">
+			<gml:description>Norskoxel</gml:description>
+			<gml:name>10513</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id515">
+			<gml:description>Nutkacypress</gml:description>
+			<gml:name>10514</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id516">
+			<gml:description>Nutkahallon</gml:description>
+			<gml:name>10515</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id517">
+			<gml:description>Nuttall's ek</gml:description>
+			<gml:name>10516</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id518">
+			<gml:description>Nyponros</gml:description>
+			<gml:name>10517</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id519">
+			<gml:description>Nyssa</gml:description>
+			<gml:name>10518</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id520">
+			<gml:description>Nålginst</gml:description>
+			<gml:name>10519</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id521">
+			<gml:description>Näbbskenkamelia</gml:description>
+			<gml:name>10520</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id522">
+			<gml:description>Näsduksträd, duvträd</gml:description>
+			<gml:name>10521</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id523">
+			<gml:description>Nätvide</gml:description>
+			<gml:name>10522</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id524">
+			<gml:description>Näverhägg</gml:description>
+			<gml:name>10523</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id525">
+			<gml:description>Odon</gml:description>
+			<gml:name>10524</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id526">
+			<gml:description>Odonvide</gml:description>
+			<gml:name>10525</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id527">
+			<gml:description>Okänd</gml:description>
+			<gml:name>10526</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id528">
+			<gml:description>Olvon</gml:description>
+			<gml:name>10527</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id529">
+			<gml:description>Ontariopoppel</gml:description>
+			<gml:name>10528</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id530">
+			<gml:description>Orientalisk avenbok</gml:description>
+			<gml:name>10529</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id531">
+			<gml:description>Orientalisk bok</gml:description>
+			<gml:name>10530</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id532">
+			<gml:description>Orientalisk platan</gml:description>
+			<gml:name>10531</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id533">
+			<gml:description>Orientalisk tuja</gml:description>
+			<gml:name>10532</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id534">
+			<gml:description>Orientgran</gml:description>
+			<gml:name>10533</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id535">
+			<gml:description>Ormgran</gml:description>
+			<gml:name>10534</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id536">
+			<gml:description>Ormskinnstall</gml:description>
+			<gml:name>10535</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id537">
+			<gml:description>Ornäsbjörk</gml:description>
+			<gml:name>10536</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id538">
+			<gml:description>Ornäsbjörk e</gml:description>
+			<gml:name>10537</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id539">
+			<gml:description>Oxbär</gml:description>
+			<gml:name>10538</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id540">
+			<gml:description>Oxel</gml:description>
+			<gml:name>10539</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id541">
+			<gml:description>Pagodkornell</gml:description>
+			<gml:name>10540</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id542">
+			<gml:description>Pagodträd</gml:description>
+			<gml:name>10541</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id543">
+			<gml:description>Papegojbuske</gml:description>
+			<gml:name>10542</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id544">
+			<gml:description>Pappersbjörk</gml:description>
+			<gml:name>10543</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id545">
+			<gml:description>Pappersmullbär</gml:description>
+			<gml:name>10544</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id546">
+			<gml:description>Paradisbuske</gml:description>
+			<gml:name>10545</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id547">
+			<gml:description>Paraplyalm</gml:description>
+			<gml:name>10546</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id548">
+			<gml:description>Paraplymagnolia</gml:description>
+			<gml:name>10547</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id549">
+			<gml:description>Parkaralia</gml:description>
+			<gml:name>10548</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id550">
+			<gml:description>Parkhagtorn</gml:description>
+			<gml:name>10549</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id551">
+			<gml:description>Parklind</gml:description>
+			<gml:name>10550</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id552">
+			<gml:description>Parkolvon</gml:description>
+			<gml:name>10551</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id553">
+			<gml:description>Parksyren</gml:description>
+			<gml:name>10552</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id554">
+			<gml:description>Pekanhickory</gml:description>
+			<gml:name>10553</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id555">
+			<gml:description>Pekingsyren</gml:description>
+			<gml:name>10554</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id556">
+			<gml:description>Pelaral</gml:description>
+			<gml:name>10555</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id557">
+			<gml:description>Pelarapel</gml:description>
+			<gml:name>10556</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id558">
+			<gml:description>Pelarasp</gml:description>
+			<gml:name>10557</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id559">
+			<gml:description>Pelaravenbok</gml:description>
+			<gml:name>10558</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id560">
+			<gml:description>Pelarbok</gml:description>
+			<gml:name>10559</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id561">
+			<gml:description>Pelarbärapel</gml:description>
+			<gml:name>10560</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id562">
+			<gml:description>Pelarek</gml:description>
+			<gml:name>10561</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id563">
+			<gml:description>Pelargingko</gml:description>
+			<gml:name>10562</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id564">
+			<gml:description>Pelarkörsbär</gml:description>
+			<gml:name>10563</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id565">
+			<gml:description>Pelarlönn</gml:description>
+			<gml:name>10564</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id566">
+			<gml:description>Pelarpoppel</gml:description>
+			<gml:name>10565</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id567">
+			<gml:description>Pelarrönn</gml:description>
+			<gml:name>10566</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id568">
+			<gml:description>Pelartall</gml:description>
+			<gml:name>10567</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id569">
+			<gml:description>Pelartuja</gml:description>
+			<gml:name>10568</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id570">
+			<gml:description>Pelartulpanträd</gml:description>
+			<gml:name>10569</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id571">
+			<gml:description>Pelaräpple</gml:description>
+			<gml:name>10570</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id572">
+			<gml:description>Persika</gml:description>
+			<gml:name>10571</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id573">
+			<gml:description>Persikomandel</gml:description>
+			<gml:name>10572</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id574">
+			<gml:description>Persisk ek</gml:description>
+			<gml:name>10573</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id575">
+			<gml:description>Perukbuske</gml:description>
+			<gml:name>10574</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id576">
+			<gml:description>Pichtagran</gml:description>
+			<gml:name>10575</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id577">
+			<gml:description>Pil</gml:description>
+			<gml:name>10576</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id578">
+			<gml:description>Pimpernöt</gml:description>
+			<gml:name>10577</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id579">
+			<gml:description>Pimpinellros</gml:description>
+			<gml:name>10578</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id580">
+			<gml:description>Pinje</gml:description>
+			<gml:name>10579</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id581">
+			<gml:description>Pipranka</gml:description>
+			<gml:name>10580</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id582">
+			<gml:description>Platan</gml:description>
+			<gml:name>10581</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id583">
+			<gml:description>Plommon</gml:description>
+			<gml:name>10582</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id584">
+			<gml:description>Plommonros</gml:description>
+			<gml:name>10583</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id585">
+			<gml:description>Polarvide</gml:description>
+			<gml:name>10584</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id586">
+			<gml:description>Poppel</gml:description>
+			<gml:name>10585</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id587">
+			<gml:description>Poppelmagnolia</gml:description>
+			<gml:name>10586</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id588">
+			<gml:description>Pors</gml:description>
+			<gml:name>10587</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id589">
+			<gml:description>Portugisisk lagerhägg</gml:description>
+			<gml:name>10588</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id590">
+			<gml:description>Pragolvon</gml:description>
+			<gml:name>10589</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id591">
+			<gml:description>Prakthäggmispel</gml:description>
+			<gml:name>10590</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id592">
+			<gml:description>Praktkatalpa</gml:description>
+			<gml:name>10591</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id593">
+			<gml:description>Praktkörsbär</gml:description>
+			<gml:name>10592</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id594">
+			<gml:description>Praktmagnolia</gml:description>
+			<gml:name>10593</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id595">
+			<gml:description>Praktpoppel</gml:description>
+			<gml:name>10594</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id596">
+			<gml:description>Praktrönn</gml:description>
+			<gml:name>10595</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id597">
+			<gml:description>Prickhagtorn</gml:description>
+			<gml:name>10596</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id598">
+			<gml:description>Provinsros</gml:description>
+			<gml:name>10597</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id599">
+			<gml:description>Prunkhallon</gml:description>
+			<gml:name>10598</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id600">
+			<gml:description>Prydnadsapel</gml:description>
+			<gml:name>10599</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id601">
+			<gml:description>Prydnadskörsbär</gml:description>
+			<gml:name>10600</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id602">
+			<gml:description>Puktörne</gml:description>
+			<gml:name>10601</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id603">
+			<gml:description>Punjabsumak</gml:description>
+			<gml:name>10602</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id604">
+			<gml:description>Purpurapel</gml:description>
+			<gml:name>10603</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id605">
+			<gml:description>Purpurfälder</gml:description>
+			<gml:name>10604</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id606">
+			<gml:description>Purpurgran</gml:description>
+			<gml:name>10605</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id607">
+			<gml:description>Purpurkatalpa</gml:description>
+			<gml:name>10606</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id608">
+			<gml:description>Purpurspirea</gml:description>
+			<gml:name>10607</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id609">
+			<gml:description>Pyramidalm</gml:description>
+			<gml:name>10608</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id610">
+			<gml:description>Pyramidavenbok</gml:description>
+			<gml:name>10609</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id611">
+			<gml:description>Pyramidek</gml:description>
+			<gml:name>10610</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id612">
+			<gml:description>Pyramidhästkastanj</gml:description>
+			<gml:name>10611</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id613">
+			<gml:description>Pyramidpoppel</gml:description>
+			<gml:name>10612</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id614">
+			<gml:description>Pyramidsilverlönn</gml:description>
+			<gml:name>10613</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id615">
+			<gml:description>Pyreneisk ek</gml:description>
+			<gml:name>10614</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id616">
+			<gml:description>Pärlemorrönn</gml:description>
+			<gml:name>10615</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id617">
+			<gml:description>Pärlhagtorn</gml:description>
+			<gml:name>10616</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id618">
+			<gml:description>Pärlhägg</gml:description>
+			<gml:name>10617</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id619">
+			<gml:description>Pärlrönn</gml:description>
+			<gml:name>10618</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id620">
+			<gml:description>Pärlsvansbuske</gml:description>
+			<gml:name>10619</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id621">
+			<gml:description>Päron</gml:description>
+			<gml:name>10620</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id622">
+			<gml:description>Radiohusek</gml:description>
+			<gml:name>10621</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id623">
+			<gml:description>Ripvide</gml:description>
+			<gml:name>10622</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id624">
+			<gml:description>Risvide</gml:description>
+			<gml:name>10623</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id625">
+			<gml:description>Robinia</gml:description>
+			<gml:name>10624</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id626">
+			<gml:description>Ros</gml:description>
+			<gml:name>10625</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id627">
+			<gml:description>Rosenapel</gml:description>
+			<gml:name>10626</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id628">
+			<gml:description>Rosenhagtorn</gml:description>
+			<gml:name>10627</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id629">
+			<gml:description>Rosenhallon</gml:description>
+			<gml:name>10628</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id630">
+			<gml:description>Rosenkvitten</gml:description>
+			<gml:name>10629</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id631">
+			<gml:description>Rosenmagnolia</gml:description>
+			<gml:name>10630</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id632">
+			<gml:description>Rosenmandel</gml:description>
+			<gml:name>10631</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id633">
+			<gml:description>Rosenoxbär</gml:description>
+			<gml:name>10632</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id634">
+			<gml:description>Rosenrips</gml:description>
+			<gml:name>10633</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id635">
+			<gml:description>Rosenspirea</gml:description>
+			<gml:name>10634</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id636">
+			<gml:description>Rosentry</gml:description>
+			<gml:name>10635</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id637">
+			<gml:description>Rosmarinvide</gml:description>
+			<gml:name>10636</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id638">
+			<gml:description>Rosmarirönn</gml:description>
+			<gml:name>10637</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id639">
+			<gml:description>Rostlönn</gml:description>
+			<gml:name>10638</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id640">
+			<gml:description>Rundhagtorn</gml:description>
+			<gml:name>10639</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id641">
+			<gml:description>Rundoxel</gml:description>
+			<gml:name>10640</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id642">
+			<gml:description>Rynkalm</gml:description>
+			<gml:name>10641</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id643">
+			<gml:description>Rynkolvon</gml:description>
+			<gml:name>10642</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id644">
+			<gml:description>Rynkoxbär</gml:description>
+			<gml:name>10643</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id645">
+			<gml:description>Rysk lönn</gml:description>
+			<gml:name>10644</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id646">
+			<gml:description>Ryssros</gml:description>
+			<gml:name>10645</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id647">
+			<gml:description>Ryssvide</gml:description>
+			<gml:name>10646</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id648">
+			<gml:description>Rävsvanstall</gml:description>
+			<gml:name>10647</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id649">
+			<gml:description>Röd tysklönn</gml:description>
+			<gml:name>10648</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id650">
+			<gml:description>Röda vinbär</gml:description>
+			<gml:name>10649</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id651">
+			<gml:description>Rödask</gml:description>
+			<gml:name>10650</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id652">
+			<gml:description>Rödbladig perukbuske</gml:description>
+			<gml:name>10651</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id653">
+			<gml:description>Rödbladig turkisklönn</gml:description>
+			<gml:name>10652</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id654">
+			<gml:description>Rödbladig tysklönn</gml:description>
+			<gml:name>10653</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id655">
+			<gml:description>Rödblommig hästkastanj</gml:description>
+			<gml:name>10654</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id656">
+			<gml:description>Rödblommig robinia</gml:description>
+			<gml:name>10655</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id657">
+			<gml:description>Rödek</gml:description>
+			<gml:name>10656</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id658">
+			<gml:description>Röd-en</gml:description>
+			<gml:name>10657</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id659">
+			<gml:description>Rödgrenig bohuslind</gml:description>
+			<gml:name>10658</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id660">
+			<gml:description>Rödlönn</gml:description>
+			<gml:name>10659</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id661">
+			<gml:description>Rödvide</gml:description>
+			<gml:name>10660</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id662">
+			<gml:description>Rönn</gml:description>
+			<gml:name>10661</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id663">
+			<gml:description>Rönnbärsapel</gml:description>
+			<gml:name>10662</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id664">
+			<gml:description>Rönnspirea</gml:description>
+			<gml:name>10663</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id665">
+			<gml:description>Rönnsumak</gml:description>
+			<gml:name>10664</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id666">
+			<gml:description>Sachalingran</gml:description>
+			<gml:name>10665</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id667">
+			<gml:description>Sachalinvide</gml:description>
+			<gml:name>10666</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id668">
+			<gml:description>Sammetsvide</gml:description>
+			<gml:name>10667</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id669">
+			<gml:description>Sandvide</gml:description>
+			<gml:name>10668</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id670">
+			<gml:description>Scharlakansek</gml:description>
+			<gml:name>10669</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id671">
+			<gml:description>Scharlakanshagtorn</gml:description>
+			<gml:name>10670</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id672">
+			<gml:description>Scheideckerapel</gml:description>
+			<gml:name>10671</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id673">
+			<gml:description>Schersmin</gml:description>
+			<gml:name>10672</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id674">
+			<gml:description>Schneider's zelkova</gml:description>
+			<gml:name>10673</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id675">
+			<gml:description>Serbgran</gml:description>
+			<gml:name>10674</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id676">
+			<gml:description>Serbisk gran</gml:description>
+			<gml:name>10675</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id677">
+			<gml:description>Sibirisk apel</gml:description>
+			<gml:name>10676</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id678">
+			<gml:description>Sibirisk gran</gml:description>
+			<gml:name>10677</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id679">
+			<gml:description>Sibirisk hagtorn</gml:description>
+			<gml:name>10678</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id680">
+			<gml:description>Sibirisk lärk</gml:description>
+			<gml:name>10679</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id681">
+			<gml:description>Sibirisk poppel</gml:description>
+			<gml:name>10680</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id682">
+			<gml:description>Sibirisk spirea</gml:description>
+			<gml:name>10681</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id683">
+			<gml:description>Sibirisk tall</gml:description>
+			<gml:name>10682</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id684">
+			<gml:description>Sibirisk ärtbuske</gml:description>
+			<gml:name>10683</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id685">
+			<gml:description>Sibiriskt korkträd</gml:description>
+			<gml:name>10684</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id686">
+			<gml:description>Silverbuske</gml:description>
+			<gml:name>10685</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id687">
+			<gml:description>Silvergran</gml:description>
+			<gml:name>10686</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id688">
+			<gml:description>Silverhagtorn</gml:description>
+			<gml:name>10687</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id689">
+			<gml:description>Silverlind</gml:description>
+			<gml:name>10688</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id690">
+			<gml:description>Silverlönn</gml:description>
+			<gml:name>10689</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id691">
+			<gml:description>Silveroxel</gml:description>
+			<gml:name>10690</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id692">
+			<gml:description>Silverpil</gml:description>
+			<gml:name>10691</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id693">
+			<gml:description>Silverpoppel</gml:description>
+			<gml:name>10692</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id694">
+			<gml:description>Silverpäron</gml:description>
+			<gml:name>10693</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id695">
+			<gml:description>Silvertall</gml:description>
+			<gml:name>10694</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id696">
+			<gml:description>Silvrig vitoxel</gml:description>
+			<gml:name>10695</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id697">
+			<gml:description>Sitkaal</gml:description>
+			<gml:name>10696</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id698">
+			<gml:description>Sitkagran</gml:description>
+			<gml:name>10697</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id699">
+			<gml:description>Skafthagtorn</gml:description>
+			<gml:name>10698</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id700">
+			<gml:description>Skenhassel</gml:description>
+			<gml:name>10699</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id701">
+			<gml:description>Skidhickory</gml:description>
+			<gml:name>10700</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id702">
+			<gml:description>Skogsalm</gml:description>
+			<gml:name>10701</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id703">
+			<gml:description>Skogsek</gml:description>
+			<gml:name>10702</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id704">
+			<gml:description>Skogsklematis</gml:description>
+			<gml:name>10703</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id705">
+			<gml:description>Skogskornell</gml:description>
+			<gml:name>10704</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id706">
+			<gml:description>Skogslind</gml:description>
+			<gml:name>10705</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id707">
+			<gml:description>Skogslönn</gml:description>
+			<gml:name>10706</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id708">
+			<gml:description>Skogsolvon</gml:description>
+			<gml:name>10707</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id709">
+			<gml:description>Skogstry</gml:description>
+			<gml:name>10708</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id710">
+			<gml:description>Skogsvinbär</gml:description>
+			<gml:name>10709</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id711">
+			<gml:description>Skruvpil</gml:description>
+			<gml:name>10710</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id712">
+			<gml:description>Skvattram</gml:description>
+			<gml:name>10711</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id713">
+			<gml:description>Skär hybridrobinia</gml:description>
+			<gml:name>10712</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id714">
+			<gml:description>Skärmtry</gml:description>
+			<gml:name>10713</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id715">
+			<gml:description>Skörpil</gml:description>
+			<gml:name>10714</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id716">
+			<gml:description>Slottsvinbär</gml:description>
+			<gml:name>10715</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id717">
+			<gml:description>Slån</gml:description>
+			<gml:name>10716</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id718">
+			<gml:description>Slöjgran</gml:description>
+			<gml:name>10717</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id719">
+			<gml:description>Smalbladig ask</gml:description>
+			<gml:name>10718</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id720">
+			<gml:description>Smalbladig buxbom</gml:description>
+			<gml:name>10719</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id721">
+			<gml:description>Smalbladig silverbuske</gml:description>
+			<gml:name>10720</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id722">
+			<gml:description>Smalkronigt trubbhagtorn</gml:description>
+			<gml:name>10721</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id723">
+			<gml:description>Smultronträd</gml:description>
+			<gml:name>10722</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id724">
+			<gml:description>Småavenbok</gml:description>
+			<gml:name>10723</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id725">
+			<gml:description>Småblommig hästkastanj</gml:description>
+			<gml:name>10724</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id726">
+			<gml:description>Smällspirea</gml:description>
+			<gml:name>10725</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id727">
+			<gml:description>Snöbollsbuske</gml:description>
+			<gml:name>10726</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id728">
+			<gml:description>Snöbär</gml:description>
+			<gml:name>10727</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id729">
+			<gml:description>Snöpäron</gml:description>
+			<gml:name>10728</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id730">
+			<gml:description>Sockerlönn</gml:description>
+			<gml:name>10729</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id731">
+			<gml:description>Sommarek</gml:description>
+			<gml:name>10730</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id732">
+			<gml:description>Spetsbladigt daggvide</gml:description>
+			<gml:name>10731</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id733">
+			<gml:description>Spetsdaggvide</gml:description>
+			<gml:name>10732</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id734">
+			<gml:description>Spetshagtorn</gml:description>
+			<gml:name>10733</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id735">
+			<gml:description>Spirea</gml:description>
+			<gml:name>10734</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id736">
+			<gml:description>Sporrhagtorn</gml:description>
+			<gml:name>10735</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id737">
+			<gml:description>Spånek</gml:description>
+			<gml:name>10736</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id738">
+			<gml:description>Spärroxbär</gml:description>
+			<gml:name>10737</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id739">
+			<gml:description>Stefanandra</gml:description>
+			<gml:name>10738</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id740">
+			<gml:description>Stenek</gml:description>
+			<gml:name>10739</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id741">
+			<gml:description>Stenros</gml:description>
+			<gml:name>10740</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id742">
+			<gml:description>Stickgran</gml:description>
+			<gml:name>10741</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id743">
+			<gml:description>Stinkhästkastanj</gml:description>
+			<gml:name>10742</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id744">
+			<gml:description>Stjärnmagnolia</gml:description>
+			<gml:name>10743</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id745">
+			<gml:description>Storbladig al</gml:description>
+			<gml:name>10744</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id746">
+			<gml:description>Storbladig magnolia</gml:description>
+			<gml:name>10745</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id747">
+			<gml:description>Storbladig murgröna</gml:description>
+			<gml:name>10746</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id748">
+			<gml:description>Storbladig poppel</gml:description>
+			<gml:name>10747</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id749">
+			<gml:description>Storbladig storax</gml:description>
+			<gml:name>10748</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id750">
+			<gml:description>Storblommig hägg</gml:description>
+			<gml:name>10749</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id751">
+			<gml:description>Storblommig häggmispel</gml:description>
+			<gml:name>10750</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id752">
+			<gml:description>Storblommig skenhassel</gml:description>
+			<gml:name>10751</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id753">
+			<gml:description>Storblommigt snödroppsträd</gml:description>
+			<gml:name>10752</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id754">
+			<gml:description>Storfruktig ek</gml:description>
+			<gml:name>10753</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id755">
+			<gml:description>Storspirea</gml:description>
+			<gml:name>10754</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id756">
+			<gml:description>Strandek</gml:description>
+			<gml:name>10755</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id757">
+			<gml:description>Strandtall</gml:description>
+			<gml:name>10756</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id758">
+			<gml:description>Strimlönn</gml:description>
+			<gml:name>10757</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id759">
+			<gml:description>Strävdeutzia</gml:description>
+			<gml:name>10758</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id760">
+			<gml:description>Sumpcypress</gml:description>
+			<gml:name>10759</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id761">
+			<gml:description>Surkörsbär</gml:description>
+			<gml:name>10760</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id762">
+			<gml:description>Surtorn</gml:description>
+			<gml:name>10761</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id763">
+			<gml:description>Svart</gml:description>
+			<gml:name>10762</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id764">
+			<gml:description>Svart mullbär</gml:description>
+			<gml:name>10763</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id765">
+			<gml:description>Svart valnöt</gml:description>
+			<gml:name>10764</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id766">
+			<gml:description>Svarta vinbär</gml:description>
+			<gml:name>10765</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id767">
+			<gml:description>Svartahavspil</gml:description>
+			<gml:name>10766</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id768">
+			<gml:description>Svartask</gml:description>
+			<gml:name>10767</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id769">
+			<gml:description>Svartbjörk</gml:description>
+			<gml:name>10768</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id770">
+			<gml:description>Svartginst</gml:description>
+			<gml:name>10769</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id771">
+			<gml:description>Svartgran</gml:description>
+			<gml:name>10770</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id772">
+			<gml:description>Svartlind</gml:description>
+			<gml:name>10771</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id773">
+			<gml:description>Svartlönn</gml:description>
+			<gml:name>10772</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id774">
+			<gml:description>Svartoxbär</gml:description>
+			<gml:name>10773</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id775">
+			<gml:description>Svartplommon</gml:description>
+			<gml:name>10774</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id776">
+			<gml:description>Svartpoppel</gml:description>
+			<gml:name>10775</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id777">
+			<gml:description>Svarttall</gml:description>
+			<gml:name>10776</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id778">
+			<gml:description>Svarttry</gml:description>
+			<gml:name>10777</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id779">
+			<gml:description>Svartvide</gml:description>
+			<gml:name>10778</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id780">
+			<gml:description>Svensk häggmispel</gml:description>
+			<gml:name>10779</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id781">
+			<gml:description>Sydbok</gml:description>
+			<gml:name>10780</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id782">
+			<gml:description>Sydgullregn</gml:description>
+			<gml:name>10781</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id783">
+			<gml:description>Sykomorlönn</gml:description>
+			<gml:name>10782</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id784">
+			<gml:description>Sykomorlönn</gml:description>
+			<gml:name>10783</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id785">
+			<gml:description>Sylhagtorn</gml:description>
+			<gml:name>10784</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id786">
+			<gml:description>Syren</gml:description>
+			<gml:name>10785</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id787">
+			<gml:description>Sågtandsek</gml:description>
+			<gml:name>10786</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id788">
+			<gml:description>Sälg</gml:description>
+			<gml:name>10787</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id789">
+			<gml:description>Sälg mas</gml:description>
+			<gml:name>10788</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id790">
+			<gml:description>Sätervide</gml:description>
+			<gml:name>10789</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id791">
+			<gml:description>Sötkörsbär</gml:description>
+			<gml:name>10790</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id792">
+			<gml:description>Sötrönn</gml:description>
+			<gml:name>10791</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id793">
+			<gml:description>Taggaralia</gml:description>
+			<gml:name>10792</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id794">
+			<gml:description>Tagginst</gml:description>
+			<gml:name>10793</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id795">
+			<gml:description>Tall</gml:description>
+			<gml:name>10794</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id796">
+			<gml:description>Tamarack</gml:description>
+			<gml:name>10795</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id797">
+			<gml:description>Teapel</gml:description>
+			<gml:name>10796</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id798">
+			<gml:description>Terson</gml:description>
+			<gml:name>10797</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id799">
+			<gml:description>Texasek</gml:description>
+			<gml:name>10798</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id800">
+			<gml:description>Tibast</gml:description>
+			<gml:name>10799</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id801">
+			<gml:description>Tistron</gml:description>
+			<gml:name>10800</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id802">
+			<gml:description>Tok</gml:description>
+			<gml:name>10801</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id803">
+			<gml:description>Tokhassel</gml:description>
+			<gml:name>10802</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id804">
+			<gml:description>Tokyokörsbär</gml:description>
+			<gml:name>10803</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id805">
+			<gml:description>Tornedalsros</gml:description>
+			<gml:name>10804</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id806">
+			<gml:description>Torpspirea</gml:description>
+			<gml:name>10805</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id807">
+			<gml:description>Traslind</gml:description>
+			<gml:name>10806</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id808">
+			<gml:description>Trollhasse</gml:description>
+			<gml:name>10807</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id809">
+			<gml:description>Trollpil</gml:description>
+			<gml:name>10808</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id810">
+			<gml:description>Trubbhagtorn</gml:description>
+			<gml:name>10809</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id811">
+			<gml:description>Try</gml:description>
+			<gml:name>10810</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id812">
+			<gml:description>Trädbuxbom</gml:description>
+			<gml:name>10811</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id813">
+			<gml:description>Träd-en</gml:description>
+			<gml:name>10812</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id814">
+			<gml:description>Trädgårdskaprifol</gml:description>
+			<gml:name>10813</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id815">
+			<gml:description>Trädgårdsvinbär</gml:description>
+			<gml:name>10814</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id816">
+			<gml:description>Trädhagtorn</gml:description>
+			<gml:name>10815</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id817">
+			<gml:description>Träskrödek</gml:description>
+			<gml:name>10816</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id818">
+			<gml:description>Tuja</gml:description>
+			<gml:name>10817</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id819">
+			<gml:description>Tulpanträd</gml:description>
+			<gml:name>10818</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id820">
+			<gml:description>Turkestansk alm</gml:description>
+			<gml:name>10819</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id821">
+			<gml:description>Turkisk ek</gml:description>
+			<gml:name>10820</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id822">
+			<gml:description>Turkisk trädhassel</gml:description>
+			<gml:name>10821</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id823">
+			<gml:description>Tvåfärgad hästkastanj</gml:description>
+			<gml:name>10822</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id824">
+			<gml:description>Tysk ginst</gml:description>
+			<gml:name>10823</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id825">
+			<gml:description>Tysklönn</gml:description>
+			<gml:name>10824</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id826">
+			<gml:description>Tyskoxel</gml:description>
+			<gml:name>10825</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id827">
+			<gml:description>Tyskros</gml:description>
+			<gml:name>10826</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id828">
+			<gml:description>Tårbjörk</gml:description>
+			<gml:name>10827</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id829">
+			<gml:description>Tårpil</gml:description>
+			<gml:name>10828</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id830">
+			<gml:description>Ullek</gml:description>
+			<gml:name>10829</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id831">
+			<gml:description>Ulloxbär</gml:description>
+			<gml:name>10830</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id832">
+			<gml:description>Ullungrönn</gml:description>
+			<gml:name>10831</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id833">
+			<gml:description>Ullvide</gml:description>
+			<gml:name>10832</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id834">
+			<gml:description>Ungersk ek</gml:description>
+			<gml:name>10833</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id835">
+			<gml:description>Ungersk syren</gml:description>
+			<gml:name>10834</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id836">
+			<gml:description>Valnöt</gml:description>
+			<gml:name>10835</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id837">
+			<gml:description>Vejksel</gml:description>
+			<gml:name>10836</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id838">
+			<gml:description>Vide</gml:description>
+			<gml:name>10837</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id839">
+			<gml:description>Videkornell</gml:description>
+			<gml:name>10838</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id840">
+			<gml:description>Videoxbär</gml:description>
+			<gml:name>10839</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id841">
+			<gml:description>Vidjeginst</gml:description>
+			<gml:name>10840</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id842">
+			<gml:description>Viginiahägg</gml:description>
+			<gml:name>10841</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id843">
+			<gml:description>Vildapel</gml:description>
+			<gml:name>10842</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id844">
+			<gml:description>Vildkaprifol</gml:description>
+			<gml:name>10843</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id845">
+			<gml:description>Vildkornell</gml:description>
+			<gml:name>10844</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id846">
+			<gml:description>Vildpäron</gml:description>
+			<gml:name>10845</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id847">
+			<gml:description>Vildvin</gml:description>
+			<gml:name>10846</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id848">
+			<gml:description>Vinbär</gml:description>
+			<gml:name>10847</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id849">
+			<gml:description>Vingbenved</gml:description>
+			<gml:name>10848</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id850">
+			<gml:description>Vingginst</gml:description>
+			<gml:name>10849</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id851">
+			<gml:description>Vinlönn</gml:description>
+			<gml:name>10850</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id852">
+			<gml:description>Vinterek</gml:description>
+			<gml:name>10851</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id853">
+			<gml:description>Vintergrön ek</gml:description>
+			<gml:name>10852</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id854">
+			<gml:description>Vinterkörsbär</gml:description>
+			<gml:name>10853</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id855">
+			<gml:description>Vippspirea</gml:description>
+			<gml:name>10854</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id856">
+			<gml:description>Virginiahägg</gml:description>
+			<gml:name>10855</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id857">
+			<gml:description>Vit syren</gml:description>
+			<gml:name>10856</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id858">
+			<gml:description>Vitask</gml:description>
+			<gml:name>10857</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id859">
+			<gml:description>Vitbrokig asklönn</gml:description>
+			<gml:name>10858</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id860">
+			<gml:description>Vitbrokig skogslönn</gml:description>
+			<gml:name>10859</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id861">
+			<gml:description>Vitgran</gml:description>
+			<gml:name>10860</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id862">
+			<gml:description>Vitoxel</gml:description>
+			<gml:name>10861</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id863">
+			<gml:description>Vitpil</gml:description>
+			<gml:name>10862</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id864">
+			<gml:description>Vitspirea</gml:description>
+			<gml:name>10863</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id865">
+			<gml:description>Vitt mullbär</gml:description>
+			<gml:name>10864</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id866">
+			<gml:description>Vit-tall</gml:description>
+			<gml:name>10865</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id867">
+			<gml:description>Vresalm</gml:description>
+			<gml:name>10866</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id868">
+			<gml:description>Vresbok</gml:description>
+			<gml:name>10867</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id869">
+			<gml:description>Vresros</gml:description>
+			<gml:name>10868</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id870">
+			<gml:description>Vårginst</gml:description>
+			<gml:name>10869</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id871">
+			<gml:description>Vårlönn</gml:description>
+			<gml:name>10870</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id872">
+			<gml:description>Vårtbjörk</gml:description>
+			<gml:name>10871</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id873">
+			<gml:description>Västamerikansk hemlock</gml:description>
+			<gml:name>10872</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id874">
+			<gml:description>Västkustros</gml:description>
+			<gml:name>10873</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id875">
+			<gml:description>Weymouthtall</gml:description>
+			<gml:name>10874</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id876">
+			<gml:description>Wilsonnäsduksträd</gml:description>
+			<gml:name>10875</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id877">
+			<gml:description>Wilsonpoppel</gml:description>
+			<gml:name>10876</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id878">
+			<gml:description>Yellowwood</gml:description>
+			<gml:name>10877</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id879">
+			<gml:description>Yulanmagnolia</gml:description>
+			<gml:name>10878</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id880">
+			<gml:description>Ädelcypress</gml:description>
+			<gml:name>10879</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id881">
+			<gml:description>Ädelgran</gml:description>
+			<gml:name>10880</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id882">
+			<gml:description>Äkta kastanj</gml:description>
+			<gml:name>10881</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id883">
+			<gml:description>Äkta valnöt</gml:description>
+			<gml:name>10882</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id884">
+			<gml:description>Ängsvide</gml:description>
+			<gml:name>10883</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id885">
+			<gml:description>Äppelros</gml:description>
+			<gml:name>10884</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id886">
+			<gml:description>Äppelrönn</gml:description>
+			<gml:name>10885</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id887">
+			<gml:description>Äpple</gml:description>
+			<gml:name>10886</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id888">
+			<gml:description>Ärtcypress</gml:description>
+			<gml:name>10887</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id889">
+			<gml:description>Ärttörne</gml:description>
+			<gml:name>10888</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id890">
+			<gml:description>Ölandstok</gml:description>
+			<gml:name>10889</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id891">
+			<gml:description>Öresundspil</gml:description>
+			<gml:name>10890</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id892">
+			<gml:description>Öronvide</gml:description>
+			<gml:name>10891</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id893">
+			<gml:description>Österikisk oxel</gml:description>
+			<gml:name>10892</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+</gml:Dictionary>
