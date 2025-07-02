@@ -2,1185 +2,1185 @@
 <gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="LandCover_function">
 	<gml:name>LandCover_function</gml:name>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id1">
-			<gml:description>110000</gml:description>
-			<gml:name>Skogsmark på fastmark </gml:name>
+		<gml:Definition gml:id="id198">
+			<gml:description>Skogsmark på fastmark </gml:description>
+			<gml:name>110000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id2">
-			<gml:description>111000</gml:description>
-			<gml:name>Barrskog på fastmark</gml:name>
+		<gml:Definition gml:id="id199">
+			<gml:description>Barrskog på fastmark</gml:description>
+			<gml:name>111000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id3">
-			<gml:description>11000</gml:description>
-			<gml:name>Blandskog på fastmark </gml:name>
+		<gml:Definition gml:id="id200">
+			<gml:description>Blandskog på fastmark </gml:description>
+			<gml:name>11000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id4">
-			<gml:description>113000</gml:description>
-			<gml:name>Lövskog på fastmark</gml:name>
+		<gml:Definition gml:id="id201">
+			<gml:description>Lövskog på fastmark</gml:description>
+			<gml:name>113000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id5">
-			<gml:description>114000</gml:description>
-			<gml:name>Temporärt kal skogsmark (fast)</gml:name>
+		<gml:Definition gml:id="id202">
+			<gml:description>Temporärt kal skogsmark (fast)</gml:description>
+			<gml:name>114000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id6">
-			<gml:description>120000</gml:description>
-			<gml:name>Skogsmark på våtmark </gml:name>
+		<gml:Definition gml:id="id203">
+			<gml:description>Skogsmark på våtmark </gml:description>
+			<gml:name>120000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id7">
-			<gml:description>121000</gml:description>
-			<gml:name>Barrskog på våtmark </gml:name>
+		<gml:Definition gml:id="id204">
+			<gml:description>Barrskog på våtmark </gml:description>
+			<gml:name>121000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id8">
-			<gml:description>122000</gml:description>
-			<gml:name>Blandskog på våtmark </gml:name>
+		<gml:Definition gml:id="id205">
+			<gml:description>Blandskog på våtmark </gml:description>
+			<gml:name>122000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id9">
-			<gml:description>123000</gml:description>
-			<gml:name>Lövskog på våtmark</gml:name>
+		<gml:Definition gml:id="id206">
+			<gml:description>Lövskog på våtmark</gml:description>
+			<gml:name>123000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id10">
-			<gml:description>124000</gml:description>
-			<gml:name>Temporärt kal skogsmark (våt)</gml:name>
+		<gml:Definition gml:id="id207">
+			<gml:description>Temporärt kal skogsmark (våt)</gml:description>
+			<gml:name>124000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id11">
-			<gml:description>210000</gml:description>
-			<gml:name>Öppen våtmark på myr</gml:name>
+		<gml:Definition gml:id="id208">
+			<gml:description>Öppen våtmark på myr</gml:description>
+			<gml:name>210000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id12">
-			<gml:description>211000</gml:description>
-			<gml:name>Buskmyr</gml:name>
+		<gml:Definition gml:id="id209">
+			<gml:description>Buskmyr</gml:description>
+			<gml:name>211000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id13">
-			<gml:description>212000</gml:description>
-			<gml:name>Ristuvemyr</gml:name>
+		<gml:Definition gml:id="id210">
+			<gml:description>Ristuvemyr</gml:description>
+			<gml:name>212000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id14">
-			<gml:description>21300</gml:description>
-			<gml:name>Fastmattemyr, mager</gml:name>
+		<gml:Definition gml:id="id211">
+			<gml:description>Fastmattemyr, mager</gml:description>
+			<gml:name>21300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id15">
-			<gml:description>214000</gml:description>
-			<gml:name>Fastmattemyr, frodig</gml:name>
+		<gml:Definition gml:id="id212">
+			<gml:description>Fastmattemyr, frodig</gml:description>
+			<gml:name>214000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id16">
-			<gml:description>215000</gml:description>
-			<gml:name>Sumpkärr</gml:name>
+		<gml:Definition gml:id="id213">
+			<gml:description>Sumpkärr</gml:description>
+			<gml:name>215000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id17">
-			<gml:description>216000</gml:description>
-			<gml:name>Mjukmattemyr</gml:name>
+		<gml:Definition gml:id="id214">
+			<gml:description>Mjukmattemyr</gml:description>
+			<gml:name>216000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id18">
-			<gml:description>217000</gml:description>
-			<gml:name>Lösbottenmyr</gml:name>
+		<gml:Definition gml:id="id215">
+			<gml:description>Lösbottenmyr</gml:description>
+			<gml:name>217000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id19">
-			<gml:description>220000</gml:description>
-			<gml:name>Strandvåtmark och övrig öppen våtmark</gml:name>
+		<gml:Definition gml:id="id216">
+			<gml:description>Strandvåtmark och övrig öppen våtmark</gml:description>
+			<gml:name>220000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id20">
-			<gml:description>221000</gml:description>
-			<gml:name>Buskvåtmark</gml:name>
+		<gml:Definition gml:id="id217">
+			<gml:description>Buskvåtmark</gml:description>
+			<gml:name>221000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id21">
-			<gml:description>222000</gml:description>
-			<gml:name>Risvåtmark </gml:name>
+		<gml:Definition gml:id="id218">
+			<gml:description>Risvåtmark </gml:description>
+			<gml:name>222000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id22">
-			<gml:description>223000</gml:description>
-			<gml:name>Lågvuxen gräs-starrvåtmark </gml:name>
+		<gml:Definition gml:id="id219">
+			<gml:description>Lågvuxen gräs-starrvåtmark </gml:description>
+			<gml:name>223000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id23">
-			<gml:description>224000</gml:description>
-			<gml:name>Högvuxen gräs-örtvåtmark</gml:name>
+		<gml:Definition gml:id="id220">
+			<gml:description>Högvuxen gräs-örtvåtmark</gml:description>
+			<gml:name>224000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id24">
-			<gml:description>225000</gml:description>
-			<gml:name>Täta högvassar</gml:name>
+		<gml:Definition gml:id="id221">
+			<gml:description>Täta högvassar</gml:description>
+			<gml:name>225000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id25">
-			<gml:description>226000</gml:description>
-			<gml:name>Havsstränder med saltpräglad vegetation</gml:name>
+		<gml:Definition gml:id="id222">
+			<gml:description>Havsstränder med saltpräglad vegetation</gml:description>
+			<gml:name>226000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id26">
-			<gml:description>227000</gml:description>
-			<gml:name>Kalkbleke (Blekvät)</gml:name>
+		<gml:Definition gml:id="id223">
+			<gml:description>Kalkbleke (Blekvät)</gml:description>
+			<gml:name>227000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id27">
-			<gml:description>310000</gml:description>
-			<gml:name>Öppen fastmark utan vegetation </gml:name>
+		<gml:Definition gml:id="id224">
+			<gml:description>Öppen fastmark utan vegetation </gml:description>
+			<gml:name>310000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id28">
-			<gml:description>311000</gml:description>
-			<gml:name>Hällmark (Berg i dagen)</gml:name>
+		<gml:Definition gml:id="id225">
+			<gml:description>Hällmark (Berg i dagen)</gml:description>
+			<gml:name>311000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id29">
-			<gml:description>312000</gml:description>
-			<gml:name>Block-stenmark </gml:name>
+		<gml:Definition gml:id="id226">
+			<gml:description>Block-stenmark </gml:description>
+			<gml:name>312000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id30">
-			<gml:description>313000</gml:description>
-			<gml:name>Grus-sandmark</gml:name>
+		<gml:Definition gml:id="id227">
+			<gml:description>Grus-sandmark</gml:description>
+			<gml:name>313000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id31">
-			<gml:description>320000</gml:description>
-			<gml:name>Öppen fastmark med vegetation </gml:name>
+		<gml:Definition gml:id="id228">
+			<gml:description>Öppen fastmark med vegetation </gml:description>
+			<gml:name>320000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id32">
-			<gml:description>321000</gml:description>
-			<gml:name>Buskmark</gml:name>
+		<gml:Definition gml:id="id229">
+			<gml:description>Buskmark</gml:description>
+			<gml:name>321000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id33">
-			<gml:description>321999</gml:description>
-			<gml:name>Övrig buskmark</gml:name>
+		<gml:Definition gml:id="id230">
+			<gml:description>Övrig buskmark</gml:description>
+			<gml:name>321999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id34">
-			<gml:description>322000</gml:description>
-			<gml:name>Rismark</gml:name>
+		<gml:Definition gml:id="id231">
+			<gml:description>Rismark</gml:description>
+			<gml:name>322000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id35">
-			<gml:description>322999</gml:description>
-			<gml:name>Övrig rismark</gml:name>
+		<gml:Definition gml:id="id232">
+			<gml:description>Övrig rismark</gml:description>
+			<gml:name>322999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id36">
-			<gml:description>323000</gml:description>
-			<gml:name>Gräs-örtmark</gml:name>
+		<gml:Definition gml:id="id233">
+			<gml:description>Gräs-örtmark</gml:description>
+			<gml:name>323000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id37">
-			<gml:description>323100</gml:description>
-			<gml:name>Låg vegetation</gml:name>
+		<gml:Definition gml:id="id234">
+			<gml:description>Låg vegetation</gml:description>
+			<gml:name>323100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id38">
-			<gml:description>323200</gml:description>
-			<gml:name>Gräsmark</gml:name>
+		<gml:Definition gml:id="id235">
+			<gml:description>Gräsmark</gml:description>
+			<gml:name>323200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id39">
-			<gml:description>323300</gml:description>
-			<gml:name>Slåtteräng</gml:name>
+		<gml:Definition gml:id="id236">
+			<gml:description>Slåtteräng</gml:description>
+			<gml:name>323300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id40">
-			<gml:description>323310</gml:description>
-			<gml:name>Slåtter utan uppsamling</gml:name>
+		<gml:Definition gml:id="id237">
+			<gml:description>Slåtter utan uppsamling</gml:description>
+			<gml:name>323310</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id41">
-			<gml:description>323320</gml:description>
-			<gml:name>Slåtter med uppsamling</gml:name>
+		<gml:Definition gml:id="id238">
+			<gml:description>Slåtter med uppsamling</gml:description>
+			<gml:name>323320</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id42">
-			<gml:description>323999</gml:description>
-			<gml:name>Övrig gräs-örtmark</gml:name>
+		<gml:Definition gml:id="id239">
+			<gml:description>Övrig gräs-örtmark</gml:description>
+			<gml:name>323999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id43">
-			<gml:description>324000</gml:description>
-			<gml:name>Grödor</gml:name>
+		<gml:Definition gml:id="id240">
+			<gml:description>Grödor</gml:description>
+			<gml:name>324000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id44">
-			<gml:description>324100</gml:description>
-			<gml:name>Grödor - annuella</gml:name>
+		<gml:Definition gml:id="id241">
+			<gml:description>Grödor - annuella</gml:description>
+			<gml:name>324100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id45">
-			<gml:description>324200</gml:description>
-			<gml:name>Vedväxtgrödor</gml:name>
+		<gml:Definition gml:id="id242">
+			<gml:description>Vedväxtgrödor</gml:description>
+			<gml:name>324200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id46">
-			<gml:description>324201</gml:description>
-			<gml:name>Buskgrödor</gml:name>
+		<gml:Definition gml:id="id243">
+			<gml:description>Buskgrödor</gml:description>
+			<gml:name>324201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id47">
-			<gml:description>324302</gml:description>
-			<gml:name>Trädgrödor</gml:name>
+		<gml:Definition gml:id="id244">
+			<gml:description>Trädgrödor</gml:description>
+			<gml:name>324302</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id48">
-			<gml:description>324999</gml:description>
-			<gml:name>Övriga grödor</gml:name>
+		<gml:Definition gml:id="id245">
+			<gml:description>Övriga grödor</gml:description>
+			<gml:name>324999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id49">
-			<gml:description>325000</gml:description>
-			<gml:name>Anlagd plantering</gml:name>
+		<gml:Definition gml:id="id246">
+			<gml:description>Anlagd plantering</gml:description>
+			<gml:name>325000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id50">
-			<gml:description>325100</gml:description>
-			<gml:name>Gräs</gml:name>
+		<gml:Definition gml:id="id247">
+			<gml:description>Gräs</gml:description>
+			<gml:name>325100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id51">
-			<gml:description>325110</gml:description>
-			<gml:name>Bruksgräs</gml:name>
+		<gml:Definition gml:id="id248">
+			<gml:description>Bruksgräs</gml:description>
+			<gml:name>325110</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id52">
-			<gml:description>325120</gml:description>
-			<gml:name>Blomsteräng</gml:name>
+		<gml:Definition gml:id="id249">
+			<gml:description>Blomsteräng</gml:description>
+			<gml:name>325120</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id53">
-			<gml:description>325130</gml:description>
-			<gml:name>Lökplantering i gräs</gml:name>
+		<gml:Definition gml:id="id250">
+			<gml:description>Lökplantering i gräs</gml:description>
+			<gml:name>325130</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id54">
-			<gml:description>325199</gml:description>
-			<gml:name>Övrigt anlagd gräs</gml:name>
+		<gml:Definition gml:id="id251">
+			<gml:description>Övrigt anlagd gräs</gml:description>
+			<gml:name>325199</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id55">
-			<gml:description>325200</gml:description>
-			<gml:name>Annuellrabatt</gml:name>
+		<gml:Definition gml:id="id252">
+			<gml:description>Annuellrabatt</gml:description>
+			<gml:name>325200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id56">
-			<gml:description>325210</gml:description>
-			<gml:name>Lökplantering i rabatt</gml:name>
+		<gml:Definition gml:id="id253">
+			<gml:description>Lökplantering i rabatt</gml:description>
+			<gml:name>325210</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id57">
-			<gml:description>325220</gml:description>
-			<gml:name>Perenna växter</gml:name>
+		<gml:Definition gml:id="id254">
+			<gml:description>Perenna växter</gml:description>
+			<gml:name>325220</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id58">
-			<gml:description>325230</gml:description>
-			<gml:name>Surjordsplantering</gml:name>
+		<gml:Definition gml:id="id255">
+			<gml:description>Surjordsplantering</gml:description>
+			<gml:name>325230</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id59">
-			<gml:description>325240</gml:description>
-			<gml:name>Stadens blomsterprogram</gml:name>
+		<gml:Definition gml:id="id256">
+			<gml:description>Stadens blomsterprogram</gml:description>
+			<gml:name>325240</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id60">
-			<gml:description>325250</gml:description>
-			<gml:name>Naturlik plantering</gml:name>
+		<gml:Definition gml:id="id257">
+			<gml:description>Naturlik plantering</gml:description>
+			<gml:name>325250</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id61">
-			<gml:description>325260</gml:description>
-			<gml:name>Prydnadsgräs</gml:name>
+		<gml:Definition gml:id="id258">
+			<gml:description>Prydnadsgräs</gml:description>
+			<gml:name>325260</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id62">
-			<gml:description>325270</gml:description>
-			<gml:name>Klätterväxter</gml:name>
+		<gml:Definition gml:id="id259">
+			<gml:description>Klätterväxter</gml:description>
+			<gml:name>325270</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id63">
-			<gml:description>325299</gml:description>
-			<gml:name>Övrig plantering</gml:name>
+		<gml:Definition gml:id="id260">
+			<gml:description>Övrig plantering</gml:description>
+			<gml:name>325299</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id64">
-			<gml:description>325300</gml:description>
-			<gml:name>Ädelrosor</gml:name>
+		<gml:Definition gml:id="id261">
+			<gml:description>Ädelrosor</gml:description>
+			<gml:name>325300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id65">
-			<gml:description>325310</gml:description>
-			<gml:name>Häck</gml:name>
+		<gml:Definition gml:id="id262">
+			<gml:description>Häck</gml:description>
+			<gml:name>325310</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id66">
-			<gml:description>325311</gml:description>
-			<gml:name>Prydnadshäck</gml:name>
+		<gml:Definition gml:id="id263">
+			<gml:description>Prydnadshäck</gml:description>
+			<gml:name>325311</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id67">
-			<gml:description>325400</gml:description>
-			<gml:name>Bruksbuskage</gml:name>
+		<gml:Definition gml:id="id264">
+			<gml:description>Bruksbuskage</gml:description>
+			<gml:name>325400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id68">
-			<gml:description>325410</gml:description>
-			<gml:name>Prydnadsbuskage</gml:name>
+		<gml:Definition gml:id="id265">
+			<gml:description>Prydnadsbuskage</gml:description>
+			<gml:name>325410</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id69">
-			<gml:description>325499</gml:description>
-			<gml:name>Övrigt buskage</gml:name>
+		<gml:Definition gml:id="id266">
+			<gml:description>Övrigt buskage</gml:description>
+			<gml:name>325499</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id70">
-			<gml:description>325500</gml:description>
-			<gml:name>Dunge</gml:name>
+		<gml:Definition gml:id="id267">
+			<gml:description>Dunge</gml:description>
+			<gml:name>325500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id71">
-			<gml:description>327000</gml:description>
-			<gml:name>Övrig vegetation</gml:name>
+		<gml:Definition gml:id="id268">
+			<gml:description>Övrig vegetation</gml:description>
+			<gml:name>327000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id72">
-			<gml:description>327100</gml:description>
-			<gml:name>Invasiv växtart</gml:name>
+		<gml:Definition gml:id="id269">
+			<gml:description>Invasiv växtart</gml:description>
+			<gml:name>327100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id73">
-			<gml:description>410000</gml:description>
-			<gml:name>Fjällbjörkskog på fastmark</gml:name>
+		<gml:Definition gml:id="id270">
+			<gml:description>Fjällbjörkskog på fastmark</gml:description>
+			<gml:name>410000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id74">
-			<gml:description>420000</gml:description>
-			<gml:name>Fjällbjörkskog på våtmark</gml:name>
+		<gml:Definition gml:id="id271">
+			<gml:description>Fjällbjörkskog på våtmark</gml:description>
+			<gml:name>420000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id75">
-			<gml:description>510000</gml:description>
-			<gml:name>Kalfjäll utan vegetation </gml:name>
+		<gml:Definition gml:id="id272">
+			<gml:description>Kalfjäll utan vegetation </gml:description>
+			<gml:name>510000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id76">
-			<gml:description>511000</gml:description>
-			<gml:name>Hällmark (Berg i dagen) på kalfjäll</gml:name>
+		<gml:Definition gml:id="id273">
+			<gml:description>Hällmark (Berg i dagen) på kalfjäll</gml:description>
+			<gml:name>511000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id77">
-			<gml:description>512000</gml:description>
-			<gml:name>Block-stenmark på kalfjäll</gml:name>
+		<gml:Definition gml:id="id274">
+			<gml:description>Block-stenmark på kalfjäll</gml:description>
+			<gml:name>512000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id78">
-			<gml:description>513000</gml:description>
-			<gml:name>Grus-sandmark på kalfjäll</gml:name>
+		<gml:Definition gml:id="id275">
+			<gml:description>Grus-sandmark på kalfjäll</gml:description>
+			<gml:name>513000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id79">
-			<gml:description>520000</gml:description>
-			<gml:name>Kalfjäll med vegetation </gml:name>
+		<gml:Definition gml:id="id276">
+			<gml:description>Kalfjäll med vegetation </gml:description>
+			<gml:name>520000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id80">
-			<gml:description>521000</gml:description>
-			<gml:name>Buskmark på kalfjäll</gml:name>
+		<gml:Definition gml:id="id277">
+			<gml:description>Buskmark på kalfjäll</gml:description>
+			<gml:name>521000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id81">
-			<gml:description>522000</gml:description>
-			<gml:name>Rismark på kalfjäll</gml:name>
+		<gml:Definition gml:id="id278">
+			<gml:description>Rismark på kalfjäll</gml:description>
+			<gml:name>522000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id82">
-			<gml:description>523000</gml:description>
-			<gml:name>Gräs-örtmark på kalfjäll</gml:name>
+		<gml:Definition gml:id="id279">
+			<gml:description>Gräs-örtmark på kalfjäll</gml:description>
+			<gml:name>523000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id83">
-			<gml:description>530000</gml:description>
-			<gml:name>Glaciär</gml:name>
+		<gml:Definition gml:id="id280">
+			<gml:description>Glaciär</gml:description>
+			<gml:name>530000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id84">
-			<gml:description>540000</gml:description>
-			<gml:name>Varaktigt snöfält</gml:name>
+		<gml:Definition gml:id="id281">
+			<gml:description>Varaktigt snöfält</gml:description>
+			<gml:name>540000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id85">
-			<gml:description>610000</gml:description>
-			<gml:name>Byggnadsverk</gml:name>
+		<gml:Definition gml:id="id282">
+			<gml:description>Byggnadsverk</gml:description>
+			<gml:name>610000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id86">
-			<gml:description>620000</gml:description>
-			<gml:name>Annan hårdgjord och artificiell mark utan vegetation</gml:name>
+		<gml:Definition gml:id="id283">
+			<gml:description>Annan hårdgjord och artificiell mark utan vegetation</gml:description>
+			<gml:name>620000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id87">
-			<gml:description>621000</gml:description>
-			<gml:name>Hårdgjord mark utan vegetation</gml:name>
+		<gml:Definition gml:id="id284">
+			<gml:description>Hårdgjord mark utan vegetation</gml:description>
+			<gml:name>621000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id88">
-			<gml:description>621100</gml:description>
-			<gml:name>Asfalt</gml:name>
+		<gml:Definition gml:id="id285">
+			<gml:description>Asfalt</gml:description>
+			<gml:name>621100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id89">
-			<gml:description>621101</gml:description>
-			<gml:name>Asfalt - röd</gml:name>
+		<gml:Definition gml:id="id286">
+			<gml:description>Asfalt - röd</gml:description>
+			<gml:name>621101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id90">
-			<gml:description>621102</gml:description>
-			<gml:name>Asfalt - blå</gml:name>
+		<gml:Definition gml:id="id287">
+			<gml:description>Asfalt - blå</gml:description>
+			<gml:name>621102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id91">
-			<gml:description>621103</gml:description>
-			<gml:name>Asfalt - grön</gml:name>
+		<gml:Definition gml:id="id288">
+			<gml:description>Asfalt - grön</gml:description>
+			<gml:name>621103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id92">
-			<gml:description>621104</gml:description>
-			<gml:name>Asfalt - gul</gml:name>
+		<gml:Definition gml:id="id289">
+			<gml:description>Asfalt - gul</gml:description>
+			<gml:name>621104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id93">
-			<gml:description>621105</gml:description>
-			<gml:name>Asfalt - vit</gml:name>
+		<gml:Definition gml:id="id290">
+			<gml:description>Asfalt - vit</gml:description>
+			<gml:name>621105</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id94">
-			<gml:description>621200</gml:description>
-			<gml:name>Tankbeläggning</gml:name>
+		<gml:Definition gml:id="id291">
+			<gml:description>Tankbeläggning</gml:description>
+			<gml:name>621200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id95">
-			<gml:description>621300</gml:description>
-			<gml:name>Oljegrus</gml:name>
+		<gml:Definition gml:id="id292">
+			<gml:description>Oljegrus</gml:description>
+			<gml:name>621300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id96">
-			<gml:description>621400</gml:description>
-			<gml:name>Asfaltbetong</gml:name>
+		<gml:Definition gml:id="id293">
+			<gml:description>Asfaltbetong</gml:description>
+			<gml:name>621400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id97">
-			<gml:description>621500</gml:description>
-			<gml:name>Betong</gml:name>
+		<gml:Definition gml:id="id294">
+			<gml:description>Betong</gml:description>
+			<gml:name>621500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id98">
-			<gml:description>621501</gml:description>
-			<gml:name>Betong - röd</gml:name>
+		<gml:Definition gml:id="id295">
+			<gml:description>Betong - röd</gml:description>
+			<gml:name>621501</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id99">
-			<gml:description>621502</gml:description>
-			<gml:name>Betong - blå</gml:name>
+		<gml:Definition gml:id="id296">
+			<gml:description>Betong - blå</gml:description>
+			<gml:name>621502</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id100">
-			<gml:description>621503</gml:description>
-			<gml:name>Betong - grön</gml:name>
+		<gml:Definition gml:id="id297">
+			<gml:description>Betong - grön</gml:description>
+			<gml:name>621503</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id101">
-			<gml:description>621504</gml:description>
-			<gml:name>Betong - gul</gml:name>
+		<gml:Definition gml:id="id298">
+			<gml:description>Betong - gul</gml:description>
+			<gml:name>621504</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id102">
-			<gml:description>621505</gml:description>
-			<gml:name>Betong - vit</gml:name>
+		<gml:Definition gml:id="id299">
+			<gml:description>Betong - vit</gml:description>
+			<gml:name>621505</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id103">
-			<gml:description>621600</gml:description>
-			<gml:name>Stenlagt</gml:name>
+		<gml:Definition gml:id="id300">
+			<gml:description>Stenlagt</gml:description>
+			<gml:name>621600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id104">
-			<gml:description>621601</gml:description>
-			<gml:name>Kullersten</gml:name>
+		<gml:Definition gml:id="id301">
+			<gml:description>Kullersten</gml:description>
+			<gml:name>621601</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id105">
-			<gml:description>621602</gml:description>
-			<gml:name>Granit</gml:name>
+		<gml:Definition gml:id="id302">
+			<gml:description>Granit</gml:description>
+			<gml:name>621602</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id106">
-			<gml:description>621603</gml:description>
-			<gml:name>Marmor</gml:name>
+		<gml:Definition gml:id="id303">
+			<gml:description>Marmor</gml:description>
+			<gml:name>621603</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id107">
-			<gml:description>621604</gml:description>
-			<gml:name>Kalksten</gml:name>
+		<gml:Definition gml:id="id304">
+			<gml:description>Kalksten</gml:description>
+			<gml:name>621604</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id108">
-			<gml:description>621605</gml:description>
-			<gml:name>Ölandsten</gml:name>
+		<gml:Definition gml:id="id305">
+			<gml:description>Ölandsten</gml:description>
+			<gml:name>621605</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id109">
-			<gml:description>621606</gml:description>
-			<gml:name>Fäten</gml:name>
+		<gml:Definition gml:id="id306">
+			<gml:description>Fäten</gml:description>
+			<gml:name>621606</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id110">
-			<gml:description>621607</gml:description>
-			<gml:name>Övrig natursten</gml:name>
+		<gml:Definition gml:id="id307">
+			<gml:description>Övrig natursten</gml:description>
+			<gml:name>621607</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id111">
-			<gml:description>621608</gml:description>
-			<gml:name>Storgatsten</gml:name>
+		<gml:Definition gml:id="id308">
+			<gml:description>Storgatsten</gml:description>
+			<gml:name>621608</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id112">
-			<gml:description>621609</gml:description>
-			<gml:name>Gatsten</gml:name>
+		<gml:Definition gml:id="id309">
+			<gml:description>Gatsten</gml:description>
+			<gml:name>621609</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id113">
-			<gml:description>621610</gml:description>
-			<gml:name>Smågatsten</gml:name>
+		<gml:Definition gml:id="id310">
+			<gml:description>Smågatsten</gml:description>
+			<gml:name>621610</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id114">
-			<gml:description>621700</gml:description>
-			<gml:name>Marksten av betong</gml:name>
+		<gml:Definition gml:id="id311">
+			<gml:description>Marksten av betong</gml:description>
+			<gml:name>621700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id115">
-			<gml:description>621701</gml:description>
-			<gml:name>Betongplattor</gml:name>
+		<gml:Definition gml:id="id312">
+			<gml:description>Betongplattor</gml:description>
+			<gml:name>621701</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id116">
-			<gml:description>621702</gml:description>
-			<gml:name>Betongplattor - vit</gml:name>
+		<gml:Definition gml:id="id313">
+			<gml:description>Betongplattor - vit</gml:description>
+			<gml:name>621702</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id117">
-			<gml:description>621751</gml:description>
-			<gml:name>Taktila plattor - kupol</gml:name>
+		<gml:Definition gml:id="id314">
+			<gml:description>Taktila plattor - kupol</gml:description>
+			<gml:name>621751</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id118">
-			<gml:description>621752</gml:description>
-			<gml:name>Taktila plattor - sinus</gml:name>
+		<gml:Definition gml:id="id315">
+			<gml:description>Taktila plattor - sinus</gml:description>
+			<gml:name>621752</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id119">
-			<gml:description>621761</gml:description>
-			<gml:name>SF-sten</gml:name>
+		<gml:Definition gml:id="id316">
+			<gml:description>SF-sten</gml:description>
+			<gml:name>621761</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id120">
-			<gml:description>621800</gml:description>
-			<gml:name>Stål</gml:name>
+		<gml:Definition gml:id="id317">
+			<gml:description>Stål</gml:description>
+			<gml:name>621800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id121">
-			<gml:description>621801</gml:description>
-			<gml:name>Rostfristål</gml:name>
+		<gml:Definition gml:id="id318">
+			<gml:description>Rostfristål</gml:description>
+			<gml:name>621801</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id122">
-			<gml:description>621802</gml:description>
-			<gml:name>Förzinkadstål</gml:name>
+		<gml:Definition gml:id="id319">
+			<gml:description>Förzinkadstål</gml:description>
+			<gml:name>621802</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id123">
-			<gml:description>621803</gml:description>
-			<gml:name>Gjutstål</gml:name>
+		<gml:Definition gml:id="id320">
+			<gml:description>Gjutstål</gml:description>
+			<gml:name>621803</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id124">
-			<gml:description>621804</gml:description>
-			<gml:name>Cortenstål</gml:name>
+		<gml:Definition gml:id="id321">
+			<gml:description>Cortenstål</gml:description>
+			<gml:name>621804</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id125">
-			<gml:description>621900</gml:description>
-			<gml:name>Gummibelagd</gml:name>
+		<gml:Definition gml:id="id322">
+			<gml:description>Gummibelagd</gml:description>
+			<gml:name>621900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id126">
-			<gml:description>621901</gml:description>
-			<gml:name>Gummibelagd - röd</gml:name>
+		<gml:Definition gml:id="id323">
+			<gml:description>Gummibelagd - röd</gml:description>
+			<gml:name>621901</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id127">
-			<gml:description>621902</gml:description>
-			<gml:name>Gummibelagd - blå</gml:name>
+		<gml:Definition gml:id="id324">
+			<gml:description>Gummibelagd - blå</gml:description>
+			<gml:name>621902</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id128">
-			<gml:description>621903</gml:description>
-			<gml:name>Gummibelagd - grön</gml:name>
+		<gml:Definition gml:id="id325">
+			<gml:description>Gummibelagd - grön</gml:description>
+			<gml:name>621903</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id129">
-			<gml:description>621904</gml:description>
-			<gml:name>Gummibelagd - gul</gml:name>
+		<gml:Definition gml:id="id326">
+			<gml:description>Gummibelagd - gul</gml:description>
+			<gml:name>621904</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id130">
-			<gml:description>621905</gml:description>
-			<gml:name>Gummibelagd - vit</gml:name>
+		<gml:Definition gml:id="id327">
+			<gml:description>Gummibelagd - vit</gml:description>
+			<gml:name>621905</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id131">
-			<gml:description>621906</gml:description>
-			<gml:name>Gummibelagd - svart</gml:name>
+		<gml:Definition gml:id="id328">
+			<gml:description>Gummibelagd - svart</gml:description>
+			<gml:name>621906</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id132">
-			<gml:description>621907</gml:description>
-			<gml:name>Gummibelagd - rosa</gml:name>
+		<gml:Definition gml:id="id329">
+			<gml:description>Gummibelagd - rosa</gml:description>
+			<gml:name>621907</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id133">
-			<gml:description>621908</gml:description>
-			<gml:name>Gummibelagd - lila</gml:name>
+		<gml:Definition gml:id="id330">
+			<gml:description>Gummibelagd - lila</gml:description>
+			<gml:name>621908</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id134">
-			<gml:description>621999</gml:description>
-			<gml:name>Övrig hårdgjord yta</gml:name>
+		<gml:Definition gml:id="id331">
+			<gml:description>Övrig hårdgjord yta</gml:description>
+			<gml:name>621999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id135">
-			<gml:description>622000</gml:description>
-			<gml:name>Artificiell mark utan vegetation (genomsläpplig)</gml:name>
+		<gml:Definition gml:id="id332">
+			<gml:description>Artificiell mark utan vegetation (genomsläpplig)</gml:description>
+			<gml:name>622000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id136">
-			<gml:description>622100</gml:description>
-			<gml:name>Grus</gml:name>
+		<gml:Definition gml:id="id333">
+			<gml:description>Grus</gml:description>
+			<gml:name>622100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id137">
-			<gml:description>622101</gml:description>
-			<gml:name>Grus, stenmjöl</gml:name>
+		<gml:Definition gml:id="id334">
+			<gml:description>Grus, stenmjöl</gml:description>
+			<gml:name>622101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id138">
-			<gml:description>622102</gml:description>
-			<gml:name>Packad grusbädd</gml:name>
+		<gml:Definition gml:id="id335">
+			<gml:description>Packad grusbädd</gml:description>
+			<gml:name>622102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id139">
-			<gml:description>622103</gml:description>
-			<gml:name>Makadam</gml:name>
+		<gml:Definition gml:id="id336">
+			<gml:description>Makadam</gml:description>
+			<gml:name>622103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id140">
-			<gml:description>622200</gml:description>
-			<gml:name>Armerad gräsyta</gml:name>
+		<gml:Definition gml:id="id337">
+			<gml:description>Armerad gräsyta</gml:description>
+			<gml:name>622200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id141">
-			<gml:description>622201</gml:description>
-			<gml:name>Konstgräs</gml:name>
+		<gml:Definition gml:id="id338">
+			<gml:description>Konstgräs</gml:description>
+			<gml:name>622201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id142">
-			<gml:description>622300</gml:description>
-			<gml:name>Jord</gml:name>
+		<gml:Definition gml:id="id339">
+			<gml:description>Jord</gml:description>
+			<gml:name>622300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id143">
-			<gml:description>622400</gml:description>
-			<gml:name>Sand</gml:name>
+		<gml:Definition gml:id="id340">
+			<gml:description>Sand</gml:description>
+			<gml:name>622400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id144">
-			<gml:description>622401</gml:description>
-			<gml:name>Baksand</gml:name>
+		<gml:Definition gml:id="id341">
+			<gml:description>Baksand</gml:description>
+			<gml:name>622401</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id145">
-			<gml:description>622402</gml:description>
-			<gml:name>Strid sand</gml:name>
+		<gml:Definition gml:id="id342">
+			<gml:description>Strid sand</gml:description>
+			<gml:name>622402</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id146">
-			<gml:description>622500</gml:description>
-			<gml:name>Bark/flis</gml:name>
+		<gml:Definition gml:id="id343">
+			<gml:description>Bark/flis</gml:description>
+			<gml:name>622500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id147">
-			<gml:description>622600</gml:description>
-			<gml:name>Träbelagd yta</gml:name>
+		<gml:Definition gml:id="id344">
+			<gml:description>Träbelagd yta</gml:description>
+			<gml:name>622600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id148">
-			<gml:description>622999</gml:description>
-			<gml:name>Övrig genomsläpplig-yta</gml:name>
+		<gml:Definition gml:id="id345">
+			<gml:description>Övrig genomsläpplig-yta</gml:description>
+			<gml:name>622999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id149">
-			<gml:description>623000</gml:description>
-			<gml:name>Blottlagd berggrund</gml:name>
+		<gml:Definition gml:id="id346">
+			<gml:description>Blottlagd berggrund</gml:description>
+			<gml:name>623000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id150">
-			<gml:description>624000</gml:description>
-			<gml:name>Blottlagda lösa mineralavlagringar</gml:name>
+		<gml:Definition gml:id="id347">
+			<gml:description>Blottlagda lösa mineralavlagringar</gml:description>
+			<gml:name>624000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id151">
-			<gml:description>625000</gml:description>
-			<gml:name>Blottlagd torv </gml:name>
+		<gml:Definition gml:id="id348">
+			<gml:description>Blottlagd torv </gml:description>
+			<gml:name>625000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id152">
-			<gml:description>710000</gml:description>
-			<gml:name>Inlandsvatten</gml:name>
+		<gml:Definition gml:id="id349">
+			<gml:description>Inlandsvatten</gml:description>
+			<gml:name>710000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id153">
-			<gml:description>711000</gml:description>
-			<gml:name>Sjö</gml:name>
+		<gml:Definition gml:id="id350">
+			<gml:description>Sjö</gml:description>
+			<gml:name>711000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id154">
-			<gml:description>711100</gml:description>
-			<gml:name>Regleringsmagasin</gml:name>
+		<gml:Definition gml:id="id351">
+			<gml:description>Regleringsmagasin</gml:description>
+			<gml:name>711100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id155">
-			<gml:description>712000</gml:description>
-			<gml:name>Vattendrag</gml:name>
+		<gml:Definition gml:id="id352">
+			<gml:description>Vattendrag</gml:description>
+			<gml:name>712000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id156">
-			<gml:description>712010</gml:description>
-			<gml:name>Älv</gml:name>
+		<gml:Definition gml:id="id353">
+			<gml:description>Älv</gml:description>
+			<gml:name>712010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id157">
-			<gml:description>712020</gml:description>
-			<gml:name>Flod</gml:name>
+		<gml:Definition gml:id="id354">
+			<gml:description>Flod</gml:description>
+			<gml:name>712020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id158">
-			<gml:description>712030</gml:description>
-			<gml:name>Å</gml:name>
+		<gml:Definition gml:id="id355">
+			<gml:description>Å</gml:description>
+			<gml:name>712030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id159">
-			<gml:description>712040</gml:description>
-			<gml:name>Bäck</gml:name>
+		<gml:Definition gml:id="id356">
+			<gml:description>Bäck</gml:description>
+			<gml:name>712040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id160">
-			<gml:description>712050</gml:description>
-			<gml:name>Dike</gml:name>
+		<gml:Definition gml:id="id357">
+			<gml:description>Dike</gml:description>
+			<gml:name>712050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id161">
-			<gml:description>712060</gml:description>
-			<gml:name>Källa</gml:name>
+		<gml:Definition gml:id="id358">
+			<gml:description>Källa</gml:description>
+			<gml:name>712060</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id162">
-			<gml:description>712070</gml:description>
-			<gml:name>Vattenhål</gml:name>
+		<gml:Definition gml:id="id359">
+			<gml:description>Vattenhål</gml:description>
+			<gml:name>712070</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id163">
-			<gml:description>712080</gml:description>
-			<gml:name>Stående vatten</gml:name>
+		<gml:Definition gml:id="id360">
+			<gml:description>Stående vatten</gml:description>
+			<gml:name>712080</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id164">
-			<gml:description>712090</gml:description>
-			<gml:name>Vattenfall</gml:name>
+		<gml:Definition gml:id="id361">
+			<gml:description>Vattenfall</gml:description>
+			<gml:name>712090</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id165">
-			<gml:description>712100</gml:description>
-			<gml:name>Fors</gml:name>
+		<gml:Definition gml:id="id362">
+			<gml:description>Fors</gml:description>
+			<gml:name>712100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id166">
-			<gml:description>712110</gml:description>
-			<gml:name>Träsk</gml:name>
+		<gml:Definition gml:id="id363">
+			<gml:description>Träsk</gml:description>
+			<gml:name>712110</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id167">
-			<gml:description>712120</gml:description>
-			<gml:name>Sjunkhål (karst)</gml:name>
+		<gml:Definition gml:id="id364">
+			<gml:description>Sjunkhål (karst)</gml:description>
+			<gml:name>712120</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id168">
-			<gml:description>712130</gml:description>
-			<gml:name>Tillfälliga vattendrag</gml:name>
+		<gml:Definition gml:id="id365">
+			<gml:description>Tillfälliga vattendrag</gml:description>
+			<gml:name>712130</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id169">
-			<gml:description>712140</gml:description>
-			<gml:name>Översvämmad mark</gml:name>
+		<gml:Definition gml:id="id366">
+			<gml:description>Översvämmad mark</gml:description>
+			<gml:name>712140</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id170">
-			<gml:description>712150</gml:description>
-			<gml:name>Akvedukt</gml:name>
+		<gml:Definition gml:id="id367">
+			<gml:description>Akvedukt</gml:description>
+			<gml:name>712150</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id171">
-			<gml:description>712160</gml:description>
-			<gml:name>Kanal</gml:name>
+		<gml:Definition gml:id="id368">
+			<gml:description>Kanal</gml:description>
+			<gml:name>712160</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id172">
-			<gml:description>712170</gml:description>
-			<gml:name>Sluss</gml:name>
+		<gml:Definition gml:id="id369">
+			<gml:description>Sluss</gml:description>
+			<gml:name>712170</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id173">
-			<gml:description>712180</gml:description>
-			<gml:name>Fisktrappa</gml:name>
+		<gml:Definition gml:id="id370">
+			<gml:description>Fisktrappa</gml:description>
+			<gml:name>712180</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id174">
-			<gml:description>712999</gml:description>
-			<gml:name>Övrig vattendrag</gml:name>
+		<gml:Definition gml:id="id371">
+			<gml:description>Övrig vattendrag</gml:description>
+			<gml:name>712999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id175">
-			<gml:description>713000</gml:description>
-			<gml:name>Anlagt vatten</gml:name>
+		<gml:Definition gml:id="id372">
+			<gml:description>Anlagt vatten</gml:description>
+			<gml:name>713000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id176">
-			<gml:description>713010</gml:description>
-			<gml:name>Hamnbassäng</gml:name>
+		<gml:Definition gml:id="id373">
+			<gml:description>Hamnbassäng</gml:description>
+			<gml:name>713010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id177">
-			<gml:description>713020</gml:description>
-			<gml:name>Reservoar</gml:name>
+		<gml:Definition gml:id="id374">
+			<gml:description>Reservoar</gml:description>
+			<gml:name>713020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id178">
-			<gml:description>713030</gml:description>
-			<gml:name>Simbassäng</gml:name>
+		<gml:Definition gml:id="id375">
+			<gml:description>Simbassäng</gml:description>
+			<gml:name>713030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id179">
-			<gml:description>713031</gml:description>
-			<gml:name>Plaskdamm</gml:name>
+		<gml:Definition gml:id="id376">
+			<gml:description>Plaskdamm</gml:description>
+			<gml:name>713031</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id180">
-			<gml:description>713040</gml:description>
-			<gml:name>Fontän</gml:name>
+		<gml:Definition gml:id="id377">
+			<gml:description>Fontän</gml:description>
+			<gml:name>713040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id181">
-			<gml:description>713050</gml:description>
-			<gml:name>Cistern</gml:name>
+		<gml:Definition gml:id="id378">
+			<gml:description>Cistern</gml:description>
+			<gml:name>713050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id182">
-			<gml:description>713060</gml:description>
-			<gml:name>Damm</gml:name>
+		<gml:Definition gml:id="id379">
+			<gml:description>Damm</gml:description>
+			<gml:name>713060</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id183">
-			<gml:description>713061</gml:description>
-			<gml:name>Reningsdamm</gml:name>
+		<gml:Definition gml:id="id380">
+			<gml:description>Reningsdamm</gml:description>
+			<gml:name>713061</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id184">
-			<gml:description>713062</gml:description>
-			<gml:name>Infiltrationsdamm</gml:name>
+		<gml:Definition gml:id="id381">
+			<gml:description>Infiltrationsdamm</gml:description>
+			<gml:name>713062</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id185">
-			<gml:description>713063</gml:description>
-			<gml:name>Lakvattendamm</gml:name>
+		<gml:Definition gml:id="id382">
+			<gml:description>Lakvattendamm</gml:description>
+			<gml:name>713063</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id186">
-			<gml:description>713064</gml:description>
-			<gml:name>Spillvattendamm</gml:name>
+		<gml:Definition gml:id="id383">
+			<gml:description>Spillvattendamm</gml:description>
+			<gml:name>713064</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id187">
-			<gml:description>713065</gml:description>
-			<gml:name>Dagvattendamm</gml:name>
+		<gml:Definition gml:id="id384">
+			<gml:description>Dagvattendamm</gml:description>
+			<gml:name>713065</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id188">
-			<gml:description>713066</gml:description>
-			<gml:name>Branddamm</gml:name>
+		<gml:Definition gml:id="id385">
+			<gml:description>Branddamm</gml:description>
+			<gml:name>713066</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id189">
-			<gml:description>713999</gml:description>
-			<gml:name>Övrig anlagt vatten</gml:name>
+		<gml:Definition gml:id="id386">
+			<gml:description>Övrig anlagt vatten</gml:description>
+			<gml:name>713999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id190">
-			<gml:description>720000</gml:description>
-			<gml:name>Hav </gml:name>
+		<gml:Definition gml:id="id387">
+			<gml:description>Hav </gml:description>
+			<gml:name>720000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id191">
-			<gml:description>721000</gml:description>
-			<gml:name>Hav</gml:name>
+		<gml:Definition gml:id="id388">
+			<gml:description>Hav</gml:description>
+			<gml:name>721000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id192">
-			<gml:description>721010</gml:description>
-			<gml:name>Öppet hav</gml:name>
+		<gml:Definition gml:id="id389">
+			<gml:description>Öppet hav</gml:description>
+			<gml:name>721010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id193">
-			<gml:description>721020</gml:description>
-			<gml:name>Kust hav</gml:name>
+		<gml:Definition gml:id="id390">
+			<gml:description>Kust hav</gml:description>
+			<gml:name>721020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id194">
-			<gml:description>721030</gml:description>
-			<gml:name>Estuarie</gml:name>
+		<gml:Definition gml:id="id391">
+			<gml:description>Estuarie</gml:description>
+			<gml:name>721030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id195">
-			<gml:description>721040</gml:description>
-			<gml:name>Kustlagun</gml:name>
+		<gml:Definition gml:id="id392">
+			<gml:description>Kustlagun</gml:description>
+			<gml:name>721040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id196">
-			<gml:description>721050</gml:description>
-			<gml:name>Tidvatten</gml:name>
+		<gml:Definition gml:id="id393">
+			<gml:description>Tidvatten</gml:description>
+			<gml:name>721050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id197">
-			<gml:description>721999</gml:description>
-			<gml:name>Övrig hav</gml:name>
+		<gml:Definition gml:id="id394">
+			<gml:description>Övrig hav</gml:description>
+			<gml:name>721999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
