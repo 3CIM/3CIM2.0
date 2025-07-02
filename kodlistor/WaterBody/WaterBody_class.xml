@@ -4,19 +4,19 @@
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id4">
 			<gml:description>Vatten</gml:description>
-			<gml:name>70000</gml:name>
+			<gml:name>700000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id5">
 			<gml:description>Inlandsvatten</gml:description>
-			<gml:name>71000</gml:name>
+			<gml:name>710000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id6">
 			<gml:description>Hav</gml:description>
-			<gml:name>72000</gml:name>
+			<gml:name>720000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
