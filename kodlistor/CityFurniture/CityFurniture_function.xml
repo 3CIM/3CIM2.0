@@ -2,855 +2,855 @@
 <gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="CityFurniture_function">
 	<gml:name>CityFurniture_function</gml:name>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id1">
-			<gml:description>10100</gml:description>
-			<gml:name>Däck</gml:name>
+		<gml:Definition gml:id="id143">
+			<gml:description>Däck</gml:description>
+			<gml:name>10100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id2">
-			<gml:description>10200</gml:description>
-			<gml:name>Pelare</gml:name>
+		<gml:Definition gml:id="id144">
+			<gml:description>Pelare</gml:description>
+			<gml:name>10200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id3">
-			<gml:description>10300</gml:description>
-			<gml:name>Pylon</gml:name>
+		<gml:Definition gml:id="id145">
+			<gml:description>Pylon</gml:description>
+			<gml:name>10300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id4">
-			<gml:description>10400</gml:description>
-			<gml:name>Pergola</gml:name>
+		<gml:Definition gml:id="id146">
+			<gml:description>Pergola</gml:description>
+			<gml:name>10400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id5">
-			<gml:description>10500</gml:description>
-			<gml:name>Skorsten</gml:name>
+		<gml:Definition gml:id="id147">
+			<gml:description>Skorsten</gml:description>
+			<gml:name>10500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id6">
-			<gml:description>10600</gml:description>
-			<gml:name>Terrängtrappa</gml:name>
+		<gml:Definition gml:id="id148">
+			<gml:description>Terrängtrappa</gml:description>
+			<gml:name>10600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id7">
-			<gml:description>10700</gml:description>
-			<gml:name>Enklare torn</gml:name>
+		<gml:Definition gml:id="id149">
+			<gml:description>Enklare torn</gml:description>
+			<gml:name>10700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id8">
-			<gml:description>10800</gml:description>
-			<gml:name>Uteservering</gml:name>
+		<gml:Definition gml:id="id150">
+			<gml:description>Uteservering</gml:description>
+			<gml:name>10800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id9">
-			<gml:description>10900</gml:description>
-			<gml:name>Verksamhetsskylt</gml:name>
+		<gml:Definition gml:id="id151">
+			<gml:description>Verksamhetsskylt</gml:description>
+			<gml:name>10900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id10">
-			<gml:description>20100</gml:description>
-			<gml:name>Fast målställning</gml:name>
+		<gml:Definition gml:id="id152">
+			<gml:description>Fast målställning</gml:description>
+			<gml:name>20100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id11">
-			<gml:description>20200</gml:description>
-			<gml:name>Grillplats</gml:name>
+		<gml:Definition gml:id="id153">
+			<gml:description>Grillplats</gml:description>
+			<gml:name>20200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id12">
-			<gml:description>20300</gml:description>
-			<gml:name>Idrottssarg</gml:name>
+		<gml:Definition gml:id="id154">
+			<gml:description>Idrottssarg</gml:description>
+			<gml:name>20300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id13">
-			<gml:description>20400</gml:description>
-			<gml:name>Kantstöd</gml:name>
+		<gml:Definition gml:id="id155">
+			<gml:description>Kantstöd</gml:description>
+			<gml:name>20400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id14">
-			<gml:description>20500</gml:description>
-			<gml:name>Lekredskap</gml:name>
+		<gml:Definition gml:id="id156">
+			<gml:description>Lekredskap</gml:description>
+			<gml:name>20500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id15">
-			<gml:description>20501</gml:description>
-			<gml:name>Basketkorg</gml:name>
+		<gml:Definition gml:id="id157">
+			<gml:description>Basketkorg</gml:description>
+			<gml:name>20501</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id16">
-			<gml:description>20502</gml:description>
-			<gml:name>Bollmål</gml:name>
+		<gml:Definition gml:id="id158">
+			<gml:description>Bollmål</gml:description>
+			<gml:name>20502</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id17">
-			<gml:description>20503</gml:description>
-			<gml:name>Bordtennisbord</gml:name>
+		<gml:Definition gml:id="id159">
+			<gml:description>Bordtennisbord</gml:description>
+			<gml:name>20503</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id18">
-			<gml:description>20504</gml:description>
-			<gml:name>Gunglek</gml:name>
+		<gml:Definition gml:id="id160">
+			<gml:description>Gunglek</gml:description>
+			<gml:name>20504</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id19">
-			<gml:description>20505</gml:description>
-			<gml:name>Gungställningsfack/hänggunga</gml:name>
+		<gml:Definition gml:id="id161">
+			<gml:description>Gungställningsfack/hänggunga</gml:description>
+			<gml:name>20505</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id20">
-			<gml:description>20506</gml:description>
-			<gml:name>Is-slängkälke</gml:name>
+		<gml:Definition gml:id="id162">
+			<gml:description>Is-slängkälke</gml:description>
+			<gml:name>20506</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id21">
-			<gml:description>20507</gml:description>
-			<gml:name>Karusell (lekredskap)</gml:name>
+		<gml:Definition gml:id="id163">
+			<gml:description>Karusell (lekredskap)</gml:description>
+			<gml:name>20507</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id22">
-			<gml:description>20508</gml:description>
-			<gml:name>Lek- och klätterställning</gml:name>
+		<gml:Definition gml:id="id164">
+			<gml:description>Lek- och klätterställning</gml:description>
+			<gml:name>20508</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id23">
-			<gml:description>20509</gml:description>
-			<gml:name>Lekhus</gml:name>
+		<gml:Definition gml:id="id165">
+			<gml:description>Lekhus</gml:description>
+			<gml:name>20509</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id24">
-			<gml:description>20510</gml:description>
-			<gml:name>Linbana (lekredskap)</gml:name>
+		<gml:Definition gml:id="id166">
+			<gml:description>Linbana (lekredskap)</gml:description>
+			<gml:name>20510</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id25">
-			<gml:description>20511</gml:description>
-			<gml:name>Minigolfbana</gml:name>
+		<gml:Definition gml:id="id167">
+			<gml:description>Minigolfbana</gml:description>
+			<gml:name>20511</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id26">
-			<gml:description>20512</gml:description>
-			<gml:name>Rutschbana</gml:name>
+		<gml:Definition gml:id="id168">
+			<gml:description>Rutschbana</gml:description>
+			<gml:name>20512</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id27">
-			<gml:description>20513</gml:description>
-			<gml:name>Sandlekbord</gml:name>
+		<gml:Definition gml:id="id169">
+			<gml:description>Sandlekbord</gml:description>
+			<gml:name>20513</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id28">
-			<gml:description>20514</gml:description>
-			<gml:name>Skateboardramp</gml:name>
+		<gml:Definition gml:id="id170">
+			<gml:description>Skateboardramp</gml:description>
+			<gml:name>20514</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id29">
-			<gml:description>20515</gml:description>
-			<gml:name>Studsmatta</gml:name>
+		<gml:Definition gml:id="id171">
+			<gml:description>Studsmatta</gml:description>
+			<gml:name>20515</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id30">
-			<gml:description>20516</gml:description>
-			<gml:name>Vippgunga/gungbräda</gml:name>
+		<gml:Definition gml:id="id172">
+			<gml:description>Vippgunga/gungbräda</gml:description>
+			<gml:name>20516</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id31">
-			<gml:description>20599</gml:description>
-			<gml:name>Övrig lekutrustning</gml:name>
+		<gml:Definition gml:id="id173">
+			<gml:description>Övrig lekutrustning</gml:description>
+			<gml:name>20599</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id32">
-			<gml:description>20600</gml:description>
-			<gml:name>Planterings låda - urn</gml:name>
+		<gml:Definition gml:id="id174">
+			<gml:description>Planterings låda - urn</gml:description>
+			<gml:name>20600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id33">
-			<gml:description>20700</gml:description>
-			<gml:name>Minnessten</gml:name>
+		<gml:Definition gml:id="id175">
+			<gml:description>Minnessten</gml:description>
+			<gml:name>20700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id34">
-			<gml:description>20800</gml:description>
-			<gml:name>Motionsredskap</gml:name>
+		<gml:Definition gml:id="id176">
+			<gml:description>Motionsredskap</gml:description>
+			<gml:name>20800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id35">
-			<gml:description>20900</gml:description>
-			<gml:name>Bord</gml:name>
+		<gml:Definition gml:id="id177">
+			<gml:description>Bord</gml:description>
+			<gml:name>20900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id36">
-			<gml:description>21000</gml:description>
-			<gml:name>Bänk</gml:name>
+		<gml:Definition gml:id="id178">
+			<gml:description>Bänk</gml:description>
+			<gml:name>21000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id37">
-			<gml:description>21100</gml:description>
-			<gml:name>Lin- / Kabinbana</gml:name>
+		<gml:Definition gml:id="id179">
+			<gml:description>Lin- / Kabinbana</gml:description>
+			<gml:name>21100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id38">
-			<gml:description>21101</gml:description>
-			<gml:name>Skidlift</gml:name>
+		<gml:Definition gml:id="id180">
+			<gml:description>Skidlift</gml:description>
+			<gml:name>21101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id39">
-			<gml:description>21102</gml:description>
-			<gml:name>Släplift</gml:name>
+		<gml:Definition gml:id="id181">
+			<gml:description>Släplift</gml:description>
+			<gml:name>21102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id40">
-			<gml:description>21103</gml:description>
-			<gml:name>Sittlift</gml:name>
+		<gml:Definition gml:id="id182">
+			<gml:description>Sittlift</gml:description>
+			<gml:name>21103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id41">
-			<gml:description>21104</gml:description>
-			<gml:name>Ziplinje</gml:name>
+		<gml:Definition gml:id="id183">
+			<gml:description>Ziplinje</gml:description>
+			<gml:name>21104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id42">
-			<gml:description>21200</gml:description>
-			<gml:name>Utomhusdusch</gml:name>
+		<gml:Definition gml:id="id184">
+			<gml:description>Utomhusdusch</gml:description>
+			<gml:name>21200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id43">
-			<gml:description>21300</gml:description>
-			<gml:name>Utomhuskonstverk</gml:name>
+		<gml:Definition gml:id="id185">
+			<gml:description>Utomhuskonstverk</gml:description>
+			<gml:name>21300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id44">
-			<gml:description>21301</gml:description>
-			<gml:name>Staty</gml:name>
+		<gml:Definition gml:id="id186">
+			<gml:description>Staty</gml:description>
+			<gml:name>21301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id45">
-			<gml:description>21400</gml:description>
-			<gml:name>Vattenområdesavgränsare</gml:name>
+		<gml:Definition gml:id="id187">
+			<gml:description>Vattenområdesavgränsare</gml:description>
+			<gml:name>21400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id46">
-			<gml:description>21500</gml:description>
-			<gml:name>Pappers-/skräpkorg</gml:name>
+		<gml:Definition gml:id="id188">
+			<gml:description>Pappers-/skräpkorg</gml:description>
+			<gml:name>21500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id47">
-			<gml:description>21501</gml:description>
-			<gml:name>Askkopp</gml:name>
+		<gml:Definition gml:id="id189">
+			<gml:description>Askkopp</gml:description>
+			<gml:name>21501</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id48">
-			<gml:description>21502</gml:description>
-			<gml:name>Pantrör</gml:name>
+		<gml:Definition gml:id="id190">
+			<gml:description>Pantrör</gml:description>
+			<gml:name>21502</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id49">
-			<gml:description>21503</gml:description>
-			<gml:name>Säckställ</gml:name>
+		<gml:Definition gml:id="id191">
+			<gml:description>Säckställ</gml:description>
+			<gml:name>21503</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id50">
-			<gml:description>21600</gml:description>
-			<gml:name>Soptunna</gml:name>
+		<gml:Definition gml:id="id192">
+			<gml:description>Soptunna</gml:description>
+			<gml:name>21600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id51">
-			<gml:description>21601</gml:description>
-			<gml:name>Sopanläggning</gml:name>
+		<gml:Definition gml:id="id193">
+			<gml:description>Sopanläggning</gml:description>
+			<gml:name>21601</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id52">
-			<gml:description>21700</gml:description>
-			<gml:name>Badstege</gml:name>
+		<gml:Definition gml:id="id194">
+			<gml:description>Badstege</gml:description>
+			<gml:name>21700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id53">
-			<gml:description>21800</gml:description>
-			<gml:name>Livräddningsutrustning</gml:name>
+		<gml:Definition gml:id="id195">
+			<gml:description>Livräddningsutrustning</gml:description>
+			<gml:name>21800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id54">
-			<gml:description>21801</gml:description>
-			<gml:name>Räddningsstege</gml:name>
+		<gml:Definition gml:id="id196">
+			<gml:description>Räddningsstege</gml:description>
+			<gml:name>21801</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id55">
-			<gml:description>21900</gml:description>
-			<gml:name>Spolpost</gml:name>
+		<gml:Definition gml:id="id197">
+			<gml:description>Spolpost</gml:description>
+			<gml:name>21900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id56">
-			<gml:description>22000</gml:description>
-			<gml:name>Konstbevattningsanläggning</gml:name>
+		<gml:Definition gml:id="id198">
+			<gml:description>Konstbevattningsanläggning</gml:description>
+			<gml:name>22000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id57">
-			<gml:description>22100</gml:description>
-			<gml:name>Vattenutkastare</gml:name>
+		<gml:Definition gml:id="id199">
+			<gml:description>Vattenutkastare</gml:description>
+			<gml:name>22100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id58">
-			<gml:description>22200</gml:description>
-			<gml:name>Dricksfontän</gml:name>
+		<gml:Definition gml:id="id200">
+			<gml:description>Dricksfontän</gml:description>
+			<gml:name>22200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id59">
-			<gml:description>22300</gml:description>
-			<gml:name>Plaskdamm</gml:name>
+		<gml:Definition gml:id="id201">
+			<gml:description>Plaskdamm</gml:description>
+			<gml:name>22300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id60">
-			<gml:description>22400</gml:description>
-			<gml:name>Julgransfot</gml:name>
+		<gml:Definition gml:id="id202">
+			<gml:description>Julgransfot</gml:description>
+			<gml:name>22400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id61">
-			<gml:description>22500</gml:description>
-			<gml:name>Luftbrunn</gml:name>
+		<gml:Definition gml:id="id203">
+			<gml:description>Luftbrunn</gml:description>
+			<gml:name>22500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id62">
-			<gml:description>22600</gml:description>
-			<gml:name>Infiltrationsbrunn ej ansluten</gml:name>
+		<gml:Definition gml:id="id204">
+			<gml:description>Infiltrationsbrunn ej ansluten</gml:description>
+			<gml:name>22600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id63">
-			<gml:description>22700</gml:description>
-			<gml:name>Fågelbord</gml:name>
+		<gml:Definition gml:id="id205">
+			<gml:description>Fågelbord</gml:description>
+			<gml:name>22700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id64">
-			<gml:description>22800</gml:description>
-			<gml:name>Holk</gml:name>
+		<gml:Definition gml:id="id206">
+			<gml:description>Holk</gml:description>
+			<gml:name>22800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id65">
-			<gml:description>22900</gml:description>
-			<gml:name>Fågelbad</gml:name>
+		<gml:Definition gml:id="id207">
+			<gml:description>Fågelbad</gml:description>
+			<gml:name>22900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id66">
-			<gml:description>23000</gml:description>
-			<gml:name>Sandningslåda (vinter)</gml:name>
+		<gml:Definition gml:id="id208">
+			<gml:description>Sandningslåda (vinter)</gml:description>
+			<gml:name>23000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id67">
-			<gml:description>30100</gml:description>
-			<gml:name>Avbärare</gml:name>
+		<gml:Definition gml:id="id209">
+			<gml:description>Avbärare</gml:description>
+			<gml:name>30100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id68">
-			<gml:description>30200</gml:description>
-			<gml:name>Avkörningsskydd</gml:name>
+		<gml:Definition gml:id="id210">
+			<gml:description>Avkörningsskydd</gml:description>
+			<gml:name>30200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id69">
-			<gml:description>30300</gml:description>
-			<gml:name>Ledverk</gml:name>
+		<gml:Definition gml:id="id211">
+			<gml:description>Ledverk</gml:description>
+			<gml:name>30300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id70">
-			<gml:description>30400</gml:description>
-			<gml:name>Fender</gml:name>
+		<gml:Definition gml:id="id212">
+			<gml:description>Fender</gml:description>
+			<gml:name>30400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id71">
-			<gml:description>30500</gml:description>
-			<gml:name>Dykdalb</gml:name>
+		<gml:Definition gml:id="id213">
+			<gml:description>Dykdalb</gml:description>
+			<gml:name>30500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id72">
-			<gml:description>30600</gml:description>
-			<gml:name>Brygga</gml:name>
+		<gml:Definition gml:id="id214">
+			<gml:description>Brygga</gml:description>
+			<gml:name>30600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id73">
-			<gml:description>30601</gml:description>
-			<gml:name>Fast brygga</gml:name>
+		<gml:Definition gml:id="id215">
+			<gml:description>Fast brygga</gml:description>
+			<gml:name>30601</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id74">
-			<gml:description>30602</gml:description>
-			<gml:name>Flytbrygga</gml:name>
+		<gml:Definition gml:id="id216">
+			<gml:description>Flytbrygga</gml:description>
+			<gml:name>30602</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id75">
-			<gml:description>30700</gml:description>
-			<gml:name>Pir</gml:name>
+		<gml:Definition gml:id="id217">
+			<gml:description>Pir</gml:description>
+			<gml:name>30700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id76">
-			<gml:description>30800</gml:description>
-			<gml:name>Kaj</gml:name>
+		<gml:Definition gml:id="id218">
+			<gml:description>Kaj</gml:description>
+			<gml:name>30800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id77">
-			<gml:description>30900</gml:description>
-			<gml:name>Strandskoning</gml:name>
+		<gml:Definition gml:id="id219">
+			<gml:description>Strandskoning</gml:description>
+			<gml:name>30900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id78">
-			<gml:description>31000</gml:description>
-			<gml:name>Sjömärke</gml:name>
+		<gml:Definition gml:id="id220">
+			<gml:description>Sjömärke</gml:description>
+			<gml:name>31000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id79">
-			<gml:description>31001</gml:description>
-			<gml:name>Landsjömärke</gml:name>
+		<gml:Definition gml:id="id221">
+			<gml:description>Landsjömärke</gml:description>
+			<gml:name>31001</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id80">
-			<gml:description>31002</gml:description>
-			<gml:name>Flytande sjömärke</gml:name>
+		<gml:Definition gml:id="id222">
+			<gml:description>Flytande sjömärke</gml:description>
+			<gml:name>31002</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id81">
-			<gml:description>31100</gml:description>
-			<gml:name>Pollare - Hamn</gml:name>
+		<gml:Definition gml:id="id223">
+			<gml:description>Pollare - Hamn</gml:description>
+			<gml:name>31100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id82">
-			<gml:description>40100</gml:description>
-			<gml:name>Stenblock</gml:name>
+		<gml:Definition gml:id="id224">
+			<gml:description>Stenblock</gml:description>
+			<gml:name>40100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id83">
-			<gml:description>50100</gml:description>
-			<gml:name>Avloppsanläggning</gml:name>
+		<gml:Definition gml:id="id225">
+			<gml:description>Avloppsanläggning</gml:description>
+			<gml:name>50100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id84">
-			<gml:description>50200</gml:description>
-			<gml:name>Eluttag utomhus</gml:name>
+		<gml:Definition gml:id="id226">
+			<gml:description>Eluttag utomhus</gml:description>
+			<gml:name>50200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id85">
-			<gml:description>50300</gml:description>
-			<gml:name>Flaggstång</gml:name>
+		<gml:Definition gml:id="id227">
+			<gml:description>Flaggstång</gml:description>
+			<gml:name>50300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id86">
-			<gml:description>50400</gml:description>
-			<gml:name>Fontän</gml:name>
+		<gml:Definition gml:id="id228">
+			<gml:description>Fontän</gml:description>
+			<gml:name>50400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id87">
-			<gml:description>50500</gml:description>
-			<gml:name>Fundament</gml:name>
+		<gml:Definition gml:id="id229">
+			<gml:description>Fundament</gml:description>
+			<gml:name>50500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id88">
-			<gml:description>50501</gml:description>
-			<gml:name>Hopptorn/trampolinfundament</gml:name>
+		<gml:Definition gml:id="id230">
+			<gml:description>Hopptorn/trampolinfundament</gml:description>
+			<gml:name>50501</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id89">
-			<gml:description>50502</gml:description>
-			<gml:name>Högspänningsledningsfundament</gml:name>
+		<gml:Definition gml:id="id231">
+			<gml:description>Högspänningsledningsfundament</gml:description>
+			<gml:name>50502</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id90">
-			<gml:description>50600</gml:description>
-			<gml:name>Informationstavla</gml:name>
+		<gml:Definition gml:id="id232">
+			<gml:description>Informationstavla</gml:description>
+			<gml:name>50600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id91">
-			<gml:description>50700</gml:description>
-			<gml:name>Kopplingsskåp</gml:name>
+		<gml:Definition gml:id="id233">
+			<gml:description>Kopplingsskåp</gml:description>
+			<gml:name>50700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id92">
-			<gml:description>50800</gml:description>
-			<gml:name>Markbunden solenergianläggning</gml:name>
+		<gml:Definition gml:id="id234">
+			<gml:description>Markbunden solenergianläggning</gml:description>
+			<gml:name>50800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id93">
-			<gml:description>50900</gml:description>
-			<gml:name>Mast</gml:name>
+		<gml:Definition gml:id="id235">
+			<gml:description>Mast</gml:description>
+			<gml:name>50900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id94">
-			<gml:description>50901</gml:description>
-			<gml:name>Mobilmast</gml:name>
+		<gml:Definition gml:id="id236">
+			<gml:description>Mobilmast</gml:description>
+			<gml:name>50901</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id95">
-			<gml:description>50902</gml:description>
-			<gml:name>TV-mast</gml:name>
+		<gml:Definition gml:id="id237">
+			<gml:description>TV-mast</gml:description>
+			<gml:name>50902</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id96">
-			<gml:description>50903</gml:description>
-			<gml:name>El-mast</gml:name>
+		<gml:Definition gml:id="id238">
+			<gml:description>El-mast</gml:description>
+			<gml:name>50903</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id97">
-			<gml:description>51000</gml:description>
-			<gml:name>Maststag</gml:name>
+		<gml:Definition gml:id="id239">
+			<gml:description>Maststag</gml:description>
+			<gml:name>51000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id98">
-			<gml:description>51100</gml:description>
-			<gml:name>Mur</gml:name>
+		<gml:Definition gml:id="id240">
+			<gml:description>Mur</gml:description>
+			<gml:name>51100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id99">
-			<gml:description>51101</gml:description>
-			<gml:name>Stödmur</gml:name>
+		<gml:Definition gml:id="id241">
+			<gml:description>Stödmur</gml:description>
+			<gml:name>51101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id100">
-			<gml:description>51200</gml:description>
-			<gml:name>Plank</gml:name>
+		<gml:Definition gml:id="id242">
+			<gml:description>Plank</gml:description>
+			<gml:name>51200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id101">
-			<gml:description>51201</gml:description>
-			<gml:name>Bullerplank/skydd</gml:name>
+		<gml:Definition gml:id="id243">
+			<gml:description>Bullerplank/skydd</gml:description>
+			<gml:name>51201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id102">
-			<gml:description>51300</gml:description>
-			<gml:name>Räcke</gml:name>
+		<gml:Definition gml:id="id244">
+			<gml:description>Räcke</gml:description>
+			<gml:name>51300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id103">
-			<gml:description>51400</gml:description>
-			<gml:name>Släntfot</gml:name>
+		<gml:Definition gml:id="id245">
+			<gml:description>Släntfot</gml:description>
+			<gml:name>51400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id104">
-			<gml:description>51500</gml:description>
-			<gml:name>Släntkrön</gml:name>
+		<gml:Definition gml:id="id246">
+			<gml:description>Släntkrön</gml:description>
+			<gml:name>51500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id105">
-			<gml:description>51600</gml:description>
-			<gml:name>Stolpe</gml:name>
+		<gml:Definition gml:id="id247">
+			<gml:description>Stolpe</gml:description>
+			<gml:name>51600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id106">
-			<gml:description>51601</gml:description>
-			<gml:name>Belysningsstolpe</gml:name>
+		<gml:Definition gml:id="id248">
+			<gml:description>Belysningsstolpe</gml:description>
+			<gml:name>51601</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id107">
-			<gml:description>51602</gml:description>
-			<gml:name>Milstolpe</gml:name>
+		<gml:Definition gml:id="id249">
+			<gml:description>Milstolpe</gml:description>
+			<gml:name>51602</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id108">
-			<gml:description>51603</gml:description>
-			<gml:name>Staketstolpe</gml:name>
+		<gml:Definition gml:id="id250">
+			<gml:description>Staketstolpe</gml:description>
+			<gml:name>51603</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id109">
-			<gml:description>51604</gml:description>
-			<gml:name>Teknikstolpe</gml:name>
+		<gml:Definition gml:id="id251">
+			<gml:description>Teknikstolpe</gml:description>
+			<gml:name>51604</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id110">
-			<gml:description>51700</gml:description>
-			<gml:name>Stängsel</gml:name>
+		<gml:Definition gml:id="id252">
+			<gml:description>Stängsel</gml:description>
+			<gml:name>51700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id111">
-			<gml:description>51701</gml:description>
-			<gml:name>Grind</gml:name>
+		<gml:Definition gml:id="id253">
+			<gml:description>Grind</gml:description>
+			<gml:name>51701</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id112">
-			<gml:description>51702</gml:description>
-			<gml:name>Staket</gml:name>
+		<gml:Definition gml:id="id254">
+			<gml:description>Staket</gml:description>
+			<gml:name>51702</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id113">
-			<gml:description>51800</gml:description>
-			<gml:name>Belysning</gml:name>
+		<gml:Definition gml:id="id255">
+			<gml:description>Belysning</gml:description>
+			<gml:name>51800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id114">
-			<gml:description>51801</gml:description>
-			<gml:name>Belysning, fasad</gml:name>
+		<gml:Definition gml:id="id256">
+			<gml:description>Belysning, fasad</gml:description>
+			<gml:name>51801</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id115">
-			<gml:description>51802</gml:description>
-			<gml:name>Belysning, hängande</gml:name>
+		<gml:Definition gml:id="id257">
+			<gml:description>Belysning, hängande</gml:description>
+			<gml:name>51802</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id116">
-			<gml:description>51900</gml:description>
-			<gml:name>Sensor</gml:name>
+		<gml:Definition gml:id="id258">
+			<gml:description>Sensor</gml:description>
+			<gml:name>51900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id117">
-			<gml:description>52000</gml:description>
-			<gml:name>WiFi-accesspunkt</gml:name>
+		<gml:Definition gml:id="id259">
+			<gml:description>WiFi-accesspunkt</gml:description>
+			<gml:name>52000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id118">
-			<gml:description>53000</gml:description>
-			<gml:name>Återvinningsstation</gml:name>
+		<gml:Definition gml:id="id260">
+			<gml:description>Återvinningsstation</gml:description>
+			<gml:name>53000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id119">
-			<gml:description>60300</gml:description>
-			<gml:name>Cykelställ</gml:name>
+		<gml:Definition gml:id="id261">
+			<gml:description>Cykelställ</gml:description>
+			<gml:name>60300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id120">
-			<gml:description>60400</gml:description>
-			<gml:name>Farthinder</gml:name>
+		<gml:Definition gml:id="id262">
+			<gml:description>Farthinder</gml:description>
+			<gml:name>60400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id121">
-			<gml:description>60500</gml:description>
-			<gml:name>Fordonsramp</gml:name>
+		<gml:Definition gml:id="id263">
+			<gml:description>Fordonsramp</gml:description>
+			<gml:name>60500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id122">
-			<gml:description>60600</gml:description>
-			<gml:name>Ljusramp</gml:name>
+		<gml:Definition gml:id="id264">
+			<gml:description>Ljusramp</gml:description>
+			<gml:name>60600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id123">
-			<gml:description>60700</gml:description>
-			<gml:name>Perrong</gml:name>
+		<gml:Definition gml:id="id265">
+			<gml:description>Perrong</gml:description>
+			<gml:name>60700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id124">
-			<gml:description>60800</gml:description>
-			<gml:name>Pollare</gml:name>
+		<gml:Definition gml:id="id266">
+			<gml:description>Pollare</gml:description>
+			<gml:name>60800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id125">
-			<gml:description>60801</gml:description>
-			<gml:name>Pollare - gata</gml:name>
+		<gml:Definition gml:id="id267">
+			<gml:description>Pollare - gata</gml:description>
+			<gml:name>60801</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id126">
-			<gml:description>69000</gml:description>
-			<gml:name>Vägbom</gml:name>
+		<gml:Definition gml:id="id268">
+			<gml:description>Vägbom</gml:description>
+			<gml:name>69000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id127">
-			<gml:description>61000</gml:description>
-			<gml:name>Trumma</gml:name>
+		<gml:Definition gml:id="id269">
+			<gml:description>Trumma</gml:description>
+			<gml:name>61000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id128">
-			<gml:description>61100</gml:description>
-			<gml:name>Väghinder</gml:name>
+		<gml:Definition gml:id="id270">
+			<gml:description>Väghinder</gml:description>
+			<gml:name>61100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id129">
-			<gml:description>61200</gml:description>
-			<gml:name>Spårväg, kontaktstolpe</gml:name>
+		<gml:Definition gml:id="id271">
+			<gml:description>Spårväg, kontaktstolpe</gml:description>
+			<gml:name>61200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id130">
-			<gml:description>61300</gml:description>
-			<gml:name>Skylt</gml:name>
+		<gml:Definition gml:id="id272">
+			<gml:description>Skylt</gml:description>
+			<gml:name>61300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id131">
-			<gml:description>61301</gml:description>
-			<gml:name>Vägskylt</gml:name>
+		<gml:Definition gml:id="id273">
+			<gml:description>Vägskylt</gml:description>
+			<gml:name>61301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id132">
-			<gml:description>61301</gml:description>
-			<gml:name>Hängande skylt över väg</gml:name>
+		<gml:Definition gml:id="id274">
+			<gml:description>Hängande skylt över väg</gml:description>
+			<gml:name>61301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id133">
-			<gml:description>61302</gml:description>
-			<gml:name>Parkeringsskylt (tider)</gml:name>
+		<gml:Definition gml:id="id275">
+			<gml:description>Parkeringsskylt (tider)</gml:description>
+			<gml:name>61302</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id134">
-			<gml:description>61303</gml:description>
-			<gml:name>Spårväg, vit skylt (som visar hållplatsläge)</gml:name>
+		<gml:Definition gml:id="id276">
+			<gml:description>Spårväg, vit skylt (som visar hållplatsläge)</gml:description>
+			<gml:name>61303</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id135">
-			<gml:description>61303</gml:description>
-			<gml:name>Reklamskylt</gml:name>
+		<gml:Definition gml:id="id277">
+			<gml:description>Reklamskylt</gml:description>
+			<gml:name>61303</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id136">
-			<gml:description>61400</gml:description>
-			<gml:name>Busskur</gml:name>
+		<gml:Definition gml:id="id278">
+			<gml:description>Busskur</gml:description>
+			<gml:name>61400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id137">
-			<gml:description>61500</gml:description>
-			<gml:name>Farthinder</gml:name>
+		<gml:Definition gml:id="id279">
+			<gml:description>Farthinder</gml:description>
+			<gml:name>61500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id138">
-			<gml:description>61600</gml:description>
-			<gml:name>Påkörningsskydd (antiterror)</gml:name>
+		<gml:Definition gml:id="id280">
+			<gml:description>Påkörningsskydd (antiterror)</gml:description>
+			<gml:name>61600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id139">
-			<gml:description>61700</gml:description>
-			<gml:name>Biljettautomat</gml:name>
+		<gml:Definition gml:id="id281">
+			<gml:description>Biljettautomat</gml:description>
+			<gml:name>61700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id140">
-			<gml:description>61800</gml:description>
-			<gml:name>Trafiksignal</gml:name>
+		<gml:Definition gml:id="id282">
+			<gml:description>Trafiksignal</gml:description>
+			<gml:name>61800</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id141">
-			<gml:description>61900</gml:description>
-			<gml:name>Järnvägsignal</gml:name>
+		<gml:Definition gml:id="id283">
+			<gml:description>Järnvägsignal</gml:description>
+			<gml:name>61900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id142">
-			<gml:description>70001</gml:description>
-			<gml:name>Ospecificerad markutrustning</gml:name>
+		<gml:Definition gml:id="id284">
+			<gml:description>Ospecificerad markutrustning</gml:description>
+			<gml:name>70001</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
