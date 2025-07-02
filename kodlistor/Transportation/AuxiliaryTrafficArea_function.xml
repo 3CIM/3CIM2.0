@@ -2,147 +2,147 @@
 <gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="AuxiliaryTrafficArea_function">
 	<gml:name>AuxiliaryTrafficArea_function</gml:name>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id1">
-			<gml:description>10100</gml:description>
-			<gml:name>Vägren</gml:name>
+		<gml:Definition gml:id="id25">
+			<gml:description>Vägren</gml:description>
+			<gml:name>10100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id2">
-			<gml:description>10101</gml:description>
-			<gml:name>Mjuk vägren</gml:name>
+		<gml:Definition gml:id="id26">
+			<gml:description>Mjuk vägren</gml:description>
+			<gml:name>10101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id3">
-			<gml:description>10102</gml:description>
-			<gml:name>Hård vägren</gml:name>
+		<gml:Definition gml:id="id27">
+			<gml:description>Hård vägren</gml:description>
+			<gml:name>10102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id4">
-			<gml:description>10103</gml:description>
-			<gml:name>Dragväg</gml:name>
+		<gml:Definition gml:id="id28">
+			<gml:description>Dragväg</gml:description>
+			<gml:name>10103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id5">
-			<gml:description>10104</gml:description>
-			<gml:name>Ficka</gml:name>
+		<gml:Definition gml:id="id29">
+			<gml:description>Ficka</gml:description>
+			<gml:name>10104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id6">
-			<gml:description>10200</gml:description>
-			<gml:name>Separering</gml:name>
+		<gml:Definition gml:id="id30">
+			<gml:description>Separering</gml:description>
+			<gml:name>10200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id7">
-			<gml:description>10201</gml:description>
-			<gml:name>Separering med räcke</gml:name>
+		<gml:Definition gml:id="id31">
+			<gml:description>Separering med räcke</gml:description>
+			<gml:name>10201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id8">
-			<gml:description>10202</gml:description>
-			<gml:name>Separering med reflexrör</gml:name>
+		<gml:Definition gml:id="id32">
+			<gml:description>Separering med reflexrör</gml:description>
+			<gml:name>10202</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id9">
-			<gml:description>10203</gml:description>
-			<gml:name>Mittenfil</gml:name>
+		<gml:Definition gml:id="id33">
+			<gml:description>Mittenfil</gml:description>
+			<gml:name>10203</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id10">
-			<gml:description>10204</gml:description>
-			<gml:name>Refug</gml:name>
+		<gml:Definition gml:id="id34">
+			<gml:description>Refug</gml:description>
+			<gml:name>10204</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id11">
-			<gml:description>10205</gml:description>
-			<gml:name>Mittremsa</gml:name>
+		<gml:Definition gml:id="id35">
+			<gml:description>Mittremsa</gml:description>
+			<gml:name>10205</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id12">
-			<gml:description>10206</gml:description>
-			<gml:name>Skiljeremsa</gml:name>
+		<gml:Definition gml:id="id36">
+			<gml:description>Skiljeremsa</gml:description>
+			<gml:name>10206</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id13">
-			<gml:description>10207</gml:description>
-			<gml:name>Rondell</gml:name>
+		<gml:Definition gml:id="id37">
+			<gml:description>Rondell</gml:description>
+			<gml:name>10207</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id14">
-			<gml:description>10208</gml:description>
-			<gml:name>Kantsten</gml:name>
+		<gml:Definition gml:id="id38">
+			<gml:description>Kantsten</gml:description>
+			<gml:name>10208</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id15">
-			<gml:description>10300</gml:description>
-			<gml:name>Sidoområde</gml:name>
+		<gml:Definition gml:id="id39">
+			<gml:description>Sidoområde</gml:description>
+			<gml:name>10300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id16">
-			<gml:description>10301</gml:description>
-			<gml:name>Bank</gml:name>
+		<gml:Definition gml:id="id40">
+			<gml:description>Bank</gml:description>
+			<gml:name>10301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id17">
-			<gml:description>10302</gml:description>
-			<gml:name>Slänt</gml:name>
+		<gml:Definition gml:id="id41">
+			<gml:description>Slänt</gml:description>
+			<gml:name>10302</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id18">
-			<gml:description>10303</gml:description>
-			<gml:name>Dike</gml:name>
+		<gml:Definition gml:id="id42">
+			<gml:description>Dike</gml:description>
+			<gml:name>10303</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id19">
-			<gml:description>10304</gml:description>
-			<gml:name>Dränering</gml:name>
+		<gml:Definition gml:id="id43">
+			<gml:description>Dränering</gml:description>
+			<gml:name>10304</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id20">
-			<gml:description>10305</gml:description>
-			<gml:name>Dagvattenmagasin</gml:name>
+		<gml:Definition gml:id="id44">
+			<gml:description>Dagvattenmagasin</gml:description>
+			<gml:name>10305</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id21">
-			<gml:description>10400</gml:description>
-			<gml:name>Övrigt</gml:name>
+		<gml:Definition gml:id="id45">
+			<gml:description>Övrigt</gml:description>
+			<gml:name>10400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id22">
-			<gml:description>10401</gml:description>
-			<gml:name>Utrymme för snöupplag</gml:name>
+		<gml:Definition gml:id="id46">
+			<gml:description>Utrymme för snöupplag</gml:description>
+			<gml:name>10401</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id23">
-			<gml:description>10402</gml:description>
-			<gml:name>Bullerskydd</gml:name>
+		<gml:Definition gml:id="id47">
+			<gml:description>Bullerskydd</gml:description>
+			<gml:name>10402</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id24">
-			<gml:description>10403</gml:description>
-			<gml:name>Driftområde</gml:name>
+		<gml:Definition gml:id="id48">
+			<gml:description>Driftområde</gml:description>
+			<gml:name>10403</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
