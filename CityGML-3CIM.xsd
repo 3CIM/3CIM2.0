@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:app="http://www.opengis.net/citygml/appearance/2.0" xmlns:bldg="http://www.opengis.net/citygml/building/2.0"
+   xmlns:brid="http://www.opengis.net/citygml/bridge/2.0" xmlns:core="http://www.opengis.net/citygml/2.0" xmlns:frn="http://www.opengis.net/citygml/cityfurniture/2.0"
+   xmlns:gml="http://www.opengis.net/gml" xmlns:luse="http://www.opengis.net/citygml/landuse/2.0" xmlns:sc="http://www.interactive-instruments.de/ShapeChange/AppInfo"
+   xmlns:tran="http://www.opengis.net/citygml/transportation/2.0" xmlns:trecim="3CIM-Sweden/2.0" xmlns:tun="http://www.opengis.net/citygml/tunnel/2.0"
+   xmlns:veg="http://www.opengis.net/citygml/vegetation/2.0" xmlns:wtr="http://www.opengis.net/citygml/waterbody/2.0" elementFormDefault="qualified"
+   targetNamespace="3CIM-Sweden/2.0" version="1.0">
+   <import namespace="http://www.interactive-instruments.de/ShapeChange/AppInfo" schemaLocation="http://shapechange.net/resources/schema/ShapeChangeAppinfo.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/2.0" schemaLocation="http://schemas.opengis.net/citygml/2.0/cityGMLBase.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/appearance/2.0" schemaLocation="http://schemas.opengis.net/citygml/appearance/2.0/appearance.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/bridge/2.0" schemaLocation="http://schemas.opengis.net/citygml/bridge/2.0/bridge.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/building/2.0" schemaLocation="http://schemas.opengis.net/citygml/building/2.0/building.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/cityfurniture/2.0" schemaLocation="http://schemas.opengis.net/citygml/cityfurniture/2.0/cityFurniture.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/landuse/2.0" schemaLocation="http://schemas.opengis.net/citygml/landuse/2.0/landUse.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/transportation/2.0" schemaLocation="http://schemas.opengis.net/citygml/transportation/2.0/transportation.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/tunnel/2.0" schemaLocation="http://schemas.opengis.net/citygml/tunnel/2.0/tunnel.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/vegetation/2.0" schemaLocation="http://schemas.opengis.net/citygml/vegetation/2.0/vegetation.xsd"/>
+   <import namespace="http://www.opengis.net/citygml/waterbody/2.0" schemaLocation="http://schemas.opengis.net/citygml/waterbody/2.0/waterBody.xsd"/>
+   <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+   <!--XML Schema document created by ShapeChange - http://shapechange.net/-->
+   <element name="bridgeTransportUUID" substitutionGroup="brid:_GenericApplicationPropertyOfAbstractBridge" type="trecim:UUIDType"/>
+   <element name="bridgeMaterial" substitutionGroup="brid:_GenericApplicationPropertyOfBoundarySurface" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIPlanTidsperiodFran" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="objektUUID" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="trecim:UUIDType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="status" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="tidpunktForLagesbestamning" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="version" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="integer">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="tidpunktForKontrollAvGeometri" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIPlanTyp" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIPlanTidsperiodTill" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIHojdTyp" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIHojdTidsperiodFran" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="metodIHojdTidsperiodTill" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="osakertLage" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="absolutLagesosakerhetPlan" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="absolutLagesosakerhetHojd" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="validFrom" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="validTo" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="dateTime">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="coClass" substitutionGroup="core:_GenericApplicationPropertyOfCityObject" type="trecim:CoClassPropertyType">
+      <annotation>
+         <documentation>Id, Kod, Version</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">composition</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="tunnelTransportUUID" substitutionGroup="tun:_GenericApplicationPropertyOfAbstractTunnel" type="trecim:UUIDType"/>
+   <element name="tunnelMaterial" substitutionGroup="tun:_GenericApplicationPropertyOfBoundarySurface" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <simpleType name="BAS-006Type">
+      <annotation>
+         <documentation>Attribut med datatypen Text får inte ha ett värde som är tomt eller enbart innehålla blanktecken.
+            https://modeller.lantmateriet.se/index.php?m=1&amp;o=5D7FFFDC-A21D-4b96-8343-2A6F5B231430</documentation>
+      </annotation>
+      <restriction base="string"/>
+   </simpleType>
+   <element name="connectsToGround" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingInstallation" type="boolean">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="architecturalStyle" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="facadeAppearanceColor" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="app:Color">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="facadeAppearanceMaterial" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="facadeBaseAppearanceColor" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="app:Color">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="facadeBaseAppearanceMaterial" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="roofAppearanceColor" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="app:Color">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="windowFrameAppearanceColor" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="app:Color">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="parametricModuleSequenceType" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="roofAppearanceMaterial" substitutionGroup="bldg:_GenericApplicationPropertyOfBuildingPart" type="gml:CodeType"/>
+   <element name="cityFurnitureRelativeHeight" substitutionGroup="frn:_GenericApplicationPropertyOfCityFurniture" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="cityFurnitureWidth" substitutionGroup="frn:_GenericApplicationPropertyOfCityFurniture" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="CoClass" substitutionGroup="gml:_Object" type="trecim:CoClassType"/>
+   <complexType name="CoClassType">
+      <sequence>
+         <element name="coClassId" type="trecim:BAS-006Type"/>
+         <element maxOccurs="unbounded" name="coClassKod" type="trecim:BAS-006Type"/>
+         <element name="coClassVersion" type="trecim:BAS-006Type"/>
+      </sequence>
+   </complexType>
+   <complexType name="CoClassPropertyType">
+      <sequence>
+         <element ref="trecim:CoClass"/>
+      </sequence>
+   </complexType>
+   <element name="tunnelShape" substitutionGroup="tun:_GenericApplicationPropertyOfInteriorWallSurface" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="Intersection" substitutionGroup="tran:TransportationComplex" type="trecim:IntersectionType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="topLevel">false</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <complexType name="IntersectionType">
+      <complexContent>
+         <extension base="tran:TransportationComplexType">
+            <sequence/>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="IntersectionPropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:Intersection"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="LandCover" substitutionGroup="luse:LandUse" type="trecim:LandCoverType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="topLevel">true</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <complexType name="LandCoverType">
+      <complexContent>
+         <extension base="luse:LandUseType">
+            <sequence/>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="LandCoverPropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:LandCover"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="LandCoverClosureSurface" substitutionGroup="luse:LandUse" type="trecim:LandCoverClosureSurfaceType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="topLevel">true</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <complexType name="LandCoverClosureSurfaceType">
+      <complexContent>
+         <extension base="luse:LandUseType">
+            <sequence>
+               <element name="ursprungsObjektUUID" type="trecim:UUIDType">
+                  <annotation>
+                     <appinfo>
+                        <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+                     </appinfo>
+                  </annotation>
+               </element>
+            </sequence>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="LandCoverClosureSurfacePropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:LandCoverClosureSurface"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="Marking" substitutionGroup="gml:_Feature" type="trecim:MarkingType"/>
+   <complexType name="MarkingType">
+      <complexContent>
+         <extension base="gml:AbstractFeatureType">
+            <sequence>
+               <element name="markingType" type="gml:CodeType">
+                  <annotation>
+                     <appinfo>
+                        <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+                     </appinfo>
+                  </annotation>
+               </element>
+               <element minOccurs="0" name="lod2Point" type="gml:PointPropertyType"/>
+               <element minOccurs="0" name="lod2MultiCurve" type="gml:MultiCurvePropertyType"/>
+            </sequence>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="MarkingPropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:Marking"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="plantCoverSpeciesPopularName" substitutionGroup="veg:_GenericApplicationPropertyOfPlantCover" type="gml:CodeType"/>
+   <element name="trackGauge" substitutionGroup="tran:_GenericApplicationPropertyOfRailway" type="integer">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="sectionOfRailway" substitutionGroup="tran:_GenericApplicationPropertyOfRailway" type="trecim:SectionPropertyType">
+      <annotation>
+         <documentation>Relates to the sections that are part of the Railway.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="intersectionOfRailway" substitutionGroup="tran:_GenericApplicationPropertyOfRailway" type="trecim:IntersectionPropertyType">
+      <annotation>
+         <documentation>Relates to the intersections that are part of the Railway.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="sectionOfRoad" substitutionGroup="tran:_GenericApplicationPropertyOfRoad" type="trecim:SectionPropertyType">
+      <annotation>
+         <documentation>Relates to the sections that are part of the Road.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="intersectionOfRoad" substitutionGroup="tran:_GenericApplicationPropertyOfRoad" type="trecim:IntersectionPropertyType">
+      <annotation>
+         <documentation>Relates to the intersections that are part of the Road.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="Section" substitutionGroup="tran:TransportationComplex" type="trecim:SectionType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="topLevel">false</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <complexType name="SectionType">
+      <complexContent>
+         <extension base="tran:TransportationComplexType">
+            <sequence/>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="SectionPropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:Section"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="lowerCrownHeight" substitutionGroup="veg:_GenericApplicationPropertyOfSolitaryVegetationObject" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="solitaryVegetationSpeciesPopularName" substitutionGroup="veg:_GenericApplicationPropertyOfSolitaryVegetationObject" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="solitaryVegetationWidth" substitutionGroup="veg:_GenericApplicationPropertyOfSolitaryVegetationObject" type="double">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="sectionOfTrack" substitutionGroup="tran:_GenericApplicationPropertyOfTrack" type="trecim:SectionPropertyType">
+      <annotation>
+         <documentation>Relates to the sections that are part of the Track.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="intersectionOfTrack" substitutionGroup="tran:_GenericApplicationPropertyOfTrack" type="trecim:IntersectionPropertyType">
+      <annotation>
+         <documentation>Relates to the intersections that are part of the Track.</documentation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <element name="marking" substitutionGroup="tran:_GenericApplicationPropertyOfTrafficArea" type="trecim:MarkingPropertyType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="relationType">aggregation</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <simpleType name="UUIDType">
+      <restriction base="string">
+         <pattern value="([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12})"/>
+      </restriction>
+   </simpleType>
+   <element name="Utility" substitutionGroup="core:_CityObject" type="trecim:UtilityType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="topLevel">true</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+   <complexType name="UtilityType">
+      <complexContent>
+         <extension base="core:AbstractCityObjectType">
+            <sequence>
+               <element maxOccurs="unbounded" minOccurs="0" name="function" type="gml:CodeType"/>
+               <element minOccurs="0" name="class" type="gml:CodeType"/>
+               <element minOccurs="0" name="utilityDiameter" type="double"/>
+               <element minOccurs="0" name="lod1Point" type="gml:PointPropertyType"/>
+               <element minOccurs="0" name="lod1Surface" type="gml:SurfacePropertyType"/>
+               <element minOccurs="0" name="lod1ImplicitRepresentation" type="core:ImplicitRepresentationPropertyType"/>
+               <element minOccurs="0" name="lod1MultiCurve" type="gml:MultiCurvePropertyType"/>
+               <element minOccurs="0" name="lod2MultiCurve" type="gml:MultiCurvePropertyType"/>
+            </sequence>
+         </extension>
+      </complexContent>
+   </complexType>
+   <complexType name="UtilityPropertyType">
+      <sequence minOccurs="0">
+         <element ref="trecim:Utility"/>
+      </sequence>
+      <attributeGroup ref="gml:AssociationAttributeGroup"/>
+   </complexType>
+   <element name="waterLevel" substitutionGroup="wtr:_GenericApplicationPropertyOfWaterBody" type="gml:CodeType">
+      <annotation>
+         <appinfo>
+            <sc:taggedValue tag="maxOccurs">1</sc:taggedValue>
+         </appinfo>
+      </annotation>
+   </element>
+</schema>
