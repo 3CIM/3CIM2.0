@@ -2,477 +2,477 @@
 <gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="TrafficArea_function">
 	<gml:name>TrafficArea_function</gml:name>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id1">
-			<gml:description>10100</gml:description>
-			<gml:name>Körbana</gml:name>
+		<gml:Definition gml:id="id80">
+			<gml:description>Körbana</gml:description>
+			<gml:name>10100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id2">
-			<gml:description>10101</gml:description>
-			<gml:name>Bilväg</gml:name>
+		<gml:Definition gml:id="id81">
+			<gml:description>Bilväg</gml:description>
+			<gml:name>10101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id3">
-			<gml:description>10102</gml:description>
-			<gml:name>Landsväg</gml:name>
+		<gml:Definition gml:id="id82">
+			<gml:description>Landsväg</gml:description>
+			<gml:name>10102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id4">
-			<gml:description>10103</gml:description>
-			<gml:name>Motorväg</gml:name>
+		<gml:Definition gml:id="id83">
+			<gml:description>Motorväg</gml:description>
+			<gml:name>10103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id5">
-			<gml:description>10104</gml:description>
-			<gml:name>Motortrafikled</gml:name>
+		<gml:Definition gml:id="id84">
+			<gml:description>Motortrafikled</gml:description>
+			<gml:name>10104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id6">
-			<gml:description>10105</gml:description>
-			<gml:name>Tvåfältsväg</gml:name>
+		<gml:Definition gml:id="id85">
+			<gml:description>Tvåfältsväg</gml:description>
+			<gml:name>10105</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id7">
-			<gml:description>10106</gml:description>
-			<gml:name>Enfältsväg</gml:name>
+		<gml:Definition gml:id="id86">
+			<gml:description>Enfältsväg</gml:description>
+			<gml:name>10106</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id8">
-			<gml:description>10107</gml:description>
-			<gml:name>Gata</gml:name>
+		<gml:Definition gml:id="id87">
+			<gml:description>Gata</gml:description>
+			<gml:name>10107</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id9">
-			<gml:description>10108</gml:description>
-			<gml:name>Gågata</gml:name>
+		<gml:Definition gml:id="id88">
+			<gml:description>Gågata</gml:description>
+			<gml:name>10108</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id10">
-			<gml:description>10108</gml:description>
-			<gml:name>Sommargågata</gml:name>
+		<gml:Definition gml:id="id89">
+			<gml:description>Sommargågata</gml:description>
+			<gml:name>10108</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id11">
-			<gml:description>10109</gml:description>
-			<gml:name>Gångfartsområde</gml:name>
+		<gml:Definition gml:id="id90">
+			<gml:description>Gångfartsområde</gml:description>
+			<gml:name>10109</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id12">
-			<gml:description>10111</gml:description>
-			<gml:name>Omkörningsfil</gml:name>
+		<gml:Definition gml:id="id91">
+			<gml:description>Omkörningsfil</gml:description>
+			<gml:name>10111</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id13">
-			<gml:description>10112</gml:description>
-			<gml:name>Isväg</gml:name>
+		<gml:Definition gml:id="id92">
+			<gml:description>Isväg</gml:description>
+			<gml:name>10112</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id14">
-			<gml:description>10113</gml:description>
-			<gml:name>Korsning</gml:name>
+		<gml:Definition gml:id="id93">
+			<gml:description>Korsning</gml:description>
+			<gml:name>10113</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id15">
-			<gml:description>10114</gml:description>
-			<gml:name>Cirkulationsplats</gml:name>
+		<gml:Definition gml:id="id94">
+			<gml:description>Cirkulationsplats</gml:description>
+			<gml:name>10114</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id16">
-			<gml:description>10115</gml:description>
-			<gml:name>Skogsbilväg</gml:name>
+		<gml:Definition gml:id="id95">
+			<gml:description>Skogsbilväg</gml:description>
+			<gml:name>10115</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id17">
-			<gml:description>10116</gml:description>
-			<gml:name>Påfart/avfart</gml:name>
+		<gml:Definition gml:id="id96">
+			<gml:description>Påfart/avfart</gml:description>
+			<gml:name>10116</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id18">
-			<gml:description>10117</gml:description>
-			<gml:name>Hållplatsficka</gml:name>
+		<gml:Definition gml:id="id97">
+			<gml:description>Hållplatsficka</gml:description>
+			<gml:name>10117</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id19">
-			<gml:description>10118</gml:description>
-			<gml:name>Hållplats i körbana</gml:name>
+		<gml:Definition gml:id="id98">
+			<gml:description>Hållplats i körbana</gml:description>
+			<gml:name>10118</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id20">
-			<gml:description>10200</gml:description>
-			<gml:name>Gångväg</gml:name>
+		<gml:Definition gml:id="id99">
+			<gml:description>Gångväg</gml:description>
+			<gml:name>10200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id21">
-			<gml:description>10201</gml:description>
-			<gml:name>Gångbana</gml:name>
+		<gml:Definition gml:id="id100">
+			<gml:description>Gångbana</gml:description>
+			<gml:name>10201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id22">
-			<gml:description>10202</gml:description>
-			<gml:name>Trottoar</gml:name>
+		<gml:Definition gml:id="id101">
+			<gml:description>Trottoar</gml:description>
+			<gml:name>10202</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id23">
-			<gml:description>10203</gml:description>
-			<gml:name>Stig</gml:name>
+		<gml:Definition gml:id="id102">
+			<gml:description>Stig</gml:description>
+			<gml:name>10203</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id24">
-			<gml:description>10204</gml:description>
-			<gml:name>Vandringsled</gml:name>
+		<gml:Definition gml:id="id103">
+			<gml:description>Vandringsled</gml:description>
+			<gml:name>10204</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id25">
-			<gml:description>10205</gml:description>
-			<gml:name>Övergångsställe</gml:name>
+		<gml:Definition gml:id="id104">
+			<gml:description>Övergångsställe</gml:description>
+			<gml:name>10205</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id26">
-			<gml:description>10206</gml:description>
-			<gml:name>Gångpassage</gml:name>
+		<gml:Definition gml:id="id105">
+			<gml:description>Gångpassage</gml:description>
+			<gml:name>10206</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id27">
-			<gml:description>10300</gml:description>
-			<gml:name>Cykelväg</gml:name>
+		<gml:Definition gml:id="id106">
+			<gml:description>Cykelväg</gml:description>
+			<gml:name>10300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id28">
-			<gml:description>10301</gml:description>
-			<gml:name>Cykelbana</gml:name>
+		<gml:Definition gml:id="id107">
+			<gml:description>Cykelbana</gml:description>
+			<gml:name>10301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id29">
-			<gml:description>10302</gml:description>
-			<gml:name>Cykelled</gml:name>
+		<gml:Definition gml:id="id108">
+			<gml:description>Cykelled</gml:description>
+			<gml:name>10302</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id30">
-			<gml:description>10303</gml:description>
-			<gml:name>Cykelstig</gml:name>
+		<gml:Definition gml:id="id109">
+			<gml:description>Cykelstig</gml:description>
+			<gml:name>10303</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id31">
-			<gml:description>10304</gml:description>
-			<gml:name>Cykelfält</gml:name>
+		<gml:Definition gml:id="id110">
+			<gml:description>Cykelfält</gml:description>
+			<gml:name>10304</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id32">
-			<gml:description>10305</gml:description>
-			<gml:name>Cykelpassage</gml:name>
+		<gml:Definition gml:id="id111">
+			<gml:description>Cykelpassage</gml:description>
+			<gml:name>10305</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id33">
-			<gml:description>10306</gml:description>
-			<gml:name>Cykelöverfart</gml:name>
+		<gml:Definition gml:id="id112">
+			<gml:description>Cykelöverfart</gml:description>
+			<gml:name>10306</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id34">
-			<gml:description>10307</gml:description>
-			<gml:name>Sommarcykelväg</gml:name>
+		<gml:Definition gml:id="id113">
+			<gml:description>Sommarcykelväg</gml:description>
+			<gml:name>10307</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id35">
-			<gml:description>10400</gml:description>
-			<gml:name>GC-väg</gml:name>
+		<gml:Definition gml:id="id114">
+			<gml:description>GC-väg</gml:description>
+			<gml:name>10400</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id36">
-			<gml:description>10401</gml:description>
-			<gml:name>Gemensam GC-väg</gml:name>
+		<gml:Definition gml:id="id115">
+			<gml:description>Gemensam GC-väg</gml:description>
+			<gml:name>10401</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id37">
-			<gml:description>10402</gml:description>
-			<gml:name>Uppdelad GC-väg</gml:name>
+		<gml:Definition gml:id="id116">
+			<gml:description>Uppdelad GC-väg</gml:description>
+			<gml:name>10402</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id38">
-			<gml:description>10500</gml:description>
-			<gml:name>Torg</gml:name>
+		<gml:Definition gml:id="id117">
+			<gml:description>Torg</gml:description>
+			<gml:name>10500</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id39">
-			<gml:description>10600</gml:description>
-			<gml:name>Parkering</gml:name>
+		<gml:Definition gml:id="id118">
+			<gml:description>Parkering</gml:description>
+			<gml:name>10600</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id40">
-			<gml:description>10601</gml:description>
-			<gml:name>Fickparkering</gml:name>
+		<gml:Definition gml:id="id119">
+			<gml:description>Fickparkering</gml:description>
+			<gml:name>10601</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id41">
-			<gml:description>10602</gml:description>
-			<gml:name>Lodrät parkering</gml:name>
+		<gml:Definition gml:id="id120">
+			<gml:description>Lodrät parkering</gml:description>
+			<gml:name>10602</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id42">
-			<gml:description>10603</gml:description>
-			<gml:name>Vinkelparkering</gml:name>
+		<gml:Definition gml:id="id121">
+			<gml:description>Vinkelparkering</gml:description>
+			<gml:name>10603</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id43">
-			<gml:description>10604</gml:description>
-			<gml:name>Parkeringsruta</gml:name>
+		<gml:Definition gml:id="id122">
+			<gml:description>Parkeringsruta</gml:description>
+			<gml:name>10604</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id44">
-			<gml:description>10605</gml:description>
-			<gml:name>Cykelparkering</gml:name>
+		<gml:Definition gml:id="id123">
+			<gml:description>Cykelparkering</gml:description>
+			<gml:name>10605</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id45">
-			<gml:description>10606</gml:description>
-			<gml:name>Elscooterparkering</gml:name>
+		<gml:Definition gml:id="id124">
+			<gml:description>Elscooterparkering</gml:description>
+			<gml:name>10606</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id46">
-			<gml:description>10607</gml:description>
-			<gml:name>Motorcykelparkering</gml:name>
+		<gml:Definition gml:id="id125">
+			<gml:description>Motorcykelparkering</gml:description>
+			<gml:name>10607</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id47">
-			<gml:description>10608</gml:description>
-			<gml:name>Bussparkering</gml:name>
+		<gml:Definition gml:id="id126">
+			<gml:description>Bussparkering</gml:description>
+			<gml:name>10608</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id48">
-			<gml:description>10609</gml:description>
-			<gml:name>Lastbilsparkering</gml:name>
+		<gml:Definition gml:id="id127">
+			<gml:description>Lastbilsparkering</gml:description>
+			<gml:name>10609</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id49">
-			<gml:description>10610</gml:description>
-			<gml:name>Ställplats</gml:name>
+		<gml:Definition gml:id="id128">
+			<gml:description>Ställplats</gml:description>
+			<gml:name>10610</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id50">
-			<gml:description>10700</gml:description>
-			<gml:name>Övrigt</gml:name>
+		<gml:Definition gml:id="id129">
+			<gml:description>Övrigt</gml:description>
+			<gml:name>10700</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id51">
-			<gml:description>10701</gml:description>
-			<gml:name>Ridväg</gml:name>
+		<gml:Definition gml:id="id130">
+			<gml:description>Ridväg</gml:description>
+			<gml:name>10701</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id52">
-			<gml:description>10702</gml:description>
-			<gml:name>Övrigled</gml:name>
+		<gml:Definition gml:id="id131">
+			<gml:description>Övrigled</gml:description>
+			<gml:name>10702</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id53">
-			<gml:description>20100</gml:description>
-			<gml:name>Spårområde</gml:name>
+		<gml:Definition gml:id="id132">
+			<gml:description>Spårområde</gml:description>
+			<gml:name>20100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id54">
-			<gml:description>20101</gml:description>
-			<gml:name>Spårvagn</gml:name>
+		<gml:Definition gml:id="id133">
+			<gml:description>Spårvagn</gml:description>
+			<gml:name>20101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id55">
-			<gml:description>20102</gml:description>
-			<gml:name>Lokalbana</gml:name>
+		<gml:Definition gml:id="id134">
+			<gml:description>Lokalbana</gml:description>
+			<gml:name>20102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id56">
-			<gml:description>20103</gml:description>
-			<gml:name>Tunnelbana</gml:name>
+		<gml:Definition gml:id="id135">
+			<gml:description>Tunnelbana</gml:description>
+			<gml:name>20103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id57">
-			<gml:description>20104</gml:description>
-			<gml:name>Regionalbana</gml:name>
+		<gml:Definition gml:id="id136">
+			<gml:description>Regionalbana</gml:description>
+			<gml:name>20104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id58">
-			<gml:description>20105</gml:description>
-			<gml:name>Bangård</gml:name>
+		<gml:Definition gml:id="id137">
+			<gml:description>Bangård</gml:description>
+			<gml:name>20105</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id59">
-			<gml:description>20106</gml:description>
-			<gml:name>Driftplats</gml:name>
+		<gml:Definition gml:id="id138">
+			<gml:description>Driftplats</gml:description>
+			<gml:name>20106</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id60">
-			<gml:description>20107</gml:description>
-			<gml:name>Industrispår</gml:name>
+		<gml:Definition gml:id="id139">
+			<gml:description>Industrispår</gml:description>
+			<gml:name>20107</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id61">
-			<gml:description>20108</gml:description>
-			<gml:name>Musiespår</gml:name>
+		<gml:Definition gml:id="id140">
+			<gml:description>Musiespår</gml:description>
+			<gml:name>20108</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id62">
-			<gml:description>20109</gml:description>
-			<gml:name>Dresin</gml:name>
+		<gml:Definition gml:id="id141">
+			<gml:description>Dresin</gml:description>
+			<gml:name>20109</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id63">
-			<gml:description>20200</gml:description>
-			<gml:name>Kombinerat spår/vägtrafik</gml:name>
+		<gml:Definition gml:id="id142">
+			<gml:description>Kombinerat spår/vägtrafik</gml:description>
+			<gml:name>20200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id64">
-			<gml:description>20300</gml:description>
-			<gml:name>Plattform</gml:name>
+		<gml:Definition gml:id="id143">
+			<gml:description>Plattform</gml:description>
+			<gml:name>20300</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id65">
-			<gml:description>20301</gml:description>
-			<gml:name>Lastkaj</gml:name>
+		<gml:Definition gml:id="id144">
+			<gml:description>Lastkaj</gml:description>
+			<gml:name>20301</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id66">
-			<gml:description>20302</gml:description>
-			<gml:name>Perrong</gml:name>
+		<gml:Definition gml:id="id145">
+			<gml:description>Perrong</gml:description>
+			<gml:name>20302</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id67">
-			<gml:description>30100</gml:description>
-			<gml:name>Flygplats</gml:name>
+		<gml:Definition gml:id="id146">
+			<gml:description>Flygplats</gml:description>
+			<gml:name>30100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id68">
-			<gml:description>30001</gml:description>
-			<gml:name>Rullbana</gml:name>
+		<gml:Definition gml:id="id147">
+			<gml:description>Rullbana</gml:description>
+			<gml:name>30001</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id69">
-			<gml:description>30102</gml:description>
-			<gml:name>Platta</gml:name>
+		<gml:Definition gml:id="id148">
+			<gml:description>Platta</gml:description>
+			<gml:name>30102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id70">
-			<gml:description>30103</gml:description>
-			<gml:name>Taxibana</gml:name>
+		<gml:Definition gml:id="id149">
+			<gml:description>Taxibana</gml:description>
+			<gml:name>30103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id71">
-			<gml:description>30104</gml:description>
-			<gml:name>Helikopterlandningsplats</gml:name>
+		<gml:Definition gml:id="id150">
+			<gml:description>Helikopterlandningsplats</gml:description>
+			<gml:name>30104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id72">
-			<gml:description>40100</gml:description>
-			<gml:name>Farled</gml:name>
+		<gml:Definition gml:id="id151">
+			<gml:description>Farled</gml:description>
+			<gml:name>40100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id73">
-			<gml:description>40101</gml:description>
-			<gml:name>Vägfärja</gml:name>
+		<gml:Definition gml:id="id152">
+			<gml:description>Vägfärja</gml:description>
+			<gml:name>40101</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id74">
-			<gml:description>40102</gml:description>
-			<gml:name>Godstrafik</gml:name>
+		<gml:Definition gml:id="id153">
+			<gml:description>Godstrafik</gml:description>
+			<gml:name>40102</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id75">
-			<gml:description>40103</gml:description>
-			<gml:name>Kollektivtrafik</gml:name>
+		<gml:Definition gml:id="id154">
+			<gml:description>Kollektivtrafik</gml:description>
+			<gml:name>40103</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id76">
-			<gml:description>40104</gml:description>
-			<gml:name>Färja</gml:name>
+		<gml:Definition gml:id="id155">
+			<gml:description>Färja</gml:description>
+			<gml:name>40104</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id77">
-			<gml:description>40105</gml:description>
-			<gml:name>Kanal</gml:name>
+		<gml:Definition gml:id="id156">
+			<gml:description>Kanal</gml:description>
+			<gml:name>40105</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id78">
-			<gml:description>40200</gml:description>
-			<gml:name>Vattentrafiksområde</gml:name>
+		<gml:Definition gml:id="id157">
+			<gml:description>Vattentrafiksområde</gml:description>
+			<gml:name>40200</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id79">
-			<gml:description>40201</gml:description>
-			<gml:name>Hamntrafik</gml:name>
+		<gml:Definition gml:id="id158">
+			<gml:description>Hamntrafik</gml:description>
+			<gml:name>40201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 </gml:Dictionary>
