@@ -3,3 +3,4 @@ xml schema (xsd) file for 3CIM can be downloaded from main: /3CIM/3CIM2.0/main/C
 
 Testdata files:
 Malmo_testdata_IJGI_2025.zip - data over Malmö described in the article:
+Includes the CityGML modules: Transportation, Vegetation, WaterBody, CityFurniture, Building and LandUse (extended with the class LandCover).
