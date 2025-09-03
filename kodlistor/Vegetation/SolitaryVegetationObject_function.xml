@@ -22,7 +22,7 @@
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id4">
 			<gml:name>10105</gml:name>
-			<gml:description>Perenna växt</gml:description>
+			<gml:description>Perenn växt</gml:description>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
@@ -109,4 +109,5 @@
 			<gml:description>Okänt</gml:description>
 		</gml:Definition>
 	</gml:dictionaryEntry>
+
 </gml:Dictionary>
