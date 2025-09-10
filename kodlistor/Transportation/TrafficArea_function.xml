@@ -363,13 +363,13 @@
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id140">
-			<gml:description>Musiespår</gml:description>
+			<gml:description>Museispår</gml:description>
 			<gml:name>20108</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id141">
-			<gml:description>Dresin</gml:description>
+			<gml:description>Dressin</gml:description>
 			<gml:name>20109</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
@@ -475,4 +475,5 @@
 			<gml:name>40201</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
+
 </gml:Dictionary>
