@@ -867,7 +867,7 @@
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
 		<gml:Definition gml:id="id145">
-			<gml:description>Järnvägsignal</gml:description>
+			<gml:description>Järnvägssignal</gml:description>
 			<gml:name>61900</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
@@ -877,4 +877,5 @@
 			<gml:name>70001</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
+
 </gml:Dictionary>
