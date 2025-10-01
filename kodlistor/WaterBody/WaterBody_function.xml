@@ -2,271 +2,277 @@
 <gml:Dictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.opengis.net/gml http://schemas.opengis.net/gml/3.1.1/profiles/SimpleDictionary/1.0.0/gmlSimpleDictionaryProfile.xsd" gml:id="WaterBody_function">
 	<gml:name>WaterBody_function</gml:name>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id46">
-			<gml:description>Ospecificerat vatten</gml:description>
+		<gml:Definition gml:id="id1">
+			<gml:description>Strandlinje</gml:description>
 			<gml:name>700000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id47">
+		<gml:Definition gml:id="id2">
+			<gml:description>Ospecificerat vatten</gml:description>
+			<gml:name>700999</gml:name>
+		</gml:Definition>
+	</gml:dictionaryEntry>
+	<gml:dictionaryEntry>
+		<gml:Definition gml:id="id3">
 			<gml:description>Sjö</gml:description>
 			<gml:name>711000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id48">
+		<gml:Definition gml:id="id4">
 			<gml:description>Regleringsmagasin</gml:description>
 			<gml:name>711100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id49">
+		<gml:Definition gml:id="id5">
 			<gml:description>Vattendrag</gml:description>
 			<gml:name>712000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id50">
+		<gml:Definition gml:id="id6">
 			<gml:description>Älv</gml:description>
 			<gml:name>712010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id51">
+		<gml:Definition gml:id="id7">
 			<gml:description>Flod</gml:description>
 			<gml:name>712020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id52">
+		<gml:Definition gml:id="id8">
 			<gml:description>Å</gml:description>
 			<gml:name>712030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id53">
+		<gml:Definition gml:id="id9">
 			<gml:description>Bäck</gml:description>
 			<gml:name>712040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id54">
+		<gml:Definition gml:id="id10">
 			<gml:description>Dike</gml:description>
 			<gml:name>712050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id55">
+		<gml:Definition gml:id="id11">
 			<gml:description>Källa</gml:description>
 			<gml:name>712060</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id56">
+		<gml:Definition gml:id="id12">
 			<gml:description>Vattenhål</gml:description>
 			<gml:name>712070</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id57">
+		<gml:Definition gml:id="id13">
 			<gml:description>Stående vatten</gml:description>
 			<gml:name>712080</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id58">
+		<gml:Definition gml:id="id14">
 			<gml:description>Vattenfall</gml:description>
 			<gml:name>712090</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id59">
+		<gml:Definition gml:id="id15">
 			<gml:description>Fors</gml:description>
 			<gml:name>712100</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id60">
+		<gml:Definition gml:id="id16">
 			<gml:description>Träsk</gml:description>
 			<gml:name>712110</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id61">
+		<gml:Definition gml:id="id17">
 			<gml:description>Sjunkhål (karst)</gml:description>
 			<gml:name>712120</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id62">
+		<gml:Definition gml:id="id18">
 			<gml:description>Tillfälliga vattendrag</gml:description>
 			<gml:name>712130</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id63">
+		<gml:Definition gml:id="id19">
 			<gml:description>Översvämmad mark</gml:description>
 			<gml:name>712140</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id64">
+		<gml:Definition gml:id="id20">
 			<gml:description>Akvedukt</gml:description>
 			<gml:name>712150</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id65">
+		<gml:Definition gml:id="id21">
 			<gml:description>Kanal</gml:description>
 			<gml:name>712160</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id66">
+		<gml:Definition gml:id="id22">
 			<gml:description>Sluss</gml:description>
 			<gml:name>712170</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id67">
+		<gml:Definition gml:id="id23">
 			<gml:description>Fisktrappa</gml:description>
 			<gml:name>712180</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id68">
+		<gml:Definition gml:id="id24">
 			<gml:description>Övrig vattendrag</gml:description>
 			<gml:name>712999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id69">
+		<gml:Definition gml:id="id25">
 			<gml:description>Anlagt vatten</gml:description>
 			<gml:name>713000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id70">
+		<gml:Definition gml:id="id26">
 			<gml:description>Hamnbassäng</gml:description>
 			<gml:name>713010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id71">
+		<gml:Definition gml:id="id27">
 			<gml:description>Reservoar</gml:description>
 			<gml:name>713020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id72">
+		<gml:Definition gml:id="id28">
 			<gml:description>Simbassäng</gml:description>
 			<gml:name>713030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id73">
+		<gml:Definition gml:id="id29">
 			<gml:description>Plaskdamm</gml:description>
 			<gml:name>713031</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id74">
+		<gml:Definition gml:id="id30">
 			<gml:description>Fontän</gml:description>
 			<gml:name>713040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id75">
+		<gml:Definition gml:id="id31">
 			<gml:description>Cistern</gml:description>
 			<gml:name>713050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id76">
+		<gml:Definition gml:id="id32">
 			<gml:description>Damm</gml:description>
 			<gml:name>713060</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id77">
+		<gml:Definition gml:id="id33">
 			<gml:description>Reningsdamm</gml:description>
 			<gml:name>713061</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id78">
+		<gml:Definition gml:id="id34">
 			<gml:description>Infiltrationsdamm</gml:description>
 			<gml:name>713062</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id79">
+		<gml:Definition gml:id="id35">
 			<gml:description>Lakvattendamm</gml:description>
 			<gml:name>713063</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id80">
+		<gml:Definition gml:id="id36">
 			<gml:description>Spillvattendamm</gml:description>
 			<gml:name>713064</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id81">
+		<gml:Definition gml:id="id37">
 			<gml:description>Dagvattendamm</gml:description>
 			<gml:name>713065</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id82">
+		<gml:Definition gml:id="id38">
 			<gml:description>Branddamm</gml:description>
 			<gml:name>713066</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id83">
+		<gml:Definition gml:id="id39">
 			<gml:description>Övrig anlagt vatten</gml:description>
 			<gml:name>713999</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id84">
+		<gml:Definition gml:id="id40">
 			<gml:description>Hav</gml:description>
 			<gml:name>721000</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id85">
+		<gml:Definition gml:id="id41">
 			<gml:description>Öppet hav</gml:description>
 			<gml:name>721010</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id86">
+		<gml:Definition gml:id="id42">
 			<gml:description>Kust hav</gml:description>
 			<gml:name>721020</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id87">
+		<gml:Definition gml:id="id43">
 			<gml:description>Estuarie</gml:description>
 			<gml:name>721030</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id88">
+		<gml:Definition gml:id="id44">
 			<gml:description>Kustlagun</gml:description>
 			<gml:name>721040</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id89">
+		<gml:Definition gml:id="id45">
 			<gml:description>Tidvatten</gml:description>
 			<gml:name>721050</gml:name>
 		</gml:Definition>
 	</gml:dictionaryEntry>
 	<gml:dictionaryEntry>
-		<gml:Definition gml:id="id90">
+		<gml:Definition gml:id="id46">
 			<gml:description>Övrig hav</gml:description>
 			<gml:name>721999</gml:name>
 		</gml:Definition>
