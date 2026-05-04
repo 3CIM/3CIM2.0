@@ -1,0 +1,51 @@
+# baseURI: http://digitalsamverkan.se/data/test3cim
+# imports: http://digitalsamverkan.se/ont/3cim--geosparql
+# prefix: test3cim
+
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix p3cim: <http://digitalsamverkan.se/ont/3cim#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sf: <http://www.opengis.net/ont/sf#> .
+@prefix test3cim: <http://digitalsamverkan.se/data/test3cim#> .
+@prefix veg: <http://www.opengis.net/citygml/vegetation/2.0/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://digitalsamverkan.se/data/test3cim>
+  rdf:type owl:Ontology ;
+  owl:imports <http://digitalsamverkan.se/ont/3cim--geosparql> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+test3cim:GeometryMetadata_1
+  rdf:type p3cim:GeometryMetadata ;
+  p3cim:absolutLagesosakerhetHojd "0.1"^^xsd:float ;
+  p3cim:absolutLagesosakerhetPlan "0.1"^^xsd:float ;
+  p3cim:lagesbestamningsmetidIHojd test3cim:Lagesbestamningsmetod_1 ;
+  p3cim:lagesbestamningsmetidIPlan test3cim:Lagesbestamningsmetod_2 ;
+  p3cim:tidpunktForKontrollAvGeometri "2024-06-20T10:24:17.057"^^xsd:dateTime ;
+  p3cim:tidpunktForLagesbestamning "2024-06-20T10:24:11.722"^^xsd:dateTime ;
+.
+test3cim:Lagesbestamningsmetod_1
+  rdf:type p3cim:Lagesbestamningsmetod ;
+  p3cim:typ p3cim:AnledningTillOsakertLage_LägesplaceringIUngefärligtLäge ;
+.
+test3cim:Lagesbestamningsmetod_2
+  rdf:type p3cim:Lagesbestamningsmetod ;
+  p3cim:typ p3cim:TypAvLagesbestamningsmetod_FotogrammetriskDetaljmätning ;
+.
+test3cim:Point_1
+  rdf:type sf:Point ;
+  geo:asWKT "POINT Z(535726. 6715557.  100.)"^^geo:wktLiteral ;
+.
+test3cim:SolitaryVegetationObject_1
+  rdf:type veg:SolitaryVegetationObject ;
+  <http://dbpedia.org/ontology/species> <http://dbpedia.org/resource/Betula_pendula> ;
+  p3cim:geometryMetadata test3cim:GeometryMetadata_1 ;
+  p3cim:lod2Point test3cim:Point_1 ;
+  p3cim:lowerCrownHeight "10"^^xsd:float ;
+  p3cim:solitaryVegetationSpeciesPopularName "Björk" ;
+  p3cim:solitaryVegetationWidth "4"^^xsd:float ;
+  p3cim:vegetationObjectId "8a7c14bc-453a-4fc4-8b88-b05339641ce9" ;
+  p3cim:vegetationObjectVersion 1 ;
+.

@@ -1,0 +1,1137 @@
+# baseURI: http://digitalsamverkan.se/ont/3cim
+# imports: http://cui.unige.ch/citygml/2.0/
+# imports: http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf
+# imports: http://www.w3.org/2006/time
+# imports: https://www.opengis.net/ont/sf
+# prefix: p3cim
+
+@prefix : <http://digitalsamverkan.se/ont/3cim#> .
+@prefix core: <http://www.opengis.net/citygml/2.0/> .
+@prefix gml: <http://www.opengis.net/gml/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix p2.0: <http://cui.unige.ch/citygml/2.0/> .
+@prefix p3cim: <http://digitalsamverkan.se/ont/3cim#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://digitalsamverkan.se/ont/3cim>
+  rdf:type owl:Ontology ;
+  rdfs:comment "OWL representation based on the information model developed by the 3CIM-project"@en ;
+  rdfs:comment "OWL-representation av 3CIM-projektets informationsmodell"@sv ;
+  rdfs:label "3CIM Ontology"@en ;
+  rdfs:label "3CIM-ontologi"@sv ;
+  rdfs:seeAlso <https://www.smartbuilt.se/projekt/informationsinfrastruktur/3cim/> ;
+  owl:imports p2.0: ;
+  owl:imports <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf> ;
+  owl:imports <http://www.w3.org/2006/time> ;
+  owl:imports <https://www.opengis.net/ont/sf> ;
+  owl:priorVersion <http://digitalsamverkan.se/ont/3cim/1.0> ;
+  owl:versionIRI <http://digitalsamverkan.se/ont/3cim/2.0> ;
+  owl:versionInfo "2.0" ;
+.
+p3cim:AnledningTillOsakertLage
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:Codelist ;
+  owl:deprecated "true"^^xsd:boolean ;
+  owl:oneOf (
+      p3cim:AnledningTillOsakertLage_LägesplaceringIUngefärligtLäge
+      p3cim:AnledningTillOsakertLage_SkymtLägeVidInmätning
+      p3cim:AnledningTillOsakertLage_LägesplaceringIIllustrativtLäge
+    ) ;
+.
+p3cim:AnledningTillOsakertLage_LägesplaceringIIllustrativtLäge
+  rdf:type p3cim:AnledningTillOsakertLage ;
+  rdfs:label "Lägesplacering i illustrativt läge"@sv ;
+.
+p3cim:AnledningTillOsakertLage_LägesplaceringIUngefärligtLäge
+  rdf:type p3cim:AnledningTillOsakertLage ;
+  rdfs:label "Lägesplacering i ungefärligt läge"@sv ;
+.
+p3cim:AnledningTillOsakertLage_SkymtLägeVidInmätning
+  rdf:type p3cim:AnledningTillOsakertLage ;
+  rdfs:label "Skymt läge vid inmätning"@sv ;
+.
+p3cim:Bridge
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/bridge/2.0/Bridge> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:bridgeTransportUUID ;
+    ] ;
+.
+p3cim:BuildingInstallation
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/building/2.0/BuildingInstallation> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:connectsToGround ;
+    ] ;
+.
+p3cim:BuildingPart
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/building/2.0/BuildingPart> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:architecturalStyle ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:facadeAppearanceColor ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:facadeAppearanceMaterial ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:facadeBaseAppearanceColor ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:facadeBaseAppearanceMaterial ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:parametricModuleSequenceType ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:roofAppearanceColor ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:roofAppearanceMaterial ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:windowFrameAppearanceColor ;
+    ] ;
+.
+p3cim:CityFurniture
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/cityfurniture/2.0/CityFurniture> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:cityFurnitureRelativeHeight ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:cityFurnitureWidth ;
+    ] ;
+.
+p3cim:CoClass
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:ThreeCIMRoot ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:coClassId ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:coClassVersion ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:coClassKod ;
+    ] ;
+.
+p3cim:Codelist
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:ThreeCIMRoot ;
+.
+p3cim:Diameter
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:float ;
+  rdfs:subPropertyOf p3cim:MeasureValue ;
+.
+p3cim:GeometryMetadata
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:ThreeCIMRoot ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:absolutLagesosakerhetHojd ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:absolutLagesosakerhetPlan ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:lagesbestamningsmetodIHojd ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:lagesbestamningsmetodIPlan ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:osakertLage ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tidpunktForKontrollAvGeometri ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tidpunktForLagesbestamning ;
+    ] ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:Height
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:float ;
+  rdfs:subPropertyOf p3cim:MeasureValue ;
+.
+p3cim:InteriorWallSurface
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/tunnel/2.0/InteriorWallSurface> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tunnelShape ;
+    ] ;
+.
+p3cim:Intersection
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/TransportationComplex> ;
+.
+p3cim:Lagesbestamningsmetod
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:ThreeCIMRoot ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tidsperiodForUnderlagetsFramtagande ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:onClass p3cim:TypAvLagesbestamningsmetod ;
+      owl:onProperty p3cim:typ ;
+      owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+    ] ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:LandCover
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/landuse/2.0/LandUse> ;
+.
+p3cim:LandCoverClosureSurface
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/landuse/2.0/LandUse> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:ursprungsObjektUUID ;
+    ] ;
+.
+p3cim:Marking
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:ThreeCIMRoot ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:markingType ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:lod2MultiCurve ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:lod2Point ;
+    ] ;
+.
+p3cim:MeasureValue
+  rdf:type owl:DatatypeProperty ;
+.
+p3cim:PlantCover
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/vegetation/2.0/PlantCover> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:plantCoverSpeciesPopularName ;
+    ] ;
+.
+p3cim:Railway
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/Railway> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:trackGauge ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:intersectionOfRailway ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:sectionOfRailway ;
+    ] ;
+.
+p3cim:Road
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/Road> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:intersectionOfRoad ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:sectionOfRoad ;
+    ] ;
+.
+p3cim:Section
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/TransportationComplex> ;
+.
+p3cim:SolitaryVegetationObject
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/vegetation/2.0/SolitaryVegetationObject> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:solitaryVegetationSpeciesPopularName ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:lowerCrownHeight ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:solitaryVegetationWidth ;
+    ] ;
+.
+p3cim:ThreeCIMRoot
+  rdf:type owl:Class ;
+  rdfs:subClassOf owl:Thing ;
+.
+p3cim:Track
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/Track> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:intersectionOfTrack ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:sectionOfTrack ;
+    ] ;
+.
+p3cim:TrafficArea
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/transportation/2.0/TrafficArea> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:marking ;
+    ] ;
+.
+p3cim:Tunnel
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/tunnel/2.0/Tunnel> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tunnelTransportUUID ;
+    ] ;
+.
+p3cim:TunnelBoundarySurface
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/tunnel/2.0/_BoundarySurface> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tunnelMaterial ;
+    ] ;
+.
+p3cim:TypAvLagesbestamningsmetod
+  rdf:type owl:Class ;
+  rdfs:subClassOf p3cim:Codelist ;
+  owl:deprecated "true"^^xsd:boolean ;
+  owl:oneOf (
+      p3cim:TypAvLagesbestamningsmetod_GeodetiskDetaljmätning
+      p3cim:TypAvLagesbestamningsmetod_Interpolering
+      p3cim:TypAvLagesbestamningsmetod_Okänd
+      p3cim:TypAvLagesbestamningsmetod_VektoriseringAvAnalogtMaterial
+      p3cim:TypAvLagesbestamningsmetod_Konvertering
+      p3cim:TypAvLagesbestamningsmetod_Lägesplacering
+      p3cim:TypAvLagesbestamningsmetod_DetaljmätningILaserdata
+      p3cim:TypAvLagesbestamningsmetod_FotogrammetriskDetaljmätning
+    ) ;
+.
+p3cim:TypAvLagesbestamningsmetod_DetaljmätningILaserdata
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Detaljmätning i laserdata"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_FotogrammetriskDetaljmätning
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Fotogrammetrisk detaljmätning"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_GeodetiskDetaljmätning
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Geodetisk detaljmätning"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_Interpolering
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Interpolering"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_Konvertering
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Konvertering"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_Lägesplacering
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Lägesplacering"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_Okänd
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Okänd"@sv ;
+.
+p3cim:TypAvLagesbestamningsmetod_VektoriseringAvAnalogtMaterial
+  rdf:type p3cim:TypAvLagesbestamningsmetod ;
+  rdfs:label "Vektorisering av analogt material"@sv ;
+.
+p3cim:UUID
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+.
+p3cim:Utility
+  rdf:type owl:Class ;
+  rdfs:subClassOf core:_CityObject ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:class ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:utilityDiameter ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty <http://www.opengis.net/citygml/generics/2.0/lod1ImplicitRepresentation> ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:function ;
+    ] ;
+.
+p3cim:WaterBody
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/waterbody/2.0/WaterBody> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:waterLevel ;
+    ] ;
+.
+p3cim:Width
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:float ;
+  rdfs:subPropertyOf p3cim:MeasureValue ;
+.
+p3cim:_BridgeBoundarySurface
+  rdf:type owl:Class ;
+  rdfs:subClassOf <http://www.opengis.net/citygml/bridge/2.0/_BoundarySurface> ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:bridgeMaterial ;
+    ] ;
+.
+p3cim:absolutLagesosakerhet
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:float ;
+.
+p3cim:absolutLagesosakerhetHojd
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:absolutLagesosakerhet ;
+.
+p3cim:absolutLagesosakerhetPlan
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:absolutLagesosakerhet ;
+.
+p3cim:architecturalStyle
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:auxiliaryTrafficAreaId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/AuxiliaryTrafficArea> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:auxiliaryTrafficAreaVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/AuxiliaryTrafficArea> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+.
+p3cim:bridgeBoundarySurfaceId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:bridgeId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/bridge/2.0/_AbstractBridge> ;
+  rdfs:range xsd:string ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:bridgeMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:_BridgeBoundarySurface ;
+  rdfs:subPropertyOf p3cim:materialMaterial ;
+.
+p3cim:bridgeTransportUUID
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Bridge ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:bridgeVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/bridge/2.0/_AbstractBridge> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:buildingId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/building/2.0/_AbstractBuilding> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:buildingInstallationId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/building/2.0/BuildingInstallation> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:buildingInstallationVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/building/2.0/BuildingInstallation> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:buildingPartStatus
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/building/2.0/BuildingPart> ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:buildingVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/building/2.0/_AbstractBuilding> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:cityFurnitureId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/cityfurniture/2.0/CityFurniture> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:cityFurnitureRelativeHeight
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:CityFurniture ;
+  rdfs:subPropertyOf p3cim:Height ;
+.
+p3cim:cityFurnitureVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/cityfurniture/2.0/CityFurniture> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:cityFurnitureWidth
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:CityFurniture ;
+  rdfs:subPropertyOf p3cim:Width ;
+.
+p3cim:class
+  rdf:type owl:DatatypeProperty ;
+  rdf:type owl:ObjectProperty ;
+.
+p3cim:coClass
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:range p3cim:CoClass ;
+.
+p3cim:coClassId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:coClassProperty ;
+.
+p3cim:coClassKod
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:coClassProperty ;
+.
+p3cim:coClassProperty
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:CoClass ;
+  rdfs:range xsd:string ;
+.
+p3cim:coClassVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:coClassProperty ;
+.
+p3cim:code
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+.
+p3cim:color
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+.
+p3cim:connectsToGround
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingInstallation ;
+  rdfs:range xsd:boolean ;
+.
+p3cim:datumOchTid
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:dateTime ;
+.
+p3cim:externalObject
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain core:ExternalReferenceType ;
+  rdfs:range core:ExternalObjectReferenceType ;
+.
+p3cim:facadeAppearanceColor
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:color ;
+.
+p3cim:facadeAppearanceMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:materialMaterial ;
+.
+p3cim:facadeBaseAppearanceColor
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:color ;
+.
+p3cim:facadeBaseAppearanceMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:materialMaterial ;
+.
+p3cim:function
+  rdf:type owl:DatatypeProperty ;
+  rdf:type owl:ObjectProperty ;
+.
+p3cim:geometryMetadata
+  rdf:type owl:ObjectProperty ;
+  rdfs:range p3cim:GeometryMetadata ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:informationSystem
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:ExternalReferenceType ;
+  rdfs:range xsd:anyURI ;
+.
+p3cim:intersectionOfRailway
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/Railway> ;
+  rdfs:range p3cim:Intersection ;
+.
+p3cim:intersectionOfRoad
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:Road ;
+  rdfs:range p3cim:Intersection ;
+.
+p3cim:intersectionOfTrack
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:Track ;
+  rdfs:range p3cim:Intersection ;
+.
+p3cim:lagesbestamningsmetod
+  rdf:type owl:ObjectProperty ;
+  rdfs:range p3cim:Lagesbestamningsmetod ;
+.
+p3cim:lagesbestamningsmetodIHojd
+  rdf:type owl:ObjectProperty ;
+  rdfs:subPropertyOf p3cim:lagesbestamningsmetod ;
+.
+p3cim:lagesbestamningsmetodIPlan
+  rdf:type owl:ObjectProperty ;
+  rdfs:subPropertyOf p3cim:lagesbestamningsmetod ;
+.
+p3cim:lod2MultiCurve
+  rdf:type owl:ObjectProperty ;
+  rdfs:range <http://www.opengis.net/ont/sf#LineString> ;
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+p3cim:lod2Point
+  rdf:type owl:ObjectProperty ;
+  rdfs:range <http://www.opengis.net/ont/sf#Point> ;
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+p3cim:lowerCrownHeight
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:SolitaryVegetationObject ;
+  rdfs:range xsd:float ;
+  rdfs:subPropertyOf p3cim:Height ;
+.
+p3cim:marking
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:TrafficArea ;
+  rdfs:range p3cim:Marking ;
+.
+p3cim:markingId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Marking ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:markingType
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Marking ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:materialMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:metodIHojdTidsperiodFran
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:metodIHojdTidsperiodTill
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:metodIHojdTyp
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:metodIPlanTidsperiodFran
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:metodIPlanTidsperiodTill
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:metodIPlanTyp
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:name
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:ExternalObjectReferenceType ;
+  rdfs:range xsd:string ;
+.
+p3cim:objectUUID
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:osakertLage
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:parametricModuleSequenceType
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:plantCoverSpeciesPopularName
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:PlantCover ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:roofAppearanceColor
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:color ;
+.
+p3cim:roofAppearanceMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:materialMaterial ;
+.
+p3cim:sectionOfRailway
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:Railway ;
+  rdfs:range p3cim:Section ;
+.
+p3cim:sectionOfRoad
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:Road ;
+  rdfs:range p3cim:Section ;
+.
+p3cim:sectionOfTrack
+  rdf:type owl:ObjectProperty ;
+  rdfs:domain p3cim:Track ;
+  rdfs:range p3cim:Section ;
+.
+p3cim:solitaryVegetationSpeciesPopularName
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:SolitaryVegetationObject ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:solitaryVegetationWidth
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:SolitaryVegetationObject ;
+  rdfs:subPropertyOf p3cim:Width ;
+.
+p3cim:status
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:tidpunktForKontrollAvGeometri
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:tidpunktForLagesbestamning
+  rdf:type owl:DatatypeProperty ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:tidsperiodForUnderlagetsFramtagande
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range time:DateTimeInterval ;
+.
+p3cim:trackGauge
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Railway ;
+  rdfs:range xsd:integer ;
+.
+p3cim:trafficAreaId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/TrafficArea> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:trafficAreaVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/TrafficArea> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:transportationComplexId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/TransportationComplex> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:transportationComplexVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/transportation/2.0/TransportationComplex> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:tunnelBoundarySurfaceId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/tunnel/2.0/_BoundarySurface> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:tunnelId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/tunnel/2.0/_AbstractTunnel> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:tunnelMaterial
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:TunnelBoundarySurface ;
+  rdfs:range xsd:string ;
+  rdfs:subPropertyOf p3cim:materialMaterial ;
+.
+p3cim:tunnelShape
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:InteriorWallSurface ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:tunnelTransportUUID
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Tunnel ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:tunnelVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/tunnel/2.0/_AbstractTunnel> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:typ
+  rdf:type owl:ObjectProperty ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:uri
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:ExternalObjectReferenceType ;
+  rdfs:range xsd:anyURI ;
+.
+p3cim:ursprungsObjektUUID
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:LandCoverClosureSurface ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:utilityDiameter
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Utility ;
+  rdfs:subPropertyOf p3cim:Diameter ;
+.
+p3cim:utilityId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Utility ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:utilityVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:Utility ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:validFrom
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:validTo
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:subPropertyOf p3cim:datumOchTid ;
+.
+p3cim:vegetationObjectId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/vegetation/2.0/_VegetationObject> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+.
+p3cim:vegetationObjectVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/vegetation/2.0/_VegetationObject> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+.
+p3cim:version
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain core:_CityObject ;
+  rdfs:range xsd:integer ;
+.
+p3cim:versionId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:range xsd:integer ;
+.
+p3cim:waterBodyId
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/waterbody/2.0/WaterBody> ;
+  rdfs:subPropertyOf p3cim:UUID ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:waterBodyVersion
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain <http://www.opengis.net/citygml/waterbody/2.0/WaterBody> ;
+  rdfs:subPropertyOf p3cim:versionId ;
+  owl:deprecated "true"^^xsd:boolean ;
+.
+p3cim:waterLevel
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:WaterBody ;
+  rdfs:subPropertyOf p3cim:code ;
+.
+p3cim:windowFrameAppearanceColor
+  rdf:type owl:DatatypeProperty ;
+  rdfs:domain p3cim:BuildingPart ;
+  rdfs:subPropertyOf p3cim:color ;
+.
+core:ExternalObjectReferenceType
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:name ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:uri ;
+    ] ;
+.
+core:ExternalReferenceType
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:externalObject ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:informationSystem ;
+    ] ;
+.
+core:_CityObject
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:absolutLagesosakerhetHojd ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:absolutLagesosakerhetPlan ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIHojdTidsperiodFran ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIHojdTidsperiodTill ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIHojdTyp ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIPlanTidsperiodFran ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIPlanTidsperiodTill ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:metodIPlanTyp ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:objectUUID ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:osakertLage ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:status ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tidpunktForKontrollAvGeometri ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:tidpunktForLagesbestamning ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:version ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:validFrom ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:validTo ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:minCardinality "0"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:coClass ;
+    ] ;
+.
+<http://www.opengis.net/citygml/building/2.0/IntBuildingInstallation>
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:connectsToGround ;
+    ] ;
+.
+<http://www.opengis.net/citygml/building/2.0/_AbstractBuilding>
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:buildingId ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:buildingVersion ;
+    ] ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/AuxiliaryTrafficArea>
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:auxiliaryTrafficAreaId ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:auxiliaryTrafficAreaVersion ;
+    ] ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/_VegetationObject>
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:vegetationObjectId ;
+    ] ;
+  rdfs:subClassOf [
+      rdf:type owl:Restriction ;
+      owl:cardinality "1"^^xsd:nonNegativeInteger ;
+      owl:onProperty p3cim:vegetationObjectVersion ;
+    ] ;
+.

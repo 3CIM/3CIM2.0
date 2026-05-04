@@ -1,0 +1,415 @@
+# baseURI: http://digitalsamverkan.se/ont/3cim--geosparql
+# imports: http://digitalsamverkan.se/ont/3cim
+# imports: http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf
+# prefix: p3cim--geosparql
+
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix p3cim: <http://digitalsamverkan.se/ont/3cim#> .
+@prefix p3cim--geosparql: <http://digitalsamverkan.se/ont/3cim--geosparql#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://digitalsamverkan.se/ont/3cim--geosparql>
+  rdf:type owl:Ontology ;
+  rdfs:label "3CIM--geosparql alignment"@en ;
+  rdfs:label "Mappningsontologi 3CIM-geosparql"@sv ;
+  owl:imports <http://digitalsamverkan.se/ont/3cim> ;
+  owl:imports <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf> ;
+  owl:priorVersion <http://digitalsamverkan.se/ont/3cim--geosparql/1.0> ;
+  owl:versionIRI <http://digitalsamverkan.se/ont/3cim--geosparql/2.0> ;
+  owl:versionInfo "2.0" ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod1Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod1ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod1Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod1TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod2TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod3TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod4MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/bridge/2.0/lod4Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod0FootPrint>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod0RoofEdge>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod1Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod1TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod2TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod3TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/building/2.0/lod4TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod1Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod1ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod1TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod2TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod3TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/cityfurniture/2.0/lod4TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod0Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod0ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod0TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod1Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod1ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod1TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod2TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod3TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/generics/2.0/lod4TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/landuse/2.0/lod0MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/landuse/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/landuse/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/landuse/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/landuse/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/lod0Network>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/transportation/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod1Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod1TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod2TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod3TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/tunnel/2.0/lod4TerrainIntersection>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod1Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod1ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod1MultiSolid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod2Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod2ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod2MultiSolid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod2MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod3Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod3ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod3MultiSolid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod3MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod4Geometry>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod4ImplicitRepresentation>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod4MultiSolid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/vegetation/2.0/lod4MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod0MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod0MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod1MultiCurve>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod1MultiSurface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod1Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod2Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod2Surface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod3Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod3Surface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod4Solid>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/citygml/waterbody/2.0/lod4Surface>
+  rdfs:subPropertyOf <http://www.opengis.net/ont/geosparql#hasGeometry> ;
+.
+<http://www.opengis.net/gml/AbstractFeatureType>
+  rdfs:subClassOf <http://www.opengis.net/ont/geosparql#Feature> ;
+.
