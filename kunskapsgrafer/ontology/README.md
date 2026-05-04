@@ -3,12 +3,12 @@
 The 3CIM ontology is an extension of OntoCityGML, a CityGML 2.0 ontology developed by the University of Geneva (Chadzynski et al., 2021).
 
 The 3CIM ontology is stored in two (Turtle) files
-- 3cim.ttl 		contains an RDFS/OWL-ontology based on the conceptual model available here: https://github.com/3CIM/3CIM2.0/tree/main/schema. 
+- 3cim.ttl contains an RDFS/OWL-ontology based on the conceptual model available here: https://github.com/3CIM/3CIM2.0/tree/main/schema. 
 The ontology imports and extends concepts from OntoCityGML.
-- 3cim--geosparql.ttl 	contains an alignment ontology (RDFS/OWL) linking 3CIM/OntoCityGML concepts with OGC GeoSPARQL (https://www.ogc.org/standards/geosparql/) according to what is 
+- 3cim--geosparql.ttl	contains an alignment ontology (RDFS/OWL) linking 3CIM/OntoCityGML concepts with OGC GeoSPARQL (https://www.ogc.org/standards/geosparql/) according to what is 
 outlined in a paper by the University of Lyon (Diego Vinasco-Alvarez et al. 2024). 
-
-The file test3CIM.ttl contains a small example with a single individual (belonging to class veg:SolitaryVegetationObject) to illustrate and test the use of 3CIM including GeoSPARQL 
+- test3CIM.ttl contains a small example with a single individual (belonging to class veg:SolitaryVegetationObject) to illustrate and test the use of 3CIM including GeoSPARQL 
+- catalog-v001.xml is a parameter file for the 3CIM ontology to Protege. Have to be updated depending on your settings.  
 
 The 3CIM ontology was developed by Lars Wikström, Triona, Sweden, in the project "Interoperabilitet – Digital samverkan för den byggda miljön", see https://smartbuilt.se/projekt/informationsinfrastruktur/interoperabilitet-digital-samverkan-for-den-byggda-miljon/
 
